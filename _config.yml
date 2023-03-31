@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ijaz Ahmad"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Ijaz Ahmad"
-description              : &description "PhD Student @ Chosun University"
-url                      : https://ijazai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ijazai/ijazai.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ijaz Ahmad"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD Student at Chosun University in Department of Computer Engineering"
-  location         : "Gwangju"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ijazai"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
