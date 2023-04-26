@@ -22,14 +22,3 @@ Nonetheless, to avoid any pitfalls, their principal design should be carefully c
 which we outlined possible future research directions.</p>
 
 [Full Article](https://www.mdpi.com/1424-8220/23/8/4057)
-
-Recommended citation: @article{ahmad2023comprehensive,
-  title={Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives},
-  author={Ahmad, Ijaz and Choi, Wooyeol and Shin, Seokjoo},
-  journal={Sensors},
-  volume={23},
-  number={8},
-  pages={4057},
-  year={2023},
-  publisher={MDPI}
-}.
