@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives"
 collection: publications
-permalink: /publication/2023-04-17-paper-title-number-4.md
+permalink: /publication/2023-04-17-paper-title-number-4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-17
 venue: 'Sensors'
