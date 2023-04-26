@@ -6,14 +6,26 @@ author_profile: true
 ---
 
 <h2>Journals</h2>
+
+<b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
+Ijaz Ahmad, Wooyeol Choi and Seokjoo Shin<br>
+Sensors, vol. 23, no. 8, p. 4057, doi: 10.3390/s23084057, Apr. 2023. <br>
+[<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">link</a>]<br>
+
+<b>IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning</b><br>
+Ijaz Ahmad and Seokjoo Shin<br>
+Sensors, vol. 22, no. 20, p. 8074, doi: 10.3390/s22208074, Oct. 2022. <br>
+[<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">link</a>]<br>
+
+<b>A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services</b> <br>
+Ijaz Ahmad and Seokjoo Shin<br>
+Electronics, vol. 11, no. 16, p. 2514, doi: 10.3390/electronics11162514, Aug. 2022. <br>
+[<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">link</a>]<br>
+
 <b>A novel hybrid image encryption–compression scheme by combining chaos theory and number theory</b><br>
-Ijaz Ahmad and Seokjoo Shin</br>
+Ijaz Ahmad and Seokjoo Shin<br>
 Signal Processing: Image Communication, vol. 98, p. 116418, doi: 10.1016/j.image.2021.116418, Oct. 2021. <br>
 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">link</a>]<br>
-
-<b>I. Ahmad</b> and S. Shin, “<i>A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services</i>” Electronics, vol. 11, no. 16, p. 2514, Aug. 2022, doi: 10.3390/electronics11162514. [<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">link</a>]<br>
-
-<b>I. Ahmad</b> and S. Shin, “<i>IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning</i>” Sensors, vol. 22, no. 20, p. 8074, Oct. 2022, doi: 10.3390/s22208074. [<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 
 <h2>International Conferences</h2>
