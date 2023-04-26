@@ -5,9 +5,9 @@ permalink: /publication/2023-04-17-paper-title-number-4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-17
 venue: 'Sensors'
-<!--paperurl: 'https://www.mdpi.com/1424-8220/23/8/4057'
+paperurl: 'https://www.mdpi.com/1424-8220/23/8/4057'
 citation: 'Your Name, You. (2009). &quot;Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning.&quot; <i>Journal 1</i>. 1(1).'
--->
+
 ---
 <h3>Abstract</h3>
 <p>Perceptual encryption (PE) hides the identifiable information of an image in such a way that its intrinsic characteristics remain intact.
@@ -23,8 +23,9 @@ subsampling, respectively. Additionally, their encryption quality is quantified 
 The simulation results show that block-based PE methods exhibit several favorable properties for the encryption-then-compression schemes. 
 Nonetheless, to avoid any pitfalls, their principal design should be carefully considered in the context of the applications for 
 which we outlined possible future research directions.</p>
-<!--This paper is about the number 1. The number 2 is left for future work. -->
+
+This paper is about the number 1. The number 2 is left for future work.
 
 [Full Article](https://www.mdpi.com/1424-8220/23/8/4057)
 
-<!--Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
