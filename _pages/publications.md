@@ -11,7 +11,7 @@ author_profile: true
 Ijaz Ahmad, Wooyeol Choi and Seokjoo Shin<br>
 Sensors, vol. 23, no. 8, p. 4057, doi: 10.3390/s23084057, Apr. 2023. <br>
 [<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">link</a>]
-[Link to a page]({{ site.baseurl }}{% link _publications/2023-04-17-paper-title-number-4.md %}) <br>
+[Summaryto a page]({{ site.baseurl }}{% link _publications/2023-04-17-paper-title-number-4.md %}) <br>
 
 <b>IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin<br>
