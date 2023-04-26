@@ -21,8 +21,15 @@ The simulation results show that block-based PE methods exhibit several favorabl
 Nonetheless, to avoid any pitfalls, their principal design should be carefully considered in the context of the applications for 
 which we outlined possible future research directions.</p>
 
-This paper is about the number 1. The number 2 is left for future work.
-
 [Full Article](https://www.mdpi.com/1424-8220/23/8/4057)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: @article{ahmad2023comprehensive,
+  title={Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives},
+  author={Ahmad, Ijaz and Choi, Wooyeol and Shin, Seokjoo},
+  journal={Sensors},
+  volume={23},
+  number={8},
+  pages={4057},
+  year={2023},
+  publisher={MDPI}
+}.
