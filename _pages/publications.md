@@ -17,17 +17,19 @@ Sensors, vol. 23, no. 8, p. 4057, doi: 10.3390/s23084057, Apr. 2023. <br>
 Ijaz Ahmad and Seokjoo Shin<br>
 Sensors, vol. 22, no. 20, p. 8074, doi: 10.3390/s22208074, Oct. 2022. <br>
 [<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2009-10-01-paper-title-number-1.md %}) <br>
+[SummaryX]({{ site.baseurl }}{% link _publications/2022-10-21-paper-title-number-J3.md %}) <br>
 
 <b>A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services</b> <br>
 Ijaz Ahmad and Seokjoo Shin<br>
 Electronics, vol. 11, no. 16, p. 2514, doi: 10.3390/electronics11162514, Aug. 2022. <br>
-[<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">Full Article</a>]
+[SummaryX]({{ site.baseurl }}{% link _publications/2022-08-11-paper-title-number-J2.md %}) <br>
 
 <b>A novel hybrid image encryption–compression scheme by combining chaos theory and number theory</b><br>
 Ijaz Ahmad and Seokjoo Shin<br>
 Signal Processing: Image Communication, vol. 98, p. 116418, doi: 10.1016/j.image.2021.116418, Oct. 2021. <br>
-[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
+[SummaryX]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %}) <br>
 
 
 <h2>International Conferences</h2>
