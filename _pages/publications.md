@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 <h2>Journals</h2>
-<b>I. Ahmad</b> and S. Shin, “<i>A novel hybrid image encryption–compression scheme by combining chaos theory and number theory</i>” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">link</a>]<br>
+<b>A novel hybrid image encryption–compression scheme by combining chaos theory and number theory</b><br>
+Ijaz Ahmad and Seokjoo Shin</br>
+Signal Processing: Image Communication, vol. 98, p. 116418, doi: 10.1016/j.image.2021.116418, Oct. 2021. <br>
+[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 <b>I. Ahmad</b> and S. Shin, “<i>A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services</i>” Electronics, vol. 11, no. 16, p. 2514, Aug. 2022, doi: 10.3390/electronics11162514. [<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">link</a>]<br>
 
