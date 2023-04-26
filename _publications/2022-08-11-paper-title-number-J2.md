@@ -1,24 +1,22 @@
 ---
-title: "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives"
+title: "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services"
 collection: publications
-permalink: /publication/2023-04-17-paper-title-number-4
-date: 2023-04-17
-venue: 'Sensors'
+permalink: /publication/2022-08-11-paper-title-number-J2
+date: 2022-08-11
+venue: 'Electronics'
 
 ---
 <h3>Abstract</h3>
-<p>Perceptual encryption (PE) hides the identifiable information of an image in such a way that its intrinsic characteristics remain intact.
-This recognizable perceptual quality can be used to enable computation in the encryption domain. A class of PE algorithms based 
-on block-level processing has recently gained popularity for their ability to generate JPEG-compressible cipher images. 
-A tradeoff in these methods, however, is between the security efficiency and compression savings due to the chosen block size. 
-Several methods (such as the processing of each color component independently, image representation, and sub-block-level processing) 
-have been proposed to effectively manage this tradeoff. The current study adapts these assorted practices into a uniform framework to 
-provide a fair comparison of their results. Specifically, their compression quality is investigated under various design parameters, 
-such as the choice of colorspace, image representation, chroma subsampling, quantization tables, and block size. Our analyses have 
-shown that at best the PE methods introduce a decrease of 6% and 3% in the JPEG compression performance with and without chroma 
-subsampling, respectively. Additionally, their encryption quality is quantified in terms of several statistical analyses. 
-The simulation results show that block-based PE methods exhibit several favorable properties for the encryption-then-compression schemes. 
-Nonetheless, to avoid any pitfalls, their principal design should be carefully considered in the context of the applications for 
-which we outlined possible future research directions.</p>
+<p>Block-based perceptual encryption (PE) algorithms are becoming popular for multimedia data protection because of their low 
+computational demands and format-compliancy with the JPEG standard. In conventional methods, a colored image as an input is a 
+prerequisite to enable smaller block size for better security. However, in domains such as medical image processing, unavailability 
+of color images makes PE methods inadequate for their secure transmission and storage. Therefore, this study proposes a PE method 
+that is applicable for both color and grayscale images. In the proposed method, efficiency is achieved by considering smaller block 
+size in encryption steps that have negligible effect on the compressibility of an image. The analyses have shown that the proposed
+ system offers better security with only 12% more bitrate requirement as opposed to 113% in conventional methods. As an application 
+ of the proposed method, we have considered a smart hospital that avails healthcare cloud services to outsource their deep learning (DL) 
+ computations and storage needs. The EfficientNetV2-based model is implemented for automatic tuberculosis (TB) diagnosis in chest X-ray 
+ images. In addition, we have proposed noise-based data augmentation method to address data deficiency in medical image analysis. As a
+ result, the model accuracy was improved by 10%.</p>
 
-[Full Article](https://www.mdpi.com/1424-8220/23/8/4057)
+[Full Article](https://www.mdpi.com/2079-9292/11/16/2514)
