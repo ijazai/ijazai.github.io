@@ -36,7 +36,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
-Nazmul Islam, Ijaz Ahmad, and Seokjoo Shin <br>
+Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">link</a>]<br>
 
@@ -45,7 +45,7 @@ Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 224–229, Jan. 2023.[<b>BEST PAPER AWARD</b>]<br>
 [<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">link</a>]<br>
 
-<b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System<b><br>
+<b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
 Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
 IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">link</a>]<br>
@@ -61,12 +61,12 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 249-252, O
 [<a href="https://www.earticle.net/Article/A419789" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 <b>Privacy-Preserving Surveillance for Smart Cities</b><br>
-Ijaz Ahmad, Eunkyung Kim, Suk-Seung Hwang, and Seokjoo Shin <br>
+Ijaz Ahmad, Eunkyung Kim, Suk-Seung Hwang and Seokjoo Shin <br>
 IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306, Jul. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 <b>Determining Jigsaw Puzzle State from an Image based on Deep Learning</b><br>
-Ijaz Ahmad, Suk-Seung Hwang, and Seokjoo Shin <br>
+Ijaz Ahmad, Suk-Seung Hwang and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 030–032, Feb. 2022. 
 [<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">link</a>]<br>
 
@@ -91,6 +91,7 @@ IEEE International Conference on Information Networking (ICOIN): 634–636, Jan.
 [<a href="https://ieeexplore.ieee.org/document/9016442" target="_blank" style="color:#64B2CB">link</a>]<br>
 
 <b>Just-Noticeable-Difference Based Edge Map Quality Measure</b><br>
+Ijaz Ahmad and Seokjoo Shin <br>
 KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22, 2018.[<b>BEST POSTER AWARD</b>]<br>
 [<a href="https://arxiv.org/abs/2204.03155" target="_blank" style="color:#64B2CB">link</a>]<br>
 
@@ -113,6 +114,12 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 
 <h2>National Conferences</h2>
+
+<b>Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection</b><br>
+Ijaz Ahmad and Seokjoo Shin <br>
+KICS Fall Conference (2022년도 추계종합학술발표회): 458-459, Nov. 2022. <br>
+[<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11197142" target="_blank" style="color:#64B2CB">link</a>]<br>
+
 <b>I. Ahmad</b> and S. Shin, “<i>Analysis of Chinese Remainder Theorem Moduli for Image Compression</i>” presented at the KICS Fall Conference, Kookmin University, Seoul, Korea, Kookmin University, Seoul, Korea, Nov. 2019, pp. 108–109.<br>
 
 <b>I. Ahmad</b> and S. Shin, “<i>Channel Model for End-to-End Learning of Communications Systems: A Survey</i>” in Korean Institute of Smart Media, Chosun University, Korea, 23/05 2020, pp. 209–212.<br>
