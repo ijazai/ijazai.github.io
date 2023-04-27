@@ -107,7 +107,8 @@ KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22,
 <b>Color-to-grayscale algorithms effect on edge detection—A comparative study</b><br>
 Ijaz Ahmad, Inkyu Moon and Seokjoo Shin <br>
 IEEE International Conference on Electronics, Information, and Communication (ICEIC): 1-4, Jan. 2018.<br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/8330719" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/8330719" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2018-01-24-paper-title-number-IC1.md %}) <br><br>
 
 
 
