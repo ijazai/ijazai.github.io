@@ -38,8 +38,8 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
 <br><u>Description</u>: <i> "To improve the classification
-performance of the deep learning models on the JPEG compressed images, we propose a noise-based
-data augmentation technique called noise-cuts-noise approach"</i><br>
+performance of the trained deep learning models (inference phase) on the JPEG compressed images, we propose a noise-based
+data augmentation technique called noise-cuts-noise approach"</i><br><br>
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
@@ -47,6 +47,7 @@ data augmentation technique called noise-cuts-noise approach"</i><br>
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
+<br><u>Description</u>: <i> "Image data transmission over a wireless communication channel is suceptible to distortions. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes."</i><br><br>
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
 
@@ -54,6 +55,12 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 224–229, Jan. 2023.[<b>BEST PAPER AWARD</b>]<br>
+<br><u>Description</u>: <i> "When the image data are outsourced to avail
+third-party owned resources such cloud computation services, there is a privacy concern that the data should be
+kept protected not only during transmission but during
+computations as well. To meet these requirements, we
+proposed a privacy-preserving Deep Learng (PPDL) scheme based on perceptual encryption, that enable
+computations without the need of decryption." </i><br><br>
 [<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-01-11-paper-title-number-IC13.md %})<br>
 
