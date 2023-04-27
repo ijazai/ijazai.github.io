@@ -131,7 +131,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-02-21-paper-title-number-IC8.md %})<br>
 
-<u>Description</u>: <i> We proposed a deep learning-based method to determine different states of the jigsaw puzzle from an input image.<span id="dotsC8">...</span><span id="moreC8" style="display:none">
+<u>Description</u>: <i> We proposed a deep learning-based method to determine state of the jigsaw puzzle in an input image.<span id="dotsC8">...</span><span id="moreC8" style="display:none">
 The task is represented as a classification problem where each state of the puzzle is considered as a class. As an application, we have shown that the trained model can be used as a fitness function of genetic algorithm-based jigsaw puzzle solver.</span></i>
 <button onclick="moreLessFtn('dotsC8','moreC8','moreLessBttnC8')" id="moreLessBttnC8" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
@@ -144,7 +144,7 @@ IEEE International Conference on Information Networking (ICOIN): 30–33, Jan. 2
 [<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})<br>
 
-<u>Description</u>: <i>We first extend the applications of perceptual encryption-based encryption-then-compression (EtC) schemes to image processing domain <span id="dotsC7">...</span><span id="moreC7" style="display:none"> to satisfy the dual requirement of a communication system (that is compression and encryption). Then given the importance of medical images data, we propose a method to improve the security of the conventional EtC methods. We have implemented a deep learning model for tuberculosis screeining in Montgomery datasets.</span></i>
+<u>Description</u>: <i>We extend the applications of perceptual encryption-based encryption-then-compression (EtC) schemes to medical image processing domain <span id="dotsC7">...</span><span id="moreC7" style="display:none"> to satisfy the dual requirement of a communication system (that is compression and encryption). Given the importance of medical images data, we propose a method to improve the security of the conventional EtC methods. We have implemented a deep learning model for tuberculosis screeining in Montgomery datasets.</span></i>
 <button onclick="moreLessFtn('dotsC7','moreC7','moreLessBttnC7')" id="moreLessBttnC7" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
