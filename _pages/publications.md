@@ -45,9 +45,9 @@ data augmentation technique called noise-cuts-noise approach"</i><br><br>
 
 <button onclick="showFunction()">Try it</button>
 
-<div id="myDIV">
+<p id="myDIV" style="display:none">
 This is my DIV element.
-</div>
+</p>
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
