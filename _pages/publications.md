@@ -4,7 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<style>
+.moreLessBttn{
+	color: black;
+	border: none;
+}
+</style>
 <h2>Journals</h2>
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
@@ -38,11 +43,11 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
 
-<br><u>Description</u>: <i> "To improve the classification
+<u>Description</u>: <i> To improve the classification
 performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
-data augmentation technique called noise-cuts-noise approach".</span></i>
-<button onclick="moreLessFtn()" id="myBtn">Read more</button><br>
+data augmentation technique called noise-cuts-noise approach.</span></i>
+<button onclick="moreLessFtn()" id="moreLessBttn">Read more</button><br>
 
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
@@ -263,7 +268,7 @@ Ijaz Ahmad and Seokjoo Shin <br>
 function moreLessFtn() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+  var btnText = document.getElementById("moreLessBttn");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
