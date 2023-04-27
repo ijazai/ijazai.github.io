@@ -15,7 +15,7 @@ information as much as possible while keeping the resulted
 visible artifacts at a minimum. However, these unperceivable
 defects significantly degrade the performance of a trained deep
 learning (DL) model. Therefore, to improve the classification
-performance of the models on noisy images, we propose a noisebased
+performance of the models on noisy images, we propose a noise-based
 data augmentation technique called noise-cuts-noise
 approach. The simulation analysis have shown that the
 proposed method efficiently mitigates the performance gap on
