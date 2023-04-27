@@ -156,9 +156,9 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 244-246, N
 [<a href="https://kingpc.or.kr/" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-11-06-paper-title-number-IC6.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> We extend our ICAIIC 2021's approach to run pre-trained models on grayscale images <span id="dotsC6">...</span><span id="moreC6" style="display:none">
+while benefiting from transfer learning for multiclass classification problem.</span></i>
+<button onclick="moreLessFtn('dotsC6','moreC6','moreLessBttnC6')" id="moreLessBttnC6" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -169,9 +169,9 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/9415275" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-04-13-paper-title-number-IC5.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i>Grayscale images have smaller sizes than color images thereby, can enable real time computer vision applications <span id="dotsC5">...</span><span id="moreC5" style="display:none">
+in scenarios where there is constraint on device memory and available bandwidth. We propose an approach to run pre-trained models on grayscale images for binary classification task. </span></i>
+<button onclick="moreLessFtn('dotsC5','moreC5','moreLessBttnC5')" id="moreLessBttnC5" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -182,9 +182,9 @@ ACM International Conference on Smart Media and Applications (SMA): 34–38, Sep
 [<a href="https://dl.acm.org/doi/fullHtml/10.1145/3426020.3426027" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2020-09-17-paper-title-number-IC4.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> We propose a method for selective compression and selectinve encryption of medical images. <span id="dotsC4">...</span><span id="moreC4" style="display:none">
+It is based on lossless compression and encryption of the region-of-interest (ROI) in medical images. The non-ROI part of the image is compressed in lossy mode and is stored or transmitted as plain data, in order to further reduce the image size and to avoid the computational cost of encrypting huge volumes of medical images.</span></i>
+<button onclick="moreLessFtn('dotsC4','moreC4','moreLessBttnC4')" id="moreLessBttnC4" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -195,9 +195,11 @@ IEEE International Conference on Information Networking (ICOIN): 634–636, Jan.
 [<a href="https://ieeexplore.ieee.org/document/9016442" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2020-01-07-paper-title-number-IC3.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> Chinese remainder theorem (CRT) forms the
+foundation of recent simultaneous encryption and compression
+schemes for image data. <span id="dotsC3">...</span><span id="moreC3" style="display:none">
+We analyze the number of moduli (i.e. block size) and their values effect on the compression performance of CRT methods.</span></i>
+<button onclick="moreLessFtn('dotsC3','moreC3','moreLessBttnC3')" id="moreLessBttnC3" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -208,9 +210,10 @@ KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22,
 [<a href="https://arxiv.org/abs/2204.03155" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2018-12-21-paper-title-number-IC2.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+<u>Description</u>: <i>We propose edge map quality measure based on Just-Noticeable-Difference (JND) feature of human visual
+system <span id="dotsC2">...</span><span id="moreC2" style="display:none">, to compensate the shortcomings of distance-based edge measures. For this purpose, we design constant stimulus experiment to measure the JND value for two spatial alternative.
 .</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC2','moreC2','moreLessBttnC2')" id="moreLessBttnC2" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -221,6 +224,10 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 [<a href="https://ieeexplore.ieee.org/abstract/document/8330719" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2018-01-24-paper-title-number-IC1.md %}) <br>
 
+<u>Description</u>: <i> We evaluate the impact of various color-to-grayscale algorithms in edge detection. <span id="dotsC1">...</span><span id="moreC1" style="display:none"> We implement ten different color-to-grayscale conversion algorithms and the resultant grayscale images were further tested with eight different edge detection algorithms.</span></i>
+<button onclick="moreLessFtn('dotsC1','moreC1','moreLessBttnC1')" id="moreLessBttnC1" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 
