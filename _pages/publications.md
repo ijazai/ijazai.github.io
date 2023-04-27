@@ -39,10 +39,10 @@ Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
 
 <u>Description</u>: <i> To improve the classification
-performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
+performance of the trained deep learning models<span id="dotsC15">...</span><span id="moreC15" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read more</button>
+<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent">Read more</button>
 
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br><br>
@@ -53,8 +53,8 @@ data augmentation technique called noise-cuts-noise approach.</span></i>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
 
-<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dots">...</span><span id="more" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
-<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read more</button>
+<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
+<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent">Read more</button>
 
 
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
@@ -264,10 +264,10 @@ Ijaz Ahmad and Seokjoo Shin <br>
 
 
 <script>
-function moreLessFtn() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("moreLessBttn");
+function myFunction(dotsID, moreID, myBtnID) {
+  var dots = document.getElementById(dotsID);
+  var moreText = document.getElementById(moreID);
+  var btnText = document.getElementById(myBtnID);
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
