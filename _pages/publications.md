@@ -95,8 +95,7 @@ IEEE International Conference on Information and Communication Technology Conver
 [<a href="https://ieeexplore.ieee.org/document/9952589" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC11.md %})<br>
 
-<u>Description</u>: <i> For an efficient edge-cloud collaboaration to enable AI-based IoT applications, the trained models should be periodically trained on the most recent data. <span id="dotsC11">...</span><span id="moreC11" style="display:none">
-This necessitates teh data share between cloud and edge servers. However, the data acquired by IoT end devices usually consists of sensitive information and sharing them with cloud services provider results in users' privacy concern. To this end, we propose perceptual encryption-based method to enable DL computations in encryption domain in order to protect users' privacy. </span></i>
+<u>Description</u>: <i> For an efficient edge-cloud collaboaration to enable AI-based IoT applications <span id="dotsC11">...</span><span id="moreC11" style="display:none">, the trained models should be periodically trained on the most recent data. This necessitates teh data share between cloud and edge servers. However, the data acquired by IoT end devices usually consists of sensitive information and sharing them with cloud services provider results in users' privacy concern. To this end, we propose perceptual encryption-based method to enable DL computations in encryption domain in order to protect users' privacy. </span></i>
 <button onclick="moreLessFtn('dotsC11','moreC11','moreLessBttnC11')" id="moreLessBttnC11" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
@@ -107,9 +106,9 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 249-252, O
 [<a href="https://www.earticle.net/Article/A419789" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-08-paper-title-number-IC10.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> The design of lossy algorithms is based on a principle to discard information that are not perceivable by human visual system (HVS). <span id="dotsC10">...</span><span id="moreC10" style="display:none">
+With the popularity of deep learning models (DL) in computer vision (CV), it is necessary to characterize the loss in image quality with respect to computer vision systems as well.  We present a quantitative assessment of different types of data loss that occurs due to chroma subsampling, quantization, and rounding functions of the JPEG algorithm.</span></i>
+<button onclick="moreLessFtn('dotsC10','moreC10','moreLessBttnC10')" id="moreLessBttnC10" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -119,9 +118,9 @@ IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306,
 [<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-07-05-paper-title-number-IC9.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> We present an application of perceptual encryption for privacy-preserving face recognition task. <span id="dotsC9">...</span><span id="moreC9" style="display:none">
+The main advantage of the proposed method is that it retains color information and the encryption has no effect on the ML algorithm accuracy.</span></i>
+<button onclick="moreLessFtn('dotsC9','moreC9','moreLessBttnC9')" id="moreLessBttnC9" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -132,9 +131,9 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-02-21-paper-title-number-IC8.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> We proposed a deep learning-based method to determine different states of the jigsaw puzzle from an input image.<span id="dotsC8">...</span><span id="moreC8" style="display:none">
+The task is represented as a classification problem where each state of the puzzle is considered as a class. As an application, we have shown that the trained model can be used as a fitness function of genetic algorithm-based jigsaw puzzle solver.</span></i>
+<button onclick="moreLessFtn('dotsC8','moreC8','moreLessBttnC8')" id="moreLessBttnC8" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
@@ -145,9 +144,8 @@ IEEE International Conference on Information Networking (ICOIN): 30–33, Jan. 2
 [<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})<br>
 
-<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
-.</span></i>
-<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i>We first extend the applications of perceptual encryption-based encryption-then-compression (EtC) schemes to image processing domain <span id="dotsC7">...</span><span id="moreC7" style="display:none"> to satisfy the dual requirement of a communication system (that is compression and encryption). Then given the importance of medical images data, we propose a method to improve the security of the conventional EtC methods. We have implemented a deep learning model for tuberculosis screeining in Montgomery datasets.</span></i>
+<button onclick="moreLessFtn('dotsC7','moreC7','moreLessBttnC7')" id="moreLessBttnC7" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
 
