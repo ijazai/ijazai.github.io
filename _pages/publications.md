@@ -37,32 +37,32 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 <b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
+[<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
 <u>Description</u>: <i> To improve the classification
 performance of the trained deep learning models<span id="dotsC15">...</span><span id="moreC15" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent">Read more</button>
-
-[<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br><br>
+<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent"><i>Read more</i></button>
 
 
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
-
-<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
-<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent">Read more</button>
-
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
+
+<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
+<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent"><i>Read more</i></button>
 
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 224–229, Jan. 2023.[<b>BEST PAPER AWARD</b>]<br>
+[<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-01-11-paper-title-number-IC13.md %})<br>
 
 <u>Description</u>: <i> When the image data are outsourced to avail
 third-party owned resources<span id="dotsC13">...</span><span id="moreC13" style="display:none">
@@ -71,11 +71,7 @@ kept protected not only during transmission but during
 computations as well. To meet these requirements, we
 proposed a privacy-preserving Deep Learng (PPDL) scheme based on perceptual encryption, that enable
 computations without the need of decryption.</span></i>
-<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent">Read more</button>
-
-
-[<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2023-01-11-paper-title-number-IC13.md %})<br>
+<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent"><i>Read more</i></button>
 
 
 <b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
@@ -83,6 +79,7 @@ Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
 IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
+
 
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications</b><br>
