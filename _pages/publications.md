@@ -43,6 +43,11 @@ data augmentation technique called noise-cuts-noise approach"</i><br><br>
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV">
+This is my DIV element.
+</div>
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
@@ -251,3 +256,16 @@ Ijaz Ahmad and Seokjoo Shin <br>
  (): , . 2021. <br>
 [<a href="" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 -->
+
+
+
+<script>
+function showFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
