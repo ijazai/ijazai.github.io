@@ -38,10 +38,10 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
 
-<br><p><u>Description</u>: <i> "To improve the classification
+<br><u>Description</u>: <i> "To improve the classification
 performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
-data augmentation technique called noise-cuts-noise approach"</i>.</span></p>
+data augmentation technique called noise-cuts-noise approach".</span></i>
 <button onclick="moreLessFtn()" id="myBtn">Read more</button><br>
 
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
