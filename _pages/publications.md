@@ -44,7 +44,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 performance of the trained deep learning models<span id="dotsC15">...</span><span id="moreC15" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent"><i>Read more</i></button>
+<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent; color:dodgerblue"><i>Read more</i></button>
 
 
 
@@ -55,7 +55,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
 
 <u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
-<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent"><i>Read more</i></button>
+<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent; color:dodgerblue"><i>Read more</i></button>
 
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</b><br>
@@ -71,7 +71,7 @@ kept protected not only during transmission but during
 computations as well. To meet these requirements, we
 proposed a privacy-preserving Deep Learng (PPDL) scheme based on perceptual encryption, that enable
 computations without the need of decryption.</span></i>
-<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent"><i>Read more</i></button>
+<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent; color:dodgerblue"><i>Read more</i></button>
 
 
 <b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
