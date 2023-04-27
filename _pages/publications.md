@@ -71,7 +71,7 @@ IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306,
 
 <b>Determining Jigsaw Puzzle State from an Image based on Deep Learning</b><br>
 Ijaz Ahmad, Suk-Seung Hwang and Seokjoo Shin <br>
-IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 030–032, Feb. 2022. 
+IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 030–032, Feb. 2022.<br> 
 [<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 <b>Encryption-then-Compression System for Cloud-based Medical Image Services</b><br>
