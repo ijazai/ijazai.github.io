@@ -238,9 +238,6 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 
 
-
-
-
 <h2>National Conferences</h2>
 
 <b>Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection</b><br>
