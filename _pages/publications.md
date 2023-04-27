@@ -37,78 +37,110 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 <b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
-[<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+<u>Description</u>:...to improve the classification
+performance of the models on noisy images, we propose a noisebased
+data augmentation technique called noise-cuts-noise
+approach ...<br>
+[<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
+
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
-[<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
+
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 224–229, Jan. 2023.[<b>BEST PAPER AWARD</b>]<br>
-[<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-01-11-paper-title-number-IC13.md %})<br>
+
 
 <b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
 Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
 IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
+
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information and Communication Technology Convergence (ICTC): 1817–1822, Oct. 2022. <br>
-[<a href="https://ieeexplore.ieee.org/document/9952589" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9952589" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC11.md %})<br>
 
-<b>Qualitative Assessment of the Impact of Lossy JPEG Compression on Deep Learning Models</b><br>
+
+<b>Quantitative Assessment of the Impact of Lossy JPEG Compression on Deep Learning Models</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KINGPC International Conference on Next Generation Computing (ICNGC): 249-252, Oct. 2022. <br>
-[<a href="https://www.earticle.net/Article/A419789" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://www.earticle.net/Article/A419789" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-08-paper-title-number-IC10.md %})<br>
+
 
 <b>Privacy-Preserving Surveillance for Smart Cities</b><br>
 Ijaz Ahmad, Eunkyung Kim, Suk-Seung Hwang and Seokjoo Shin <br>
 IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306, Jul. 2022. <br>
-[<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-07-05-paper-title-number-IC9.md %})<br>
+
 
 <b>Determining Jigsaw Puzzle State from an Image based on Deep Learning</b><br>
 Ijaz Ahmad, Suk-Seung Hwang and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 030–032, Feb. 2022.<br> 
-[<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-02-21-paper-title-number-IC8.md %})<br>
+
 
 <b>Encryption-then-Compression System for Cloud-based Medical Image Services</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 30–33, Jan. 2022. [<b>BEST PAPER AWARD</b>]<br>
-[<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})<br>
+
 
 <b>Fine-Tuning Pre-Trained Deep Learning Models for Multiclass Grayscale Images Classification</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KINGPC International Conference on Next Generation Computing (ICNGC): 244-246, Nov. 2021. <br>
-[<a href="https://kingpc.or.kr/" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://kingpc.or.kr/" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2021-11-06-paper-title-number-IC6.md %})<br>
+
 
 <b>An Approach to Run Pre-Trained Deep Learning Models on Grayscale Images</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 177–180, Apr. 2021.<br>
-[<a href="https://ieeexplore.ieee.org/document/9415275" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9415275" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2021-04-13-paper-title-number-IC5.md %})<br>
+
 
 <b>Region-based Selective Compression and Selective Encryption of Medical Images</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 ACM International Conference on Smart Media and Applications (SMA): 34–38, Sep. 2020. [<b>BEST PAPER AWARD</b>] <br>
-[<a href="https://dl.acm.org/doi/fullHtml/10.1145/3426020.3426027" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://dl.acm.org/doi/fullHtml/10.1145/3426020.3426027" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2020-09-17-paper-title-number-IC4.md %})<br>
+
 
 <b>Analysis of Chinese Remainder Theorem for Data Compression</b><br>
 Ijaz Ahmad, Bumshik Lee and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 634–636, Jan. 2020.<br>
-[<a href="https://ieeexplore.ieee.org/document/9016442" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://ieeexplore.ieee.org/document/9016442" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2020-01-07-paper-title-number-IC3.md %})<br>
+
 
 <b>Just-Noticeable-Difference Based Edge Map Quality Measure</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22, 2018.[<b>BEST POSTER AWARD</b>]<br>
-[<a href="https://arxiv.org/abs/2204.03155" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+[<a href="https://arxiv.org/abs/2204.03155" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2018-12-21-paper-title-number-IC2.md %})<br>
+
 
 <b>Color-to-grayscale algorithms effect on edge detection—A comparative study</b><br>
 Ijaz Ahmad, Inkyu Moon and Seokjoo Shin <br>
 IEEE International Conference on Electronics, Information, and Communication (ICEIC): 1-4, Jan. 2018.<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/8330719" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2018-01-24-paper-title-number-IC1.md %}) <br><br>
+[Summary]({{ site.baseurl }}{% link _publications/2018-01-24-paper-title-number-IC1.md %}) <br>
 
 
 
