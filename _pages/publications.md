@@ -37,17 +37,17 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 <b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
-<br><u>Description</u>: <i> "To improve the classification
-performance of the trained deep learning models (inference phase) on the JPEG compressed images, we propose a noise-based
-data augmentation technique called noise-cuts-noise approach"</i><br><br>
+
+<br><p><u>Description</u>: <i> "To improve the classification
+performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
+(inference phase) on the JPEG compressed images, we propose a noise-based
+data augmentation technique called noise-cuts-noise approach"</i>.</span></p>
+<button onclick="moreLessFtn()" id="myBtn">Read more</button><br>
+
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
-<button onclick="showFunction()">Try it</button>
 
-<p id="myDIV" style="display:none">
-This is my DIV element.
-</p>
 
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
@@ -260,12 +260,19 @@ Ijaz Ahmad and Seokjoo Shin <br>
 
 
 <script>
-function showFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
+function moreLessFtn() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
   } else {
-    x.style.display = "none";
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
   }
 }
 </script>
