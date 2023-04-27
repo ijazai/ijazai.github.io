@@ -42,7 +42,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read morexx</button>
+<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read more</button>
 
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br><br>
@@ -52,7 +52,11 @@ data augmentation technique called noise-cuts-noise approach.</span></i>
 <b>Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System</b><br>
 Nazmul Islam, Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 630–635, Feb. 2023. <br>
-<br><u>Description</u>: <i> "Image data transmission over a wireless communication channel is suceptible to distortions. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes."</i><br><br>
+
+<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dots">...</span><span id="more" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
+<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read more</button>
+
+
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
 
