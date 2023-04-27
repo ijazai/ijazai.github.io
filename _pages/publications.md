@@ -43,7 +43,7 @@ data augmentation technique called noise-cuts-noise approach"</i><br><br>
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="showFunction()">Try it</button>
 
 <div id="myDIV">
 This is my DIV element.
