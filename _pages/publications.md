@@ -37,10 +37,10 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 <b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
-<u>Description</u>:...to improve the classification
+<br><u>Description</u>: <i>...to improve the classification
 performance of the models on noisy images, we propose a noisebased
 data augmentation technique called noise-cuts-noise
-approach ...<br>
+approach ...</i><br>
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
