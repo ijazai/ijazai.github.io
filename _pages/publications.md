@@ -54,7 +54,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/10067100" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
 
-<u>Description</u>: <i> Image data transmission over a wireless communication channel is suceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
+<u>Description</u>: <i> Image data transmission over a wireless communication channel is susceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
 <button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
@@ -67,7 +67,7 @@ IEEE International Conference on Information Networking (ICOIN): 224–229, Jan.
 
 <u>Description</u>: <i> When the image data are outsourced to avail
 third-party owned resources<span id="dotsC13">...</span><span id="moreC13" style="display:none">
-such cloud computation services, there is a privacy concern that the data should be
+such as cloud computation services, there is a privacy concern that the data should be
 kept protected not only during transmission but during
 computations as well. To meet these requirements, we
 proposed a privacy-preserving Deep Learng (PPDL) scheme based on perceptual encryption, that enable
@@ -82,6 +82,11 @@ IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
 
+<u>Description</u>: <i> Channel correction plays an important role in performance of wireless communication systems.<span id="dotsC12">...</span><span id="moreC12" style="display:none">In this study, we considered the otherwise to bypass channel estimation of an Orthogonal Frequency Division Multiplexing (OFDM) based image communication system designed to enable cloud-based deep learning (DL) computation
+.</span></i>
+<button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 <b>Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications</b><br>
@@ -90,6 +95,11 @@ IEEE International Conference on Information and Communication Technology Conver
 [<a href="https://ieeexplore.ieee.org/document/9952589" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC11.md %})<br>
 
+<u>Description</u>: <i> For an efficient edge-cloud collaboaration to enable AI-based IoT applications, the trained models should be periodically trained on the most recent data. <span id="dotsC11">...</span><span id="moreC11" style="display:none">
+This necessitates teh data share between cloud and edge servers. However, the data acquired by IoT end devices usually consists of sensitive information and sharing them with cloud services provider results in users' privacy concern. To this end, we propose perceptual encryption-based method to enable DL computations in encryption domain in order to protect users' privacy. </span></i>
+<button onclick="moreLessFtn('dotsC11','moreC11','moreLessBttnC11')" id="moreLessBttnC11" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 <b>Quantitative Assessment of the Impact of Lossy JPEG Compression on Deep Learning Models</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
@@ -97,12 +107,23 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 249-252, O
 [<a href="https://www.earticle.net/Article/A419789" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-08-paper-title-number-IC10.md %})<br>
 
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 <b>Privacy-Preserving Surveillance for Smart Cities</b><br>
 Ijaz Ahmad, Eunkyung Kim, Suk-Seung Hwang and Seokjoo Shin <br>
 IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306, Jul. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-07-05-paper-title-number-IC9.md %})<br>
+
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 <b>Determining Jigsaw Puzzle State from an Image based on Deep Learning</b><br>
@@ -111,12 +132,24 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [<a href="https://ieeexplore.ieee.org/document/9722672" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-02-21-paper-title-number-IC8.md %})<br>
 
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
+
 
 <b>Encryption-then-Compression System for Cloud-based Medical Image Services</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Information Networking (ICOIN): 30–33, Jan. 2022. [<b>BEST PAPER AWARD</b>]<br>
 [<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})<br>
+
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 <b>Fine-Tuning Pre-Trained Deep Learning Models for Multiclass Grayscale Images Classification</b><br>
@@ -125,12 +158,24 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 244-246, N
 [<a href="https://kingpc.or.kr/" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-11-06-paper-title-number-IC6.md %})<br>
 
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
+
 
 <b>An Approach to Run Pre-Trained Deep Learning Models on Grayscale Images</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 177–180, Apr. 2021.<br>
 [<a href="https://ieeexplore.ieee.org/document/9415275" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-04-13-paper-title-number-IC5.md %})<br>
+
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 <b>Region-based Selective Compression and Selective Encryption of Medical Images</b><br>
@@ -139,6 +184,12 @@ ACM International Conference on Smart Media and Applications (SMA): 34–38, Sep
 [<a href="https://dl.acm.org/doi/fullHtml/10.1145/3426020.3426027" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2020-09-17-paper-title-number-IC4.md %})<br>
 
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
+
 
 <b>Analysis of Chinese Remainder Theorem for Data Compression</b><br>
 Ijaz Ahmad, Bumshik Lee and Seokjoo Shin <br>
@@ -146,12 +197,24 @@ IEEE International Conference on Information Networking (ICOIN): 634–636, Jan.
 [<a href="https://ieeexplore.ieee.org/document/9016442" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2020-01-07-paper-title-number-IC3.md %})<br>
 
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
+
 
 <b>Just-Noticeable-Difference Based Edge Map Quality Measure</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22, 2018.[<b>BEST POSTER AWARD</b>]<br>
 [<a href="https://arxiv.org/abs/2204.03155" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2018-12-21-paper-title-number-IC2.md %})<br>
+
+<u>Description</u>: <i> <span id="dotsCXX">...</span><span id="moreCXX" style="display:none">
+.</span></i>
+<button onclick="moreLessFtn('dotsCXX','moreCXX','moreLessBttnCXX')" id="moreLessBttnCXX" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 <b>Color-to-grayscale algorithms effect on edge detection—A comparative study</b><br>
