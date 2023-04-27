@@ -42,10 +42,10 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 performance of the trained deep learning models<span id="dots">...</span><span id="more" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none">Read more</button><br>
+<button onclick="moreLessFtn()" id="moreLessBttn" style="border:none; background-color:transparent">Read morexx</button>
 
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br><br>
 
 
 
