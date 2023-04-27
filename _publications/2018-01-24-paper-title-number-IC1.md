@@ -1,5 +1,5 @@
 ---
-title: "Color-to-grayscale algorithms effect on edge detection—A comparative study"
+title: "Color-to-Grayscale Algorithms Effect on Edge Detection—A Comparative Study"
 collection: publications
 permalink: /publication/2018-01-24-paper-title-number-IC1
 date: 2018-01-24
