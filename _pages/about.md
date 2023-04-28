@@ -17,3 +17,11 @@ Currently, I am working on <i>Perceptual Encryption-based Privacy-Preserving Dee
 <br><br>
 My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Image Communication</b>, and <b>Privacy-Preserving Deep Learning</b>.
 </p>
+
+<br><br>
+<h2>News</h2>
+<h3>Upcoming</h3>
+<ul>
+  <li>Our paper is accepted for the ISCIT 2023 conference!</li>
+  <li>Our paper is accepted for the KICS Summer 2023 conference!</li>
+</ul>
