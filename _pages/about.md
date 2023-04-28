@@ -21,11 +21,10 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 <br>
 <h2>News&#128276;</h2>&#128276;
 
-&#128307; We submitted a paper to the ISCIT 2023 conference &#9203;
-&#128306; We submitted a paper to the KICS Summer 2023 conference &#9203;
-&#11093; Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.
-&#9899; We submitted a paper to the KICS Summer 2023 conference &#9203;
-
+We submitted a paper to the ISCIT 2023 conference &#9203;<br>
+We submitted a paper to the KICS Summer 2023 conference &#9203;<br>
+Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.<br>
+We submitted a paper to the KICS Summer 2023 conference &#9203;
 
 <b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
 Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
@@ -33,7 +32,13 @@ IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
 
-<u>Description</u>: <i> Channel correction plays an important role in performance of wireless communication systems.<span id="dotsC12">...</span><span id="moreC12" style="display:none">In this study, we considered the otherwise to bypass channel estimation of an Orthogonal Frequency Division Multiplexing (OFDM) based image communication system designed to enable cloud-based deep learning (DL) computation
+<span id="dotsC12">...</span><span id="moreC12" style="display:none">
+
+<ul>
+	<li>Item1</li>
+	<li>Item2</li>
+</ul>
+
 .</span></i>
 <button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
