@@ -32,5 +32,5 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 	<li><strong>[11<sup>th</sup> Jan 2023]</strong> Our paper won one of the best papers award at the ICOIN 2023 conference!</li>
 	<li><strong>[21<sup>st</sup> Dec 2022]</strong> Our paper <i>'Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning'</i> got accepted for the ICAIIC 2023 conference!</li>
 	<li><strong>[21<sup>st</sup> Dec 2022]</strong> Our paper <i>'Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System'</i> got accepted for the ICAIIC 2023 conference!</li>
-	<li><strong>[15<sup>th</sup> Nov 2022]</strong> Our paper <i>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</i> got accepted for the ICOIN 2023 conference!</li>
+	<li><strong>[15<sup>th</sup> Nov 2022]</strong> Our paper <i>'Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis'</i> got accepted for the ICOIN 2023 conference!</li>
 </ul>
