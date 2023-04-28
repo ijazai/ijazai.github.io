@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IA"
+title                    : "IA's Homepage"
 title_separator          : "-"
 name                     : &name "Ijaz Ahmad"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ijaz Ahmad"
   avatar           : "iaProfile.jpg"
-  bio              : "PhD Student @ Chosun Univ."
+  bio              : "PhD Researcher @ Chosun Univ."
   location         : "Gwangju, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
