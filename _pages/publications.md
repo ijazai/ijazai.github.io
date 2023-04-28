@@ -31,6 +31,11 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %}) <br>
 
+<u>Description</u>: <i> Data transmission has dual requirements of compression and encryption.<span id="dotsJ1">...</span><span id="moreJ1" style="display:none">
+The order in which the two operations are carried out affects the overall efficiency of multimedia application. The encrypted data has less or no compressibility while, it is challenging to ensure reasonable security without downgrading the compression performance. Therefore, incorporating one requirement into another is an interesting approach. We propose a novel hybrid image encryption and compression scheme that allows compression in the encryption domain. The encryption is based on Chaos theory and is carried out in two steps, i.e., permutation and substitution. The lossless compression is performed on the shuffled image and then the compressed bitstream is grouped into 8-bit elements for substitution stage. In addition, we also porpose a novel data-to-symbol mapping method based on Chinese Remainder Theorem for the improved compression savings.</span></i>
+<button onclick="moreLessFtn('dotsJ1','moreJ1','moreLessBttnJ1')" id="moreLessBttnJ1" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 <h2>International Conferences</h2>
 
