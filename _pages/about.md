@@ -21,23 +21,22 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 <br>
 <h2>News</h2>
 
-We submitted a paper to the ISCIT 2023 conference &#9203;<br>
-We submitted a paper to the KICS Summer 2023 conference &#9203;<br>
-Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.<br>
-We submitted a paper to the KICS Summer 2023 conference &#9203;
-
-<b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
-Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
-IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
+<ul  align="justify">
+	<li>We submitted a paper to the ISCIT 2023 conference &#9203;</li>
+	<li>We submitted a paper to the KICS Summer 2023 conference &#9203;</li>
+	<li>Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.</li>
+	<li>We submitted a paper to the KICS Summer 2023 conference &#9203;</li>
+</ul>
 
 <span id="dotsC12">...</span>
 
-
-<ul id="moreC12" style="display:none">
-	<li>Item1</li>
-	<li>Item2</li>
+<h3>Past Events</h3>
+<ul id="moreC12" style="display:none"  align="justify">
+	<li>Our paper <i>'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</i> got accepted for publication in the Sensors journal! &#127881;&#127881;</li>
+	<li>Our paper won one of the best papers award at the ICOIN 2023 conference!&#127881;&#127881;</li>
+	<li>Our paper <i>'Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning'</i> got accepted for the ICAIIC 2023 conference! &#127881;</li>
+	<li>Our paper <i>'Robustness of Deep Learning enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System'</i> got accepted for the ICAIIC 2023 conference! &#127881;</li>
+	<li>Our paper <i>Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis</i> got accepted for the ICOIN 2023 conference &#127881;</li>
 </ul>
 
 
