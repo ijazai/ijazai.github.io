@@ -31,17 +31,3 @@ images while the accuracy difference reduced from 6% to 1%
 on smaller resolution images.</p>
 
 [Full Article](https://ieeexplore.ieee.org/document/10067012)
-
-
-<h3 id="citation">Citation</h3>
-
-<p>Please cite our paper if it has helped you:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{ICAIIC2022,
-author    = {Ahmad, Ijaz and Shin, Seokjoo},
-title     = {Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning},
-booktitle = {IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)},
-pages     = {221--226},
-year      = {2023}
-}
-</code></pre></div></div>
