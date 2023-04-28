@@ -21,11 +21,10 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 <br>
 <h2>News</h2>
 
-<h3>Upcoming Events</h3>
 <ul>
-	<li>We submitted a paper to the ISCIT 2023 conference!</li>
-	<li>We submitted a paper to the KICS Summer 2023 conference!</li>
-	<li>Our paper <i>'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</i>  is now online! [<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">Full Article</a>]</li>
+	<li>We submitted a paper to the ISCIT 2023 conference.</li>
+	<li>We submitted a paper to the KICS Summer 2023 conference.</li>
+	<li>Our paper <i>[<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a>]</i>  is now online.</li>
 </ul>
 
 <h3>Past Events</h3>
