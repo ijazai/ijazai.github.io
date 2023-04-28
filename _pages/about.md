@@ -19,7 +19,7 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 </p>
 
 <br>
-<h2>News&#128276;</h2>&#128276;
+<h2>News</h2>
 
 We submitted a paper to the ISCIT 2023 conference &#9203;<br>
 We submitted a paper to the KICS Summer 2023 conference &#9203;<br>
@@ -32,14 +32,16 @@ IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
 
-<span id="dotsC12">...</span><span id="moreC12" style="display:none">
+<span id="dotsC12">...</span>
+
+<span id="moreC12" style="display:none">
 
 <ul>
 	<li>Item1</li>
 	<li>Item2</li>
 </ul>
 
-.</span></i>
+</span>
 <button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
 
 <br>
