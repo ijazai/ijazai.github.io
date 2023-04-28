@@ -19,8 +19,12 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 </p>
 
 <br>
-<h2>News</h2>
+<h2>News&#128276;</h2>&#128276;
 
+&#128307; We submitted a paper to the ISCIT 2023 conference &#9203;
+&#128306; We submitted a paper to the KICS Summer 2023 conference &#9203;
+&#11093; Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.
+&#9899; We submitted a paper to the KICS Summer 2023 conference &#9203;
 
 
 <b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
