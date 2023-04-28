@@ -22,25 +22,18 @@ My research focuses on <b>Image Compression</b>, <b>Image Encryption</b>, <b>Ima
 <h2>News</h2>
 
 
-<h2>An unordered HTML list</h2>
 
-<span>
-<ul align="justify">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <span id="dots1">...</span>
-</ul>
-</span>
+<b>Performance Analysis of Cloud-based Deep Learning Models on Images Recovered without Channel Correction in OFDM System</b><br>
+Ijaz Ahmad, Nazmul Islam and Seokjoo Shin <br>
+IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/9943691" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC12.md %})<br>
 
-<span id="more1" style="display:none">
-<ul align="justify">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-</span>
-<button onclick="moreLessFtn('dots1','more1','moreLessBttn1')" id="moreLessBttn1" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<u>Description</u>: <i> Channel correction plays an important role in performance of wireless communication systems.<span id="dotsC12">...</span><span id="moreC12" style="display:none">In this study, we considered the otherwise to bypass channel estimation of an Orthogonal Frequency Division Multiplexing (OFDM) based image communication system designed to enable cloud-based deep learning (DL) computation
+.</span></i>
+<button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+
+<br>
 
 
 
