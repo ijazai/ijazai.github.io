@@ -31,7 +31,7 @@ while their combination degraded the accuracy by 6%.</p>
 <ul>
 	<li> We present a quantitative assessment of DL-based classifier under the influence of different types of information loss that happens in the JPEG algorithm. 
 	<li> We consider image quality degradation due to chroma subsampling, quantization, and rounding functions of the JPEG algorithm. </li>
-	<li> We analyze three types of interpolation methods (<i>nearest neighbor</i>, <i>bilinear</i>, and <i>bicubic</i> interpolation methods</i>)in the chroma upsampling function.</li>
+	<li> We analyze three types of interpolation methods (<i>nearest neighbor</i>, <i>bilinear</i>, and <i>bicubic</i> interpolation methods)in the chroma upsampling function.</li>
 </ul>
 
 <h3>Lossy Components of the JPEG Algorithm</h3>
