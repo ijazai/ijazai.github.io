@@ -39,8 +39,9 @@ The order in which the two operations are carried out affects the overall effici
 
 <h2>International Conferences</h2>
 
+<b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-<b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning.</b> IEEE ICAIIC 2023: 221–226<br>
+IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
 [<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
 
