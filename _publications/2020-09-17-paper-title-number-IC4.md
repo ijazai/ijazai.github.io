@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-17-paper-title-number-IC4
 date: 2020-09-17
 venue: 'ACM International Conference on Smart Media and Applications (SMA)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Image compression and encryption1are two processes that enable
