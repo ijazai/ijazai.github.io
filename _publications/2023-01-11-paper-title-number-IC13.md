@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-11-paper-title-number-IC13
 date: 2023-01-11
 venue: 'IEEE International Conference on Information Networking (ICOIN)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>The widespread adoption of deep learning (DL)
