@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-12-21-paper-title-number-IC2
 date: 2018-12-21
 venue: 'KINGPC International Conference on Next Generation Computing (ICNGC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>The performance of an edge detector can be
