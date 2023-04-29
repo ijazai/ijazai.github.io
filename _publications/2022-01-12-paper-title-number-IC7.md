@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-12-paper-title-number-IC7
 date: 2022-01-12
 venue: 'IEEE International Conference on Information Networking (ICOIN)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>In the recent years, encryption-then-compression
