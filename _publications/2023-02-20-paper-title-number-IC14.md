@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-20-paper-title-number-IC14
 date: 2023-02-20
 venue: 'IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>In a standard Orthogonal Frequency Division
