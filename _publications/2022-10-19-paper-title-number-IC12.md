@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-19-paper-title-number-IC12
 date: 2022-10-19
 venue: 'IEEE Asia Pacific Conference on Communication (APCC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Channel correction plays an important role in
