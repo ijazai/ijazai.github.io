@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<button onclick="topFunction()" id="myBtn" title="Go to top" style="display:none">Top</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 <h2>Journals</h2>
 
