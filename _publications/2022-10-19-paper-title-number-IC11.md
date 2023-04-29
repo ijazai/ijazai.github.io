@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-19-paper-title-number-IC11
 date: 2022-10-19
 venue: 'IEEE International Conference on Information and Communication Technology Convergence (ICTC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>In the Internet of Things (IoT) ecosystem, cloud
