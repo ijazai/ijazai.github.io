@@ -50,10 +50,11 @@ on smaller resolution images.</p>
 
 <p>where, \(\left[.\right]\) and \(.\rvert_0^{255}\) rounds and truncates the values to a valid range in the spatial domain, respectively.</p>
 
-<p>In the JPEG algorithm, the information loss is resulted from the quantization forward function \(Q\) as in Equation (\(3\)) and inverse function \(Q^{-1}\) as in Equation (\(4\)). The two transformation functions that is, the colorspace conversion function (C) and discrete cosine transform function (D) are lossless in nature; however, when their values are rounded or truncated then certain information are lost.</p>
+<p>In the JPEG algorithm, the information loss is resulted from the quantization forward function \(Q\) as in Equation (\(3\)) and inverse function \(Q^{-1}\) as in Equation (\(4\)). The two transformation functions that is, the colorspace conversion function \(C\) and discrete cosine transform function \(D\) are lossless in nature; however, when their values are rounded or truncated then certain information are lost.</p>
 
-<div style="overflow-x:auto">\[\widehat{F}_{(u,v)}=round\left(\frac{F_{(u,v)}}{QT_{(u,v)}}\right)\]</div>
-<div style="overflow-x:auto">\[\widetilde{F}_{\left(u,v\right)}=\widehat{F}_{\left(u,v\right)}\times QT_{\left(u,v\right)},\]</div>
+<div style="overflow-x:auto">\[\widehat{F}_{(u,v)}=round\left(\frac{F_{(u,v)}}{QT_{(u,v)}}\right),\]</div>
+<p>where \(F_{\left(u,v\right)}\) is the DCT matrix and \(QT_{\left(u,v\right)}\) is the quantization table.</p>
+<div style="overflow-x:auto">\[\widetilde{F}_{\left(u,v\right)}=\widehat{F}_{\left(u,v\right)}\times QT_{\left(u,v\right)}.\]</div>
 
 <h3>Conclusion</h3>
 We proposed a noise-based image augmentation method to make DL models robust against compression distortions -- <i>noise-cuts-noise</i>. The analysis have shown that choosing varying level of noise helps the model to perform well on the future noisy images. Besides improving the model performance on noisy images, the main advantage of the proposed method is that it does not require any preprocessing for the artifacts correction.
