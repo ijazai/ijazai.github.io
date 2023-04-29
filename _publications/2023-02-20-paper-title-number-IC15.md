@@ -42,11 +42,18 @@ on smaller resolution images.</p>
 <h3>Proposed Method</h3>
 
 <p>For an image \(I\), its JPEG compressed image \(I_{c}\) without the chroma-subsampling function can obtained as</p>
-<div style="overflow-x:auto">\[I_{c}=[Q(D(C_{YCbCr}(I)),Qf)],\]</div>
+<div style="overflow-x:auto">\[I_{c}=\left[Q\left(D\left(C_{YCbCr}\left(I\right)\right),Qf\right)\right],\]</div>
 
 <p>and \(I_{c}\) can be decompressed to obtain \(I_{d}\) as</p>
 
-<div style="overflow-x:auto">\[I_{d}=[C_{RGB}([D^{-1}(Q^{-1}(I_{c},Qf))])]|_0^{255}\]</div>
+<div style="overflow-x:auto">\[I_{d}=\left[C_{RGB}\left(\left[D^{-1}\left(Q^{-1}\left(I_{c},Qf\right)\right)\right]\right)\right]\rvert_0^{255}\]</div>
+
+<p>where, \(\left[.\right]\) and \(.\rvert_0^{255}\) rounds and truncates the values to a valid range in the spatial domain, respectively.</p>
+
+<p>In the JPEG algorithm, the information loss is resulted from the quantization forward function \(Q\) as in Equation (\(3\)) and inverse function \(Q^{-1}\) as in Equation (\(4\)). The two transformation functions that is, the colorspace conversion function (C) and discrete cosine transform function (D) are lossless in nature; however, when their values are rounded or truncated then certain information are lost.</p>
+
+<div style="overflow-x:auto">\[\widehat{F}_{(u,v)}=round\left(\frac{F_{(u,v)}}{QT_{(u,v)}}\right)\]</div>
+<div style="overflow-x:auto">\[\widetilde{F}_{\left(u,v\right)}=\widehat{F}_{\left(u,v\right)}\times QT_{\left(u,v\right)},\]</div>
 
 <h3>Conclusion</h3>
 We proposed a noise-based image augmentation method to make DL models robust against compression distortions -- <i>noise-cuts-noise</i>. The analysis have shown that choosing varying level of noise helps the model to perform well on the future noisy images. Besides improving the model performance on noisy images, the main advantage of the proposed method is that it does not require any preprocessing for the artifacts correction.
