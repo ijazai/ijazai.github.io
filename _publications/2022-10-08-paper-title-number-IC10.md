@@ -6,7 +6,6 @@ date: 2022-10-08
 venue: 'KINGPC International Conference on Next Generation Computing (ICNGC)'
 author_profile: false
 ---
-
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
@@ -64,6 +63,8 @@ calculate the average of the source pixels and assigned it to an output pixel. T
 
 <h3>Conclusion</h3>
 This study presented quantitative assessment of the impact that the JPEG compression has on DL-based image classification. The analysis have shown that the quantization of DCT coefficients preserves model accuracy while delivering better compression savings. However, to avoid the computational cost of quantization step, simple chroma subsampling and simple chroma upsampling with the nearest neighbor interpolation can be used, which achieved the same accuracy with a slight degradation in the compression savings.
+
+
 
 
 <br>[Full Article](https://www.earticle.net/Article/A419789)
