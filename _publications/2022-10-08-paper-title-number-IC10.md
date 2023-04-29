@@ -6,6 +6,10 @@ date: 2022-10-08
 venue: 'KINGPC International Conference on Next Generation Computing (ICNGC)'
 author_profile: false
 ---
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <h3>Abstract</h3>
 <p>Lossy image compression provides an efficient
 solution to the exchange and storage of image data for consumer
