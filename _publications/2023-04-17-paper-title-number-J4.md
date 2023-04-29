@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-17-paper-title-number-J4
 date: 2023-04-17
 venue: 'Sensors'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Perceptual encryption (PE) hides the identifiable information of an image in such a way that its intrinsic characteristics remain intact.
