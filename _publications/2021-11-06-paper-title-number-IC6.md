@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-11-06-paper-title-number-IC6
 date: 2021-11-06
 venue: 'KINGPC International Conference on Next Generation Computing (ICNGC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Transfer learning significantly improves the
