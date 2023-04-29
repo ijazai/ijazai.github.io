@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-05-paper-title-number-IC9
 date: 2022-07-05
 venue: 'IEEE International Confernce on Ubiquitous and Future Networks (ICUFN)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>This work presents privacy-preserving surveillance
