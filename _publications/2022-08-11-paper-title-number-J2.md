@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-08-11-paper-title-number-J2
 date: 2022-08-11
 venue: 'Electronics'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Block-based perceptual encryption (PE) algorithms are becoming popular for multimedia data protection because of their low 
