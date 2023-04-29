@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-01-07-paper-title-number-IC3
 date: 2020-01-07
 venue: 'IEEE International Conference on Information Networking (ICOIN)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Chinese remainder theorem (CRT) forms the
