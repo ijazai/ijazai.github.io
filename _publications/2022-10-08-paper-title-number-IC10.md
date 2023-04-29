@@ -57,9 +57,16 @@ functions. The two transformation functions namely, colorspace conversion (\(C_{
 <p>The Human Visual System (HVS) is highly sensitive to changes in brightness than color. The JPEG algorithm exploits this property to achieve better compression savings by storing chroma components with a lower resolution. This process is called subsampling. In the JPEG standard, subsampling in a region (\(4\) pixels wide and \(2\) pixels high) is defined by a three-ratio as \(J:a:b\), where \(J\) is width, \(a\) is number of color samples in first row of \(J\) pixels and \(b\) is the samples between first and second row of \(J\) pixels. The commonly used ratios are \(4:2:2\) and \(4:2:0\). When decoding, the chrominance components are scaled back to original resolution by an upsampling process.<br>
 
 Different types of sub- and upsampling algorithms are available. The straightforward way for sub-sampling is to
-calculate the average of the source pixels and assigned it to an output pixel. This technique is named as “<i>simple subsampling</i>”. The area covered by the pixel depends on the subsampling ratio <u> [to-do: add figure] as shown in Fig. (a) and (d)</u> for ratios \(4:2:2\) and \(4:2:0\), respectively. In the first case, only \(1 \times 2\) pixels area is stored whereas, in the second case \(2 \times 2\) pixels area is stored. For an image \(I\) with \(M \times N\) pixels, the down-sampled \(4:2:2\) image \(I\) with \(M \times \left(\frac{N}{2}\right)\) pixels is defined as </p>
+calculate the average of the source pixels and assigned it to an output pixel. This technique is named as “<i>simple subsampling</i>”. The area covered by the pixel depends on the subsampling ratio <u> [to-do: add figure] as shown in Fig. (a) and (d)</u> for ratios \(4:2:2\) and \(4:2:0\), respectively. In the first case, only \(1 \times 2\) pixels area is stored whereas, in the second case \(2 \times 2\) pixels area is stored. For an image \(I\) with \(M \times N\) pixels, the down-sampled \(4:2:2\) image \(I\) with \(M \times \left(N/2\right)\) pixels is defined as </p>
 
 <div style="overflow-x:auto">\[\widehat{I}_{\left(s,t\right)}=\frac{I_\left(i,2j-1\right)+I_\left(i,2j\right)}{2}\]</div>
+
+<p>    where \(i,s=1,2,3,\cdot\cdot\cdot,M, j=1,2,3,\cdot\cdot\cdot,N\) and \(t=1,2,3,\cdot\cdot\cdot,N/2\). Similarly, when \(I\) is subsampled with 4:2:0 ratio, then the downsampled image \(I\) has \(\left(M/2\right)\times\left(N/2\right)\) elements and is defined as     </p>
+
+<div style="overflow-x:auto">\[\widehat{I}_{\left(s,t\right)}=\frac{I_\left(2i-1,2j-1\right)+I_\left(2i-1,2j\right)+I_\left(2i,2j-1\right)+I_\left(2i,2j\right)}{4}\]</div>
+
+<p>   here \(s=1,2,3,\cdot\cdot\cdot,M/2\) and varaibles \(i,j,t\) remain the same as stated before.    </p>
+
 
 <h3>Conclusion</h3>
 This study presented quantitative assessment of the impact that the JPEG compression has on DL-based image classification. The analysis have shown that the quantization of DCT coefficients preserves model accuracy while delivering better compression savings. However, to avoid the computational cost of quantization step, simple chroma subsampling and simple chroma upsampling with the nearest neighbor interpolation can be used, which achieved the same accuracy with a slight degradation in the compression savings.
