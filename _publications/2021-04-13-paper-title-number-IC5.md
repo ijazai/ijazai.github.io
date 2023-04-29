@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-04-13-paper-title-number-IC5
 date: 2021-04-13
 venue: 'IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Transfer learning helps the performance of a
