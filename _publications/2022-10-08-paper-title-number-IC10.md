@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-08-paper-title-number-IC10
 date: 2022-10-08
 venue: 'KINGPC International Conference on Next Generation Computing (ICNGC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>Lossy image compression provides an efficient
