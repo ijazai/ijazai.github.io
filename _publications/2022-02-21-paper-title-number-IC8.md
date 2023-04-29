@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-02-21-paper-title-number-IC8
 date: 2022-02-21
 venue: 'IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-
+author_profile: false
 ---
 <h3>Abstract</h3>
 <p>The intriguing nature of jigsaw puzzle has
