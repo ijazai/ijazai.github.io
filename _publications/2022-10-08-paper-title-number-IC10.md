@@ -79,7 +79,7 @@ The four coefficients are calculated as teh four nearest neighbors of point \(\l
 \[P_{\left(x,y\right)}=\sum_{i=0}^{3}\sum_{j=0}^{3}a_{\left(i,j\right)}x^{i}y^{j}\]
 </div>
 
-the sixteen coefficient are calculated as the sixteen nearest neighbors of point \(\left(\x,yright)\). Bicubic interpolation preserves finer details than bilinear interpolation with additional computational cost.
+the sixteen coefficient are calculated as the sixteen nearest neighbors of point \(\left(x,y\right)\). Bicubic interpolation preserves finer details than bilinear interpolation with additional computational cost.
 
 </p>
 
