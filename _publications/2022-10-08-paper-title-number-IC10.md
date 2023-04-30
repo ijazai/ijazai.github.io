@@ -75,3 +75,6 @@ This study presented quantitative assessment of the impact that the JPEG compres
 
 
 <br>[Full Article](https://www.earticle.net/Article/A419789)
+
+<h3>Related Articles</h3>
+[How to mitigate the JPEG compression artifacts impact on a deep learning model performance?]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})<br>
