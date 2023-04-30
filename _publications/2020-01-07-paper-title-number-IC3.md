@@ -35,7 +35,7 @@ about 8% on KODAK dataset.</p>
 </ul>
 
 <h3>Chinese Remainder Theorem</h3>
-<p>Chinese Remainder Theorem (CRT) states that if \(n_{1},n_{2},\cdot\cdot\cdot,a_{k}\) are pairwise prime positive integers, then for any arbitrary integers \(a_{1},a_{2},\cdot\cdot\cdot,a_{k}\) the system of congruences </p>
+<p>Chinese Remainder Theorem (CRT) states that if \(n_{1},n_{2},\cdot\cdot\cdot,n_{k}\) are pairwise prime positive integers, then for any arbitrary integers \(a_{1},a_{2},\cdot\cdot\cdot,a_{k}\) the system of congruences </p>
 
 <div>\[x\equiv a_{i}\bmod{n_{i}}, i=1,2,\cdot\cdot\cdot,k\]</div>
 
