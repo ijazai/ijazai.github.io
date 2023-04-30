@@ -60,3 +60,6 @@ on smaller resolution images.</p>
 We proposed a noise-based image augmentation method to make DL models robust against compression distortions -- <i>noise-cuts-noise</i>. The analysis have shown that choosing varying level of noise helps the model to perform well on the future noisy images. Besides improving the model performance on noisy images, the main advantage of the proposed method is that it does not require any preprocessing for the artifacts correction.
 
 <br>[Full Article](https://ieeexplore.ieee.org/document/10067012)
+
+<h3>Related Articles</h3>
+[Assessment of the JPEG compression artifacts due to chroma subsampling, impact on a deep learning model performance]({{ site.baseurl }}{% link _publications/2022-10-08-paper-title-number-IC10.md %})<br>
