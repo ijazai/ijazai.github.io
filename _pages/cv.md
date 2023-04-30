@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Engineering, Chosun University, Aug, 2023 (Expected)
-* M.S. in Computer Engineering, chosun University, 2018
+* M.S. in Computer Engineering, Chosun University, 2018
 * B.S. in Computer Science, University of Peshawar, 2015
 
 Work experience
