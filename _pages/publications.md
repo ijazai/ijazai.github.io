@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Topic] ({{ site.baseurl }}{% link _pages/publicationsTopic.md %}) <br>
+
 <h2>Journals</h2>
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
