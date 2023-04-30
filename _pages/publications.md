@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Topic] ({{ site.baseurl }}{% link _pages/publicationsTopic.md %}) <br>
+[Topic] ({{ site.baseurl }}{% link /publicationsTopic.md %}) <br>
 
 <h2>Journals</h2>
 
