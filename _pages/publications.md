@@ -25,7 +25,7 @@ Electronics, vol. 11, no. 16, p. 2514, Aug. 2022. <br>
 [<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2022-08-11-paper-title-number-J2.md %}) <br>
 
-<b>A novel hybrid image encryption–compression scheme by combining chaos theory and number theory</b><br>
+<b>A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory</b><br>
 Ijaz Ahmad and Seokjoo Shin<br>
 Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
