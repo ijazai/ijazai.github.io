@@ -60,7 +60,7 @@ Other programming languages: C and C++
 <p><span style="font-size: 12pt;"><strong>Awards and Scholarships</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">Sep 2018 to present
-<ul><li><span style="font-size: 11pt;">Recipient of BrainKorea 21st Century Plus (BK21+) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
+<ul><li><span style="font-size: 11pt;">Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
 </span></li> 
 <li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
 <li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
@@ -74,7 +74,7 @@ Chosun Excellent Student Scholarship | Covered 33% tuition fee </span></li></ul>
 <li><span style="font-size: 11pt;">Sep 2016 to Sep 2018 
 <ul><li><span style="font-size: 11pt;">Chosun Research Assistant Scholarship | Covered 50% tuition fee 
 Chosun Excellent Student Scholarship | Covered 33% tuition fee
-Recipient of BrainKorea 21st Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
+Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
 </span></li> 
 <li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
