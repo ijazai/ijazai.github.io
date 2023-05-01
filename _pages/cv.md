@@ -181,9 +181,18 @@ I. Ahmad, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptua
 <p><span style="font-size: 12pt;"><strong>Services</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
 <ul>
-<li><span style="font-size: 11pt;">Springer Artificial Intelligence Review</span></li> 
-<li><span style="font-size: 11pt;">Elsevier Cyber Security and Applications (CSA)</span></li> 
-<li><span style="font-size: 11pt;">Bentham Science Current Medical Imaging (CMIM)</span></li> 
+
+<li><span style="font-size: 11pt;">
+<a href="https://www.springer.com/journal/10462" target="_blank">Springer Artificial Intelligence Review</a>
+</span></li>
+
+<li><span style="font-size: 11pt;">
+<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">Elsevier Cyber Security and Applications (CSA)</a>
+</span></li> 
+
+<li><span style="font-size: 11pt;">
+<a href="https://benthamscience.com/public/journals/current-medical-imaging" target="_blank">Bentham Science Current Medical Imaging (CMIM)</a>
+</span></li> 
 </ul>
 
 <p><span style="font-size: 11pt;"><strong>Conference Reviewers</strong></span></p>
