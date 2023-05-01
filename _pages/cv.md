@@ -85,7 +85,8 @@ Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered mon
 <ul>
 <li><span style="font-size: 11pt;">
 I. Ahmad, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives", Sensors, vol. 23, no. 8, p. 4057, Apr. 2023.
-[<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">&#128214;</a>]
+<a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB; text-decoration: none;">&#128214;</a>
+
 </span></li>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin,"IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", Sensors, vol. 22, no. 20, p. 8074, Oct. 2022.</span></li>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", Electronics, vol. 11, no. 16, p. 2514, Aug. 2022.</span></li>
