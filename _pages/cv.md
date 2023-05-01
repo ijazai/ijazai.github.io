@@ -18,7 +18,7 @@ Advisor: Prof. Seokjoo Shin
 <li><span style="font-size: 11pt;">
 Chosun University | South Korea <br>
 M.S. in Computer Engineering | 2018 <br>
-Thesis title: A study on the effect of color-to-grayscale conversion algorithms on edge detection <br>
+Thesis title: Study of Edge Detection with Color-to-Grayscale Algorithms <br>
 Advisor: Prof. Seokjoo Shin
 </span></li>  
 <li><span style="font-size: 11pt;">
