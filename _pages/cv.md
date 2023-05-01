@@ -17,11 +17,11 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:active {
-  text-decoration: underline;
+  text-decoration: none;
 }
 </style>
 
@@ -183,24 +183,38 @@ I. Ahmad, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptua
 <ul>
 
 <li><span style="font-size: 11pt;"> Springer Artificial Intelligence Review 
-<a href="https://www.springer.com/journal/10462" target="_blank">Link</a>
+<a href="https://www.springer.com/journal/10462" target="_blank">&#127968;</a>
 </span></li>
 
 <li><span style="font-size: 11pt;"> Elsevier Cyber Security and Applications (CSA) 
-<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">Link</a>
+<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">&#127968;</a>
 </span></li> 
 
 <li><span style="font-size: 11pt;"> Bentham Science Current Medical Imaging (CMIM) 
-<a href="https://benthamscience.com/public/journals/current-medical-imaging" target="_blank">Link</a>
+<a href="https://benthamscience.com/public/journals/current-medical-imaging" target="_blank">&#127968;</a>
 </span></li> 
 </ul>
 
 <p><span style="font-size: 11pt;"><strong>Conference Reviewers</strong></span></p>
 <ul>
-<li><span style="font-size: 11pt;">IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2021-2023</span></li> 
-<li><span style="font-size: 11pt;">IEEE International Conference on Information Networking (ICOIN) 2022-2023</span></li> 
-<li><span style="font-size: 11pt;">IEEE International Conference on Information and Communication Technology Convergence (ICTC) 2022-2023</span></li> 
-<li><span style="font-size: 11pt;">IEEE International Conference on Ubiquitous and Future Networks (ICUFN) 2023</span></li> 
+
+<li><span style="font-size: 11pt;">
+IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2021-2023
+<a href="http://icaiic.org/" target="_blank">&#127968;</a>
+</span></li> 
+
+<li><span style="font-size: 11pt;">
+IEEE International Conference on Information Networking (ICOIN) 2022-2023
+<a href="https://icoin.org/" target="_blank">&#127968;</a>
+</span></li> 
+
+<li><span style="font-size: 11pt;">IEEE International Conference on Information and Communication Technology Convergence (ICTC) 2022-2023
+<a href="https://ictc.org/" target="_blank">&#127968;</a>
+</span></li> 
+
+<li><span style="font-size: 11pt;">IEEE International Conference on Ubiquitous and Future Networks (ICUFN) 2023
+<a href="https://icufn.org/" target="_blank">&#127968;</a>
+</span></li> 
 </ul>
 
 <p><span style="font-size: 12pt;"><strong>Languages</strong></span></p>
