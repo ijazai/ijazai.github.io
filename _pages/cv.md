@@ -81,7 +81,7 @@ Recipient of BrainKorea 21st Century (BK21) Scholarship | Covered monthly stipen
 
 
 <p><span style="font-size: 12pt;"><strong>Publications</strong></span></p>
-<p><span style="font-size: </span></p>;"><strong>Journals</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>Journals</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">I. Ahmad, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives", Sensors, vol. 23, no. 8, p. 4057, Apr. 2023.</span></li>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin,"IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", Sensors, vol. 22, no. 20, p. 8074, Oct. 2022.</span></li>
@@ -89,7 +89,7 @@ Recipient of BrainKorea 21st Century (BK21) Scholarship | Covered monthly stipen
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021.</span></li>
 </ul>
 
-<p><span style="font-size: </span></p>;"><strong>International Conferences</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>International Conferences</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images", IEEE International Symposium on Communications and Information Technologies (ISCIT) 2023. (Under Review)</span></li> 
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning”, IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. (Oral Presentation)</span></li> 
@@ -109,7 +109,7 @@ Recipient of BrainKorea 21st Century (BK21) Scholarship | Covered monthly stipen
 <li><span style="font-size: 11pt;">I. Ahmad, I. Moon and S. Shin, “Color-to-grayscale algorithms effect on edge detection—A comparative study”, IEEE International Conference on Electronics, Information, and Communication (ICEIC): 1-4, Jan. 2018. (Poster Presentation)</span></li> 
 </ul>
 
-<p><span style="font-size: </span></p>;"><strong>National Conferences</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>National Conferences</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection”, KICS Fall Conference (추계종합학술발표회): 458-459, Nov. 2022. (Oral Presentation)</span></li> 
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “A Comparison of EfficientNets for Tuberculosis Detection in Chest Radiographs”, KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): 126-127, Sep. 2022. (Oral Presentation)</span></li> 
@@ -127,14 +127,14 @@ Recipient of BrainKorea 21st Century (BK21) Scholarship | Covered monthly stipen
 </ul>
 
 <p><span style="font-size: 12pt;"><strong>Services</strong></span></p>
-<p><span style="font-size: </span></p>;"><strong>Journal Reviewers</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">Springer Artificial Intelligence Review</span></li> 
 <li><span style="font-size: 11pt;">Elsevier Cyber Security and Applications (CSA)</span></li> 
 <li><span style="font-size: 11pt;">Bentham Science Current Medical Imaging (CMIM)</span></li> 
 </ul>
 
-<p><span style="font-size: </span></p>;"><strong>Conference Reviewers</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>Conference Reviewers</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2021-2023</span></li> 
 <li><span style="font-size: 11pt;">IEEE International Conference on Information Networking (ICOIN) 2022-2023</span></li> 
