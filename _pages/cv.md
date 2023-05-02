@@ -90,10 +90,13 @@ Other programming languages: C and C++
 Chosun Excellent Student Scholarship | Covered 33% tuition fee </span></li></ul>
 </span></li> 
 <li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
+
 <li><span style="font-size: 11pt;">Sep 2016 to Sep 2018 
-<ul><li><span style="font-size: 11pt;">Chosun Research Assistant Scholarship | Covered 50% tuition fee 
-Chosun Excellent Student Scholarship | Covered 33% tuition fee
-Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
+<ul>
+<li><span style="font-size: 11pt;">Chosun Research Assistant Scholarship | Covered 50% tuition fee 
+Chosun Excellent Student Scholarship | Covered 33% tuition fee</span></li>
+<li><span style="font-size: 11pt;">Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li>
+</ul>
 </span></li> 
 <li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
@@ -107,11 +110,20 @@ I. Ahmad, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptua
 <a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank">&#128214;</a>
 </span></li>
 
-<li><span style="font-size: 11pt;">I. Ahmad and S. Shin,"IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", Sensors, vol. 22, no. 20, p. 8074, Oct. 2022.</span></li>
+<li><span style="font-size: 11pt;">
+I. Ahmad and S. Shin,"IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", Sensors, vol. 22, no. 20, p. 8074, Oct. 2022.
+<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank">&#128214;</a>
+</span></li>
 
-<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", Electronics, vol. 11, no. 16, p. 2514, Aug. 2022.</span></li>
+<li><span style="font-size: 11pt;">
+I. Ahmad and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", Electronics, vol. 11, no. 16, p. 2514, Aug. 2022.
+<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank">&#128214;</a>
+</span></li>
 
-<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021.</span></li>
+<li><span style="font-size: 11pt;">
+I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank">&#128214;</a>
+</span></li>
 </ul>
 
 <p><span style="font-size: 11pt;"><strong>International Conferences</strong></span></p>
