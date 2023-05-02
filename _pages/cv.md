@@ -267,7 +267,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<p><span style="font-size: 11pt;"><strong>Conference Reviewers</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>Technical Program Committee Member</strong></span></p>
 <ul>
 
 <li><span style="font-size: 11pt;">
