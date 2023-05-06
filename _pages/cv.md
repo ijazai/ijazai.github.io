@@ -69,7 +69,12 @@ Topic: Double Random Phase Encoding for  Image Encryption
 <p><span style="font-size: 12pt;"><strong>Skills</strong></span></p>
 <ul>
 	<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption</span></li>
-	<li><span style="font-size: 11pt;"> Deep Learning, Machine Learning and Medical Image Analysis </span></li>
+	<li><span style="font-size: 11pt;"> Deep Learning and Machine Learning 
+		<ul>
+			<li><span style="font-size: 11pt;"> Algorithms: Supervised and Unsupervised Learning, Transfer Learning, and Privacy-Preserving AI</span></li> 
+			<li><span style="font-size: 11pt;"> Applications: Natural and Medical Image Analysis</span></li>
+		</ul>
+	</span></li>
 	<li><span style="font-size: 11pt;"> Programming Languages
 		<ul>
 			<li><span style="font-size: 11pt;"> MATLAB, Python, Tensorflow, Keras </span></li> 
