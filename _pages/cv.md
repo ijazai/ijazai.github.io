@@ -85,6 +85,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 			<li><span style="font-size: 11pt;"> Familiar with: C, C++, and Java </span></li>
 		</ul>
 	</span></li>
+	<li><span style="font-size: 11pt;">Communication, Presentation, Project Management, Team Leading, Collaborative Skills</span></li>
 </ul>
 
 <p><span style="font-size: 12pt;"><strong>Awards and Scholarships</strong></span></p>
