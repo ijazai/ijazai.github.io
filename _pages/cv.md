@@ -68,12 +68,16 @@ Topic: Double Random Phase Encoding for  Image Encryption
 </ul>
 <p><span style="font-size: 12pt;"><strong>Skills</strong></span></p>
 <ul>
-<li><span style="font-size: 11pt;">
-MATLAB, Python, Tensorflow, Keras
-</span></li> 
-<li><span style="font-size: 11pt;">
-Other programming languages: C and C++
-</span></li> 
+	<li><span style="font-size: 11pt;">
+		<ul>
+			<li><span style="font-size: 11pt;"> MATLAB, Python, Tensorflow, Keras </span></li> 
+			<li><span style="font-size: 11pt;"> Familiar with: C, C++, and Java </span></li>
+		</ul>
+	</span></li>
+	<li><span style="font-size: 11pt;">
+		<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption</span></li>
+		<li><span style="font-size: 11pt;"> Deep Learning, Machine Learning and Medical Image Analysis </span></li>
+	</span></li>
 </ul>
 
 <p><span style="font-size: 12pt;"><strong>Awards and Scholarships</strong></span></p>
@@ -129,7 +133,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 <p><span style="font-size: 11pt;"><strong>International Conferences</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images", IEEE International Symposium on Communications and Information Technologies (ISCIT) 2023. (Under Review)
-<a href="" target="_blank">&#128214;</a>
+<a href="https://iscit2023.org/index.php/cfp/" target="_blank">&#128214;</a>
 </span></li> 
 
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning”, IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. (Oral Presentation)
