@@ -33,7 +33,7 @@ Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021. <br>
 
 <u>Description</u>: <i> Data transmission has dual requirements of compression and encryption.<span id="dotsJ1">...</span><span id="moreJ1" style="display:none">
 The order in which the two operations are carried out affects the overall efficiency of multimedia application. The encrypted data has less or no compressibility while, it is challenging to ensure reasonable security without downgrading the compression performance. Therefore, incorporating one requirement into another is an interesting approach. We propose a novel hybrid image encryption and compression scheme that allows compression in the encryption domain. The encryption is based on Chaos theory and is carried out in two steps, i.e., permutation and substitution. The lossless compression is performed on the shuffled image and then the compressed bitstream is grouped into 8-bit elements for substitution stage. In addition, we also porpose a novel data-to-symbol mapping method based on Chinese Remainder Theorem for the improved compression savings.</span></i>
-<button onclick="moreLessFtn('dotsJ1','moreJ1','moreLessBttnJ1')" id="moreLessBttnJ1" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsJ1','moreJ1','moreLessBttnJ1')" id="moreLessBttnJ1" style="border:none; background-color:transparent; color:dodgerblue">+ Read more</button>
 
 <br>
 
@@ -49,7 +49,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 performance of the trained deep learning models<span id="dotsC15">...</span><span id="moreC15" style="display:none">
 (inference phase) on the JPEG compressed images, we propose a noise-based
 data augmentation technique called noise-cuts-noise approach.</span></i>
-<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC15','moreC15','moreLessBttnC15')" id="moreLessBttnC15" style="border:none; background-color:transparent; color:dodgerblue">+ Read more</button>
 
 <br>
 
@@ -60,7 +60,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 [Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC14.md %})<br>
 
 <u>Description</u>: <i> Image data transmission over a wireless communication channel is susceptible to distortions<span id="dotsC14">...</span><span id="moreC14" style="display:none">. We analyze the robustness of the trained deep learning models on such images where the noise is introudced by an image communication system that utilizes higher order M-QAM schemes.</span></i>
-<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent; color:dodgerblue">+ Read more</button>
 
 <br>
 
@@ -77,7 +77,7 @@ kept protected not only during transmission but during
 computations as well. To meet these requirements, we
 proposed a privacy-preserving Deep Learng (PPDL) scheme based on perceptual encryption, that enable
 computations without the need of decryption.</span></i>
-<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC13','moreC13','moreLessBttnC13')" id="moreLessBttnC13" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -89,7 +89,7 @@ IEEE Asia Pacific Conference on Communication (APCC): 255-259, Oct. 2022. <br>
 
 <u>Description</u>: <i> Channel correction plays an important role in performance of wireless communication systems.<span id="dotsC12">...</span><span id="moreC12" style="display:none">In this study, we considered the otherwise to bypass channel estimation of an Orthogonal Frequency Division Multiplexing (OFDM) based image communication system designed to enable cloud-based deep learning (DL) computation
 .</span></i>
-<button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC12','moreC12','moreLessBttnC12')" id="moreLessBttnC12" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -101,7 +101,7 @@ IEEE International Conference on Information and Communication Technology Conver
 [Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC11.md %})<br>
 
 <u>Description</u>: <i> For an efficient edge-cloud collaboaration to enable AI-based IoT applications <span id="dotsC11">...</span><span id="moreC11" style="display:none">, the trained models should be periodically trained on the most recent data. This necessitates teh data share between cloud and edge servers. However, the data acquired by IoT end devices usually consists of sensitive information and sharing them with cloud services provider results in users' privacy concern. To this end, we propose perceptual encryption-based method to enable DL computations in encryption domain in order to protect users' privacy. </span></i>
-<button onclick="moreLessFtn('dotsC11','moreC11','moreLessBttnC11')" id="moreLessBttnC11" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC11','moreC11','moreLessBttnC11')" id="moreLessBttnC11" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -113,7 +113,7 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 249-252, O
 
 <u>Description</u>: <i> The design of lossy algorithms is based on a principle to discard information that are not perceivable by human visual system (HVS). <span id="dotsC10">...</span><span id="moreC10" style="display:none">
 With the popularity of deep learning models (DL) in computer vision (CV), it is necessary to characterize the loss in image quality with respect to computer vision systems as well.  We present a quantitative assessment of different types of data loss that occurs due to chroma subsampling, quantization, and rounding functions of the JPEG algorithm.</span></i>
-<button onclick="moreLessFtn('dotsC10','moreC10','moreLessBttnC10')" id="moreLessBttnC10" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC10','moreC10','moreLessBttnC10')" id="moreLessBttnC10" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -125,7 +125,7 @@ IEEE International Confernce on Ubiquitous and Future Networks (ICUFN): 301-306,
 
 <u>Description</u>: <i> We present an application of perceptual encryption for privacy-preserving face recognition task. <span id="dotsC9">...</span><span id="moreC9" style="display:none">
 The main advantage of the proposed method is that it retains color information and the encryption has no effect on the ML algorithm accuracy.</span></i>
-<button onclick="moreLessFtn('dotsC9','moreC9','moreLessBttnC9')" id="moreLessBttnC9" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC9','moreC9','moreLessBttnC9')" id="moreLessBttnC9" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -138,7 +138,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 
 <u>Description</u>: <i> We proposed a deep learning-based method to determine state of the jigsaw puzzle in an input image.<span id="dotsC8">...</span><span id="moreC8" style="display:none">
 The task is represented as a classification problem where each state of the puzzle is considered as a class. As an application, we have shown that the trained model can be used as a fitness function of genetic algorithm-based jigsaw puzzle solver.</span></i>
-<button onclick="moreLessFtn('dotsC8','moreC8','moreLessBttnC8')" id="moreLessBttnC8" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC8','moreC8','moreLessBttnC8')" id="moreLessBttnC8" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -150,7 +150,7 @@ IEEE International Conference on Information Networking (ICOIN): 30–33, Jan. 2
 [Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})<br>
 
 <u>Description</u>: <i>We extend the applications of perceptual encryption-based encryption-then-compression (EtC) schemes to medical image processing domain <span id="dotsC7">...</span><span id="moreC7" style="display:none"> to satisfy the dual requirement of a communication system (that is compression and encryption). Given the importance of medical images data, we propose a method to improve the security of the conventional EtC methods. We have implemented a deep learning model for tuberculosis screeining in Montgomery datasets.</span></i>
-<button onclick="moreLessFtn('dotsC7','moreC7','moreLessBttnC7')" id="moreLessBttnC7" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC7','moreC7','moreLessBttnC7')" id="moreLessBttnC7" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -163,7 +163,7 @@ KINGPC International Conference on Next Generation Computing (ICNGC): 244-246, N
 
 <u>Description</u>: <i> We extend our ICAIIC 2021's approach to run pre-trained models on grayscale images <span id="dotsC6">...</span><span id="moreC6" style="display:none">
 while benefiting from transfer learning for multiclass classification problem.</span></i>
-<button onclick="moreLessFtn('dotsC6','moreC6','moreLessBttnC6')" id="moreLessBttnC6" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC6','moreC6','moreLessBttnC6')" id="moreLessBttnC6" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -176,7 +176,7 @@ IEEE International Conference on Artificial Intelligence in Information and Comm
 
 <u>Description</u>: <i>Grayscale images have smaller sizes than color images thereby, can enable real time computer vision applications <span id="dotsC5">...</span><span id="moreC5" style="display:none">
 in scenarios where there is constraint on device memory and available bandwidth. We propose an approach to run pre-trained models on grayscale images for binary classification task. </span></i>
-<button onclick="moreLessFtn('dotsC5','moreC5','moreLessBttnC5')" id="moreLessBttnC5" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC5','moreC5','moreLessBttnC5')" id="moreLessBttnC5" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -189,7 +189,7 @@ ACM International Conference on Smart Media and Applications (SMA): 34–38, Sep
 
 <u>Description</u>: <i> We propose a method for selective compression and selectinve encryption of medical images. <span id="dotsC4">...</span><span id="moreC4" style="display:none">
 It is based on lossless compression and encryption of the region-of-interest (ROI) in medical images. The non-ROI part of the image is compressed in lossy mode and is stored or transmitted as plain data, in order to further reduce the image size and to avoid the computational cost of encrypting huge volumes of medical images.</span></i>
-<button onclick="moreLessFtn('dotsC4','moreC4','moreLessBttnC4')" id="moreLessBttnC4" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC4','moreC4','moreLessBttnC4')" id="moreLessBttnC4" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -204,7 +204,7 @@ IEEE International Conference on Information Networking (ICOIN): 634–636, Jan.
 foundation of recent simultaneous encryption and compression
 schemes for image data. <span id="dotsC3">...</span><span id="moreC3" style="display:none">
 We analyze the number of moduli (i.e. block size) and their values effect on the compression performance of CRT methods.</span></i>
-<button onclick="moreLessFtn('dotsC3','moreC3','moreLessBttnC3')" id="moreLessBttnC3" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC3','moreC3','moreLessBttnC3')" id="moreLessBttnC3" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -218,7 +218,7 @@ KINGPC International Conference on Next Generation Computing (ICNGC): Dec 20-22,
 <u>Description</u>: <i>We propose edge map quality measure based on Just-Noticeable-Difference (JND) feature of human visual
 system <span id="dotsC2">...</span><span id="moreC2" style="display:none">, to compensate the shortcomings of distance-based edge measures. For this purpose, we design constant stimulus experiment to measure the JND value for two spatial alternative.
 .</span></i>
-<button onclick="moreLessFtn('dotsC2','moreC2','moreLessBttnC2')" id="moreLessBttnC2" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC2','moreC2','moreLessBttnC2')" id="moreLessBttnC2" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -230,7 +230,7 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 [Summary]({{ site.baseurl }}{% link _publications/2018-01-24-paper-title-number-IC1.md %}) <br>
 
 <u>Description</u>: <i> We evaluate the impact of various color-to-grayscale algorithms in edge detection. <span id="dotsC1">...</span><span id="moreC1" style="display:none"> We implement ten different color-to-grayscale conversion algorithms and the resultant grayscale images were further tested with eight different edge detection algorithms.</span></i>
-<button onclick="moreLessFtn('dotsC1','moreC1','moreLessBttnC1')" id="moreLessBttnC1" style="border:none; background-color:transparent; color:dodgerblue">Read more</button>
+<button onclick="moreLessFtn('dotsC1','moreC1','moreLessBttnC1')" id="moreLessBttnC1" style="border:none; background-color:transparent; color:dodgerblue">+ Read More</button>
 
 <br>
 
@@ -344,11 +344,11 @@ function moreLessFtn(dotsID, moreID, myBtnID) {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "+ Read More"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
+    btnText.innerHTML = "- Read Less"; 
     moreText.style.display = "inline";
   }
 }
