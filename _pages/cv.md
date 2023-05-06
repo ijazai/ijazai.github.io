@@ -68,15 +68,13 @@ Topic: Double Random Phase Encoding for  Image Encryption
 </ul>
 <p><span style="font-size: 12pt;"><strong>Skills</strong></span></p>
 <ul>
-	<li><span style="font-size: 11pt;">
+	<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption</span></li>
+	<li><span style="font-size: 11pt;"> Deep Learning, Machine Learning and Medical Image Analysis </span></li>
+	<li><span style="font-size: 11pt;"> Programming Languages
 		<ul>
 			<li><span style="font-size: 11pt;"> MATLAB, Python, Tensorflow, Keras </span></li> 
 			<li><span style="font-size: 11pt;"> Familiar with: C, C++, and Java </span></li>
 		</ul>
-	</span></li>
-	<li><span style="font-size: 11pt;">
-		<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption</span></li>
-		<li><span style="font-size: 11pt;"> Deep Learning, Machine Learning and Medical Image Analysis </span></li>
 	</span></li>
 </ul>
 
@@ -264,6 +262,10 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 
 <li><span style="font-size: 11pt;"> Elsevier Cyber Security and Applications (CSA) 
 <a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">&#127968;</a>
+</span></li> 
+
+<li><span style="font-size: 11pt;"> Elsevier Journal of King Saud University - Computer and Information Sciences (JKSUCIS) 
+<a href="https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences" target="_blank">&#127968;</a>
 </span></li> 
 
 <li><span style="font-size: 11pt;"> Bentham Science Current Medical Imaging (CMIM) 
