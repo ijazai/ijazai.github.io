@@ -68,7 +68,11 @@ Topic: Double Random Phase Encoding for  Image Encryption
 </ul>
 <p><span style="font-size: 12pt;"><strong>Skills</strong></span></p>
 <ul>
-	<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption</span></li>
+	<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption
+		<ul>
+			<li><span style="font-size: 11pt;"> Foundational Algorithms; Image Quality Assessment; Lossless and Lossy Compression; Number Theory, Chaos Theory and Perceptual Encryption</span></li> 
+		</ul>
+	</span></li>
 	<li><span style="font-size: 11pt;"> Deep Learning and Machine Learning 
 		<ul>
 			<li><span style="font-size: 11pt;"> Algorithms: Supervised and Unsupervised Learning, Transfer Learning, and Privacy-Preserving AI</span></li> 
