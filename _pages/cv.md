@@ -28,7 +28,7 @@ a:active {
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
 
@@ -73,9 +73,40 @@ Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
+
+
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+P.h.D., Researcher | Sep 2018 to present <br></strong></span></p>
+
+<ul>
+<li><span style="font-size: 11pt;">
+Supervisor: Prof. Seokjoo Shin  <br>
+Topic: An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving domain
+</span></li>
+
+<li><span style="font-size: 11pt;">Developed novel techniques for image encryption and compression to preserve user privacy during data transmission, storage and DL-based computations </span></li>
+
+<li><span style="font-size: 11pt;">Developed novel Image Quality Assessment metric to quantify perceptual distortions with respect to downstream DL model performance </span></li>
+
+<li><span style="font-size: 11pt;">Developed novel noise-based augmentation method to mitigate compression artifacts impact on DL model performance </span></li>
+
+<li><span style="font-size: 11pt;">Published 4 journal papers, 27 conference papers and 1 patent (applied)</span></li>
+
+<li><span style="font-size: 11pt;">Aided principal investigator with research projects and administrative tasks</span></li>
+
+<li><span style="font-size: 11pt;">Received Research Fund from Chosun University (2022 & 2020)</span></li>
+
+<li><span style="font-size: 11pt;">Received Basic Science Research Program Funding</span></li>
+
+
+</ul>
+
+
+
+
 <ul>
 <li><span style="font-size: 11pt;">
 Ph.D. Researcher | Chosun University | Sep 2018 to present <br>
@@ -94,7 +125,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 </span></li>
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>SKILLS</strong></span></p>
 <ul>
@@ -118,7 +149,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 	<li><span style="font-size: 11pt;">Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
 <ul>
@@ -130,7 +161,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>PUBLICATIONS, PRESENTATIONS & PATENTS </strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journals</strong></span></p>
@@ -280,7 +311,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
@@ -325,7 +356,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 </span></li> 
 </ul>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
 <ul>
