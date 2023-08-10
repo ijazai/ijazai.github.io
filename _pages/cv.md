@@ -37,19 +37,38 @@ Ph.D. Candidate in Computer Engineering | August 2023 (Expected) <br></strong></
 <li><span style="font-size: 11pt;">
 Thesis title: A cryptographic approach towards privacy-preserving image data transmission, storage and computation <br>
 Advisor: Prof. Seokjoo Shin
-</span></li>  
+</span></li>
+
+<li><span style="font-size: 11pt;">Received BK21 Plus Fellowship from National Research Foundation of Korea </span></li>
+<li><span style="font-size: 11pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
+
+</ul>
+
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+M.S. in Computer Engineering | 2018 <br></strong></span></p>
+
+<ul>
 <li><span style="font-size: 11pt;">
-Chosun University | South Korea <br>
-M.S. in Computer Engineering | 2018 <br>
 Thesis title: Study of edge detection with color-to-grayscale algorithms <br>
 Advisor: Prof. Seokjoo Shin
-</span></li>  
+</span></li>
+
+<li><span style="font-size: 11pt;">Received BK21 Fellowship from National Research Foundation of Korea </span></li>
+<li><span style="font-size: 11pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
+
+</ul>
+
+<p><span style="font-size: 11pt;"><strong>University of Peshawar | Pakistan <br>
+B.S. in Computer Science | 2015 <br></strong></span></p>
+
+<ul>
 <li><span style="font-size: 11pt;">
-University of Peshawar | Pakistan <br>
-B.S. in Computer Science | 2015 <br>
 Thesis title: Robot cognition <br>
 Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 </span></li>
+
+<li><span style="font-size: 11pt;">Prime minister award (top 10 of the class)</span></li>
+
 </ul>
 
 <p><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
