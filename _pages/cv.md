@@ -26,54 +26,54 @@ a:active {
 </style>
 
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
-<p><span style="font-size: 10pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
+<p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
 
-<p><span style="font-size: 10pt;"><strong>Chosun University | South Korea <br>
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
 Ph.D. Candidate in Computer Engineering | August 2023 (Expected) <br></strong></span></p>
 
 <ul>
-<li><span style="font-size: 10pt;">
+<li><span style="font-size: 11pt;">
 Thesis title: A cryptographic approach towards privacy-preserving image data transmission, storage and computation <br>
 Advisor: Prof. Seokjoo Shin
 </span></li>
 
-<li><span style="font-size: 10pt;">Received BK21 Plus Fellowship from National Research Foundation of Korea </span></li>
-<li><span style="font-size: 10pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
+<li><span style="font-size: 11pt;">Received BK21 Plus Fellowship from National Research Foundation of Korea </span></li>
+<li><span style="font-size: 11pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
 
 </ul>
 
-<p><span style="font-size: 10pt;"><strong>Chosun University | South Korea <br>
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
 M.S. in Computer Engineering | 2018 <br></strong></span></p>
 
 <ul>
-<li><span style="font-size: 10pt;">
+<li><span style="font-size: 11pt;">
 Thesis title: Study of edge detection with color-to-grayscale algorithms <br>
 Advisor: Prof. Seokjoo Shin
 </span></li>
 
-<li><span style="font-size: 10pt;">Received BK21 Fellowship from National Research Foundation of Korea </span></li>
-<li><span style="font-size: 10pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
+<li><span style="font-size: 11pt;">Received BK21 Fellowship from National Research Foundation of Korea </span></li>
+<li><span style="font-size: 11pt;">Research Assistant and Excellent Student Scholarships from Chosun University </span></li>
 
 </ul>
 
-<p><span style="font-size: 10pt;"><strong>University of Peshawar | Pakistan <br>
+<p><span style="font-size: 11pt;"><strong>University of Peshawar | Pakistan <br>
 B.S. in Computer Science | 2015 <br></strong></span></p>
 
 <ul>
-<li><span style="font-size: 10pt;">
+<li><span style="font-size: 11pt;">
 Thesis title: Robot cognition <br>
 Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 </span></li>
 
-<li><span style="font-size: 10pt;">Prime minister award (top 10 of the class)</span></li>
+<li><span style="font-size: 11pt;">Prime minister award (top 10 of the class)</span></li>
 
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
 <ul>
@@ -94,7 +94,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 </span></li>
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>SKILLS</strong></span></p>
 <ul>
@@ -118,7 +118,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 	<li><span style="font-size: 11pt;">Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
 <ul>
@@ -130,7 +130,7 @@ Topic: Double Random Phase Encoding for  Image Encryption
 	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>PUBLICATIONS, PRESENTATIONS & PATENTS </strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journals</strong></span></p>
@@ -280,7 +280,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
@@ -325,7 +325,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 </span></li> 
 </ul>
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
 <ul>
