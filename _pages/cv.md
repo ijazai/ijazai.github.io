@@ -25,12 +25,16 @@ a:active {
 }
 </style>
 
+<p> Jump to <br>
+<a href="#education">EDUCATION</a> <a href="#experience">EXPERIENCE</a>
+
+</p>
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
+<p id="education"><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
 Ph.D. Candidate in Computer Engineering | August 2023 (Expected) </strong></span></p>
@@ -75,7 +79,7 @@ Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
+<p id="experience"><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
 
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
