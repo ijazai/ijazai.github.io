@@ -33,11 +33,11 @@ a:active {
 <p><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Ph.D. Candidate in Computer Engineering | August 2023 (Expected) <br></strong></span></p>
+Ph.D. Candidate in Computer Engineering | August 2023 (Expected) </strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
-Thesis title: A cryptographic approach towards privacy-preserving image data transmission, storage and computation <br>
+Thesis title: <i>A cryptographic approach towards privacy-preserving image data transmission, storage and computation</i> <br>
 Advisor: Prof. Seokjoo Shin
 </span></li>
 
@@ -47,11 +47,11 @@ Advisor: Prof. Seokjoo Shin
 </ul>
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-M.S. in Computer Engineering | 2018 <br></strong></span></p>
+M.S. in Computer Engineering | 2018 </strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
-Thesis title: Study of edge detection with color-to-grayscale algorithms <br>
+Thesis title: <i> Study of edge detection with color-to-grayscale algorithms </i><br>
 Advisor: Prof. Seokjoo Shin
 </span></li>
 
@@ -61,11 +61,11 @@ Advisor: Prof. Seokjoo Shin
 </ul>
 
 <p><span style="font-size: 11pt;"><strong>University of Peshawar | Pakistan <br>
-B.S. in Computer Science | 2015 <br></strong></span></p>
+B.S. in Computer Science | 2015 </strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
-Thesis title: Robot cognition <br>
+Thesis title: <i> Robot cognition </i><br>
 Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 </span></li>
 
@@ -84,46 +84,45 @@ P.h.D., Researcher | Sep 2018 to present <br></strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">
 Supervisor: Prof. Seokjoo Shin  <br>
-Topic: An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving domain
+Topic: <i>An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving domain</i>
 </span></li>
-
 <li><span style="font-size: 11pt;">Developed novel techniques for image encryption and compression to preserve user privacy during data transmission, storage and DL-based computations </span></li>
-
 <li><span style="font-size: 11pt;">Developed novel Image Quality Assessment metric to quantify perceptual distortions with respect to downstream DL model performance </span></li>
-
 <li><span style="font-size: 11pt;">Developed novel noise-based augmentation method to mitigate compression artifacts impact on DL model performance </span></li>
-
 <li><span style="font-size: 11pt;">Published 4 journal papers, 27 conference papers and 1 patent (applied)</span></li>
-
 <li><span style="font-size: 11pt;">Aided principal investigator with research projects and administrative tasks</span></li>
-
 <li><span style="font-size: 11pt;">Received Research Fund from Chosun University (2022 & 2020)</span></li>
-
 <li><span style="font-size: 11pt;">Received Basic Science Research Program Funding</span></li>
-
-
 </ul>
 
 
-
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+Graduate Researcher | Sep 2017 to Aug 2018 <br></strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
-Ph.D. Researcher | Chosun University | Sep 2018 to present <br>
-Supervisor: Prof. Seokjoo Shin <br>
-Topic: An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving domain
-</span></li>  
-<li><span style="font-size: 11pt;">
-Graduate Researcher | Chosun University | Sep 2017 to Aug 2018 <br>
-Supervisor: Prof. Seokjoo Shin <br>
-Topic: Image processing and computer vision applications
-</span></li>  
-<li><span style="font-size: 11pt;">
-Graduate Researcher | Chosun University | Sep 2016 to Aug 2017 <br>
-Supervisor: Prof. Inkyu Moon <br>
-Topic: Double Random Phase Encoding for  Image Encryption
+Supervisor: Prof. Seokjoo Shin  <br>
+Topic: <i>Image processing and computer vision applications</i>
 </span></li>
+<li><span style="font-size: 11pt;">Assessed the impact of color to grayscale conversion algorithms on edge detectors</span></li>
+<li><span style="font-size: 11pt;">Developed novel edge map quality assessment metric</span></li>
+<li><span style="font-size: 11pt;">Published 1 journal and 2 conference papers</span></li>
+<li><span style="font-size: 11pt;">Aided principal investigator with research projects and administrative tasks</span></li>
+<li><span style="font-size: 11pt;">Received Basic Science Research Program Funding</span></li>
 </ul>
+
+
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+Graduate Researcher | Sep 2016 to Aug 2017 <br></strong></span></p>
+
+<ul>
+<li><span style="font-size: 11pt;">
+Supervisor: Prof. Inkyu Moon <br>
+Topic: <i>Double random phase encoding for image encryption</i>
+</span></li>
+<li><span style="font-size: 11pt;">Published 1 conference paper</span></li>
+</ul>
+
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
