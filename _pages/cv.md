@@ -25,14 +25,16 @@ a:active {
 }
 </style>
 
-<p><span style="font-size: 12pt;"><strong>Summary</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
-<p><span style="font-size: 12pt;"><strong>Education</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
+
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+Ph.D. Candidate in Computer Engineering | August 2023 (Expected) <br></strong></span></p>
+
 <ul>
 <li><span style="font-size: 11pt;">
-Chosun University | South Korea <br>
-Ph.D. Candidate in Computer Engineering  | August 2023 (Expected) <br>
 Thesis title: A cryptographic approach towards privacy-preserving image data transmission, storage and computation <br>
 Advisor: Prof. Seokjoo Shin
 </span></li>  
@@ -50,7 +52,7 @@ Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 </span></li>
 </ul>
 
-<p><span style="font-size: 12pt;"><strong>Professional Experience</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">
 Ph.D. Researcher | Chosun University | Sep 2018 to present <br>
@@ -68,7 +70,7 @@ Supervisor: Prof. Inkyu Moon <br>
 Topic: Double Random Phase Encoding for  Image Encryption
 </span></li>
 </ul>
-<p><span style="font-size: 12pt;"><strong>Skills</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>SKILLS</strong></span></p>
 <ul>
 	<li><span style="font-size: 11pt;"> Image Processing, Computer Vision, Image Compression, and Image Encryption
 		<ul>
@@ -90,33 +92,18 @@ Topic: Double Random Phase Encoding for  Image Encryption
 	<li><span style="font-size: 11pt;">Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
 </ul>
 
-<p><span style="font-size: 12pt;"><strong>Awards and Scholarships</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
 <ul>
-<li><span style="font-size: 11pt;">Sep 2018 to present
-<ul><li><span style="font-size: 11pt;">Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li></ul>
-</span></li> 
-<li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
-<li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
-<li><span style="font-size: 11pt;">2021 Best Poster Award, KINGPC Spring Conference</span></li> 
-<li><span style="font-size: 11pt;">2020 Best Paper Award, ACM SMA Conference</span></li> 
-<li><span style="font-size: 11pt;">Sep 2018 to Sep 2020 
-<ul><li><span style="font-size: 11pt;">Chosun Research Assistant Scholarship | Covered 50% tuition fee 
-Chosun Excellent Student Scholarship | Covered 33% tuition fee </span></li></ul>
-</span></li> 
-<li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
-
-<li><span style="font-size: 11pt;">Sep 2016 to Sep 2018 
-<ul>
-<li><span style="font-size: 11pt;">Chosun Research Assistant Scholarship | Covered 50% tuition fee 
-Chosun Excellent Student Scholarship | Covered 33% tuition fee</span></li>
-<li><span style="font-size: 11pt;">Recipient of BrainKorea 21<sup>st</sup> Century (BK21) Scholarship | Covered monthly stipend, tuition fee, support for article processing charges, tech allowances, and travel grants</span></li>
-</ul>
-</span></li> 
-<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
+	<li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
+	<li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
+	<li><span style="font-size: 11pt;">2021 Best Poster Award, KINGPC Spring Conference</span></li> 
+	<li><span style="font-size: 11pt;">2020 Best Paper Award, ACM SMA Conference</span></li> 
+	<li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
+	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
 
 
-<p><span style="font-size: 12pt;"><strong>Publications</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>PUBLICATIONS, PRESENTATIONS & PATENTS </strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journals</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">
@@ -264,7 +251,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<p><span style="font-size: 12pt;"><strong>Services</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
 <ul>
 
@@ -285,7 +272,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<p><span style="font-size: 11pt;"><strong>Technical Program Committee Member</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>Technical Program Committee Member / Conference Reviewers</strong></span></p>
 <ul>
 
 <li><span style="font-size: 11pt;">
@@ -307,7 +294,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 </span></li> 
 </ul>
 
-<p><span style="font-size: 12pt;"><strong>Languages</strong></span></p>
+<p><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
 <ul>
 <li><span style="font-size: 11pt;">English (Full professional proficiency)</span></li> 
 <li><span style="font-size: 11pt;">Korean (Elementary proficiency)</span></li> 
