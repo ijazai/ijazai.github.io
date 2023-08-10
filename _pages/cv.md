@@ -25,6 +25,8 @@ a:active {
 }
 </style>
 
+<p><span style="font-size: 12pt;"><strong>Summary</strong></span></p>
+<p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
 <p><span style="font-size: 12pt;"><strong>Education</strong></span></p>
 <ul>
