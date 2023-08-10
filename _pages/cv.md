@@ -37,7 +37,6 @@ a:active {
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
-<p> Jump to: <a href="#top">Top</a>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="education"><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
@@ -379,3 +378,6 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 <li><span style="font-size: 11pt;">Urdu (Native or bilingual proficiency)</span></li> 
 <li><span style="font-size: 11pt;">Pashto (Native or bilingual proficiency)</span></li> 
 </ul>
+
+<p> Jump to: <a href="#top">Top</a>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
