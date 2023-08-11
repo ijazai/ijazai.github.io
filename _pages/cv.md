@@ -392,12 +392,12 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 
 
 <script>
-window.onscroll = function() {myFunction()};
+window.onscroll = function() {jumpToFunction()};
 
 var header = document.getElementById("jumpToDiv");
 var sticky = header.offsetTop;
 
-function myFunction() {
+function jumpToFunction() {
   if (window.pageYOffset > sticky) {
     header.classList.add("sticky");
   } else {
