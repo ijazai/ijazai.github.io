@@ -27,13 +27,12 @@ a:active {
 .sticky {
   position: fixed;
   top: 0;
-  width: 100%;
 }
 </style>
 
 
 
-<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
+<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%; padding: 10px;" id="myHeader"><strong> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
