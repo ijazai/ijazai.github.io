@@ -89,8 +89,13 @@ Currently, I am working on representation learning to quantify perceptual distor
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>References</strong></span></p>
+[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
 <p align="justify"><span style="font-size: 11pt;">
-[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. <br>
+[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. 
+[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
+<br>
 [2]	I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning,” in 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Bali, Indonesia: IEEE, Feb. 2023, pp. 221–226. doi: 10.1109/ICAIIC57133.2023.10067012. <br>
 [3]	I. Ahmad and S. Shin, “IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning,” Sensors, vol. 22, no. 20, p. 8074, Oct. 2022, doi: 10.3390/s22208074. <br>
 [4]	I. Ahmad and S. Shin, “Encryption-then-Compression System for Cloud-based Medical Image Services,” in 2022 International Conference on Information Networking (ICOIN), Jeju-si, Korea, Republic of: IEEE, Jan. 2022, pp. 30–33. doi: 10.1109/ICOIN53446.2022.9687214. <b>[Best Paper Award] </b><br>
