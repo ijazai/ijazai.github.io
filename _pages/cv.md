@@ -32,14 +32,14 @@ a:active {
 
 
 
-<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%; padding: 10px;" id="myHeader"><strong> Jump to:
+<p><span><div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="jumpToDiv"><strong> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
 | <a href="#articles">PUBLICATIONS</a>
 | <a href="#services">SERVICES</a>
 | <a href="#languages">LANGUAGES</a>
-</strong></div>
+</strong></span></p>
 
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
@@ -394,7 +394,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 <script>
 window.onscroll = function() {myFunction()};
 
-var header = document.getElementById("myHeader");
+var header = document.getElementById("jumpToDiv");
 var sticky = header.offsetTop;
 
 function myFunction() {
