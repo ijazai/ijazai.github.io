@@ -34,7 +34,7 @@ a:active {
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
-<a href="#abstract">Abstract</a> | <a href="#experience">EXPERIENCE</a>
+<a href="#abstract">Abstract</a>
 | <a href="#contributions">Contributions</a>
 | <a href="#proposedMethod">Proposed Method</a>
 | <a href="#conclusion">Conclusion</a>
