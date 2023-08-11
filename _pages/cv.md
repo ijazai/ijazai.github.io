@@ -144,7 +144,25 @@ Topic: <i>Double random phase encoding for image encryption</i>
 </ul>
 
 
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+Project Manager<br></strong></span></p>
+
+<ul>
+<li><span style="font-size: 11pt;">Responsibilities: Project proposal preparation, Yearly progress report, Software installation and Server configuration</span></li>
+<li><span style="font-size: 11pt;">Acquired high performance computational resources from NIPA, Korea for consecutive 3 years</span></li>
+<li><span style="font-size: 11pt;">Handled List of Projects
+<ul>
+<li><span style="font-size: 11pt;">Jan 2023 to present <br><i>Development of privacy-preserving deep learning-based image classification systems using both private and publicly available image datasets</i></span></li>
+<li><span style="font-size: 11pt;">Jan 2022 to Dec 2022 <br><i>Fine-tuning pre-trained deep learning color models for medical image analysis</i></span></li>
+<li><span style="font-size: 11pt;">Apr 2021 to Dec 2021 <br><i>Development of object recognition system for smart cities and Internet of Multimedia Things</i></span></li>
+</ul>
+</span></li>
+</ul>
+
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
 
 <p id="skills"><span style="font-size: 12pt;"><strong>SKILLS</strong></span></p>
 <ul>
