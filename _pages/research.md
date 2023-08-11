@@ -37,18 +37,20 @@ a:active {
 
 <p align="justify"><span style="font-size: 11pt;">
 
-My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain. <br>
+My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain. <br><br>
 
-There are two main challenges in the development and implementation of Deep Learning (DL) solutions: First, DL algorithms are characterized as compute-intensive tasks, and their training requires innovative technology and high computational resources. Second, training DL models for a particular task needs a large volume of sample data, which in some domains such as in the field of medical image analysis, is expensive and difficult to acquire. These challenges can be efficiently addressed by taking advantage of powerful infrastructures such as cloud services. For example, in the first case, organizations can avail cloud-computing services to access the latest technology to speed-up the training process and allow DL models to scale efficiently with a lower capital cost. Similarly, to mitigate the data deficiency challenge, an organization can benefit from a community cloud, where services are shared by organizations with common interests to achieve their goals. In this case, cloud storage services can be utilized as a shared data repository for joint collaborative learning. <br>
+There are two main challenges in the development and implementation of Deep Learning (DL) solutions: First, DL algorithms are characterized as compute-intensive tasks, and their training requires innovative technology and high computational resources. Second, training DL models for a particular task needs a large volume of sample data, which in some domains such as in the field of medical image analysis, is expensive and difficult to acquire. These challenges can be efficiently addressed by taking advantage of powerful infrastructures such as cloud services. For example, in the first case, organizations can avail cloud-computing services to access the latest technology to speed-up the training process and allow DL models to scale efficiently with a lower capital cost. Similarly, to mitigate the data deficiency challenge, an organization can benefit from a community cloud, where services are shared by organizations with common interests to achieve their goals. In this case, cloud storage services can be utilized as a shared data repository for joint collaborative learning. <br><br>
 
 This avail of third-party resources provides an efficient solution for a well-trained DL model; however, this can lead to privacy concerns as data outsourcing comes with a risk of information leakage. Though the traditional image encryption techniques guarantee data security in transit and at rest, data decryption is necessary prior to performing any computations on them, which makes them inadequate to cater to the requirements of data security in use. On the other hand, techniques specifically proposed to enable computation in the encryption domain have either their associated computational cost, communication overhead or specialized design requirement that may reduce data utility and degrade the DL model performance. In addition, when transmitting large volumes of data (especially images), compression is necessary to efficiently utilize the available bandwidth. Therefore, I argue for a holistic privacy-preserving solution that can satisfy the dual requirements of data transmission, data storage and computation in the encryption domain to fully reap the benefits of DL for data-driven applications.
 
 </span></p>
 
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 <p align="justify" id="phdThesis"><span style="font-size: 12pt;"><strong>PhD Thesis</strong></span></p>
 
 <p align="justify"><span style="font-size: 11pt;"> 
-Compression and encryption deal with the redundancy of a source but each with their own purpose. The unwanted redundancy of a source is reduced in compression to achieve a data representation that requires lesser number of bits while in encryption it is reduced to make the source unintelligible by the addition of randomness. The order in which the compression and encryption operations are carried out affects the overall efficiency of the system. The common approach is to complete compression prior to encryption. Otherwise there is less or no compressibility as the encryption process would have significantly reduced the correlation and altered the statistical distribution of the image data. <br>
+Compression and encryption deal with the redundancy of a source but each with their own purpose. The unwanted redundancy of a source is reduced in compression to achieve a data representation that requires lesser number of bits while in encryption it is reduced to make the source unintelligible by the addition of randomness. The order in which the compression and encryption operations are carried out affects the overall efficiency of the system. The common approach is to complete compression prior to encryption. Otherwise there is less or no compressibility as the encryption process would have significantly reduced the correlation and altered the statistical distribution of the image data. <br><br>
 In my PhD thesis, I investigated the order of performing compression and encryption to find proper trade-offs between maintaining a desired level of compression savings, preserving necessary privacy while achieving acceptable downstream application performance by means of implementing suitable encryption and compression techniques, and avoiding (or at best, reducing) the potential negative impact of the visual degradation (because of applying either privacy preservation or compression technique) on the DL model performance. The main contributions of my thesis are summarized as below:
 
 <ul>
@@ -73,10 +75,24 @@ Besides better security, the main advantage of the proposed PE method is that th
 
 </span></p>
 
-
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>Current Work</strong></span></p>
 <p align="justify"><span style="font-size: 11pt;">
 Currently, I am working on representation learning to quantify perceptual distortions in wirelessly transmitted images. This is motivated by an observation that the existing Image Quality Assessment (IQA) metrics either rely on or are optimized to coincide with human judgment and do not account for the perceptual distortions (for example, because of imperfect communication system) that are responsible for the degradation in DL model performance. Given the popularity of DL solutions in various domains, it is necessary to quantify perceptual loss in distorted images using machine perception. Towards this we proposed an IQA metric that compares the perceptual similarity between distorted and original images in the semantic feature space defined by latent-variable models. It is anticipated that the proposed method will give an important indication of a DL model performance implemented on a remotely located server for a downstream application and can be used to optimize the parameters of a communication system.
 </span></p>
 
+<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var stickyDiv = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > stickyDiv) {
+    header.classList.add("stickyDiv");
+  } else {
+    header.classList.remove("stickyDiv");
+  }
+}
+</script>
