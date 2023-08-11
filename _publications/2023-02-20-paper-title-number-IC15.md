@@ -39,6 +39,7 @@ a:active {
 | <a href="#proposedMethod">Proposed Method</a>
 | <a href="#conclusion">Conclusion</a>
 | <a href="#relatedArticles">Related Articles</a>
+| [Full Article](https://ieeexplore.ieee.org/document/10067012)
 </strong></div>
 
 <h3 id="abstract">Abstract</h3>
