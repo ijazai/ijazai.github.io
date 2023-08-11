@@ -25,7 +25,7 @@ a:active {
 }
 </style>
 
-<p id="top"> Jump to:
+<p style="position: fixed;"> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
