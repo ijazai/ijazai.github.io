@@ -34,7 +34,8 @@ a:active {
 
 
 <div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
-<a href="#education">EDUCATION</a> 
+<a href="#summary">SUMMARY</a>
+| <a href="#education">EDUCATION</a> 
 | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
@@ -43,7 +44,7 @@ a:active {
 | <a href="#languages">LANGUAGES</a>
 </strong></div>
 
-<p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
+<p id="summary"><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
@@ -91,7 +92,7 @@ Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="experience"><span style="font-size: 12pt;"><strong>RESEARCH & PROJECT MANAGEMENT EXPERIENCE</strong></span></p>
@@ -142,7 +143,7 @@ Topic: <i>Double random phase encoding for image encryption</i>
 <li><span style="font-size: 11pt;">Published 1 conference paper</span></li>
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="skills"><span style="font-size: 12pt;"><strong>SKILLS</strong></span></p>
@@ -167,7 +168,7 @@ Topic: <i>Double random phase encoding for image encryption</i>
 	<li><span style="font-size: 11pt;">Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="awards"><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
@@ -180,7 +181,7 @@ Topic: <i>Double random phase encoding for image encryption</i>
 	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="articles"><span style="font-size: 12pt;"><strong>PUBLICATIONS, PRESENTATIONS & PATENTS </strong></span></p>
@@ -331,7 +332,7 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li> 
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="services"><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
@@ -377,7 +378,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 </span></li> 
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="languages"><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
@@ -388,7 +389,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 <li><span style="font-size: 11pt;">Pashto (Native or bilingual proficiency)</span></li> 
 </ul>
 
-<p> Jump to: <a href="#top">Top</a>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
