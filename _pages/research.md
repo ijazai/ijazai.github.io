@@ -31,9 +31,12 @@ a:active {
 
 
 <div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
-<a href="#phdThesis">PhD Thesis</a>
+<a href="#researchArea">Research Area</a>
+| <a href="#phdThesis">PhD Thesis</a>
 | <a href="#currentWork">Current Work</a>
 </strong></div>
+
+<p align="justify" id="researchArea"><span style="font-size: 12pt;"><strong>Research Area</strong></span></p>
 
 <p align="justify"><span style="font-size: 11pt;">
 
