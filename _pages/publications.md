@@ -36,6 +36,7 @@ The order in which the two operations are carried out affects the overall effici
 <button onclick="moreLessFtn('dotsJ1','moreJ1','moreLessBttnJ1')" id="moreLessBttnJ1" style="border:none; background-color:transparent; color:dodgerblue">+ Read more</button>
 
 <br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <h2>International Conferences</h2>
 
@@ -238,7 +239,7 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 
 
-
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -325,6 +326,7 @@ Ijaz Ahmad, Najma Sahar and Seokjoo Shin <br>
 KISM Workshop on Covergent and Smart Media Systems (융합∙스마트미디어시스템 워크샵): 35-38, Jan. 2019. <br>
 [<a href="https://kism.jams.or.kr/acm/config/accnConf/acAccnInfoCreateList.kci?accnNmKor=&pageIndex=1&acStatCheckboxArr=" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <!--
 <b></b><br>
