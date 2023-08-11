@@ -41,6 +41,7 @@ a:active {
 | <a href="#awards">AWARDS</a>
 | <a href="#articles">PUBLICATIONS</a>
 | <a href="#services">SERVICES</a>
+| <a href="#talks">INVITED TALKS</a>
 | <a href="#languages">LANGUAGES</a>
 </strong></div>
 
@@ -369,13 +370,13 @@ Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encry
 <a href="https://www.springer.com/journal/10462" target="_blank">&#127968;</a>
 </span></li>
 
-<li><span style="font-size: 11pt;"> Elsevier Cyber Security and Applications (CSA) 
-<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">&#127968;</a>
-</span></li> 
-
 <li><span style="font-size: 11pt;"> Elsevier Journal of King Saud University - Computer and Information Sciences (JKSUCIS) 
 <a href="https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences" target="_blank">&#127968;</a>
 </span></li> 
+
+<li><span style="font-size: 11pt;"> Elsevier Cyber Security and Applications (CSA) 
+<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">&#127968;</a>
+</span></li>
 
 <li><span style="font-size: 11pt;"> Bentham Science Current Medical Imaging (CMIM) 
 <a href="https://benthamscience.com/public/journals/current-medical-imaging" target="_blank">&#127968;</a>
@@ -406,7 +407,7 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p id="services"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
+<p id="talks"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>University of the Philippines | Virtual</strong></span></p>
 <p><span style="font-size: 11pt;"><i>Invited lecturer for Introduction to Transfer Learning </i>| Jun 2021</span></p>
 <p><span style="font-size: 11pt;">‘How to fine-tune pre-trained deep learning color image models for medical image analysis’</span></p>
