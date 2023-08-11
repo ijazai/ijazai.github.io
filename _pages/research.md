@@ -91,7 +91,7 @@ Currently, I am working on representation learning to quantify perceptual distor
 <p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>References</strong></span></p>
 
 <p align="justify"><span style="font-size: 11pt;">
-[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. </p>
+[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418.</span></p>
 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
 [Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
 
