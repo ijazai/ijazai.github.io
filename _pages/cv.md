@@ -190,19 +190,6 @@ Project Manager<br></strong></span></p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p id="awards"><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
-<ul>
-	<li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
-	<li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
-	<li><span style="font-size: 11pt;">2021 Best Poster Award, KINGPC Spring Conference</span></li> 
-	<li><span style="font-size: 11pt;">2020 Best Paper Award, ACM SMA Conference</span></li> 
-	<li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
-	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
-</ul>
-
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
 <p id="articles"><span style="font-size: 12pt;"><strong>PUBLICATIONS, PRESENTATIONS & PATENTS </strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journals</strong></span></p>
 <ul>
@@ -362,6 +349,28 @@ Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encry
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
+<p id="talks"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>University of the Philippines | Virtual</strong></span></p>
+<p><span style="font-size: 11pt;"><i>Invited lecturer for Introduction to Transfer Learning </i>| Jun 2021</span></p>
+<p><span style="font-size: 11pt;">‘How to fine-tune pre-trained deep learning color image models for medical image analysis’</span></p>
+
+
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+<p id="awards"><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
+<ul>
+	<li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
+	<li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
+	<li><span style="font-size: 11pt;">2021 Best Poster Award, KINGPC Spring Conference</span></li> 
+	<li><span style="font-size: 11pt;">2020 Best Paper Award, ACM SMA Conference</span></li> 
+	<li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
+	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
+</ul>
+
+
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 <p id="services"><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
 <ul>
@@ -407,13 +416,6 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p id="talks"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
-<p><span style="font-size: 11pt;"><strong>University of the Philippines | Virtual</strong></span></p>
-<p><span style="font-size: 11pt;"><i>Invited lecturer for Introduction to Transfer Learning </i>| Jun 2021</span></p>
-<p><span style="font-size: 11pt;">‘How to fine-tune pre-trained deep learning color image models for medical image analysis’</span></p>
-
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="languages"><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
 <ul>
