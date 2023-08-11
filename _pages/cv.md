@@ -25,14 +25,14 @@ a:active {
 }
 </style>
 
-<p style="overflow: hidden; position: fixed; top: 0; width: 100%;"> Jump to:
+<p><span style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; position: fixed; top: 0; width: 100%;"><strong> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
 | <a href="#articles">PUBLICATIONS</a>
 | <a href="#services">SERVICES</a>
 | <a href="#languages">LANGUAGES</a>
-</p>
+</strong></span></p>
 
 <p><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
