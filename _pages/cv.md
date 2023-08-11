@@ -25,7 +25,7 @@ a:active {
 }
 </style>
 
-<p style="position: fixed;"> Jump to:
+<p overflow: hidden; position: fixed; top: 0; width: 100%;> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
