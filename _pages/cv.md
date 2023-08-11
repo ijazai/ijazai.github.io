@@ -34,7 +34,8 @@ a:active {
 
 
 <div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
-<a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
+<a href="#education">EDUCATION</a> 
+| <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
 | <a href="#articles">PUBLICATIONS</a>
@@ -396,10 +397,10 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 window.onscroll = function() {myFunction()};
 
 var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
+var stickyDiv = header.offsetTop;
 
 function myFunction() {
-  if (window.pageYOffset > sticky) {
+  if (window.pageYOffset > stickyDiv) {
     header.classList.add("stickyDiv");
   } else {
     header.classList.remove("stickyDiv");
