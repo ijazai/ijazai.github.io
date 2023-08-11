@@ -89,22 +89,46 @@ Currently, I am working on representation learning to quantify perceptual distor
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>References</strong></span></p>
-[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
-<p align="justify"><span style="font-size: 11pt;">
-[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. 
-[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
-[Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
-<br>
-[2]	I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning,” in 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Bali, Indonesia: IEEE, Feb. 2023, pp. 221–226. doi: 10.1109/ICAIIC57133.2023.10067012. <br>
-[3]	I. Ahmad and S. Shin, “IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning,” Sensors, vol. 22, no. 20, p. 8074, Oct. 2022, doi: 10.3390/s22208074. <br>
-[4]	I. Ahmad and S. Shin, “Encryption-then-Compression System for Cloud-based Medical Image Services,” in 2022 International Conference on Information Networking (ICOIN), Jeju-si, Korea, Republic of: IEEE, Jan. 2022, pp. 30–33. doi: 10.1109/ICOIN53446.2022.9687214. <b>[Best Paper Award] </b><br>
-[5]	I. Ahmad and S. Shin, “A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services,” Electronics, vol. 11, no. 16, p. 2514, Aug. 2022, doi: 10.3390/electronics11162514. <br>
-[6]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications,” in 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of: IEEE, Oct. 2022, pp. 1817–1822. doi: 10.1109/ICTC55196.2022.9952589. <br>
-[7]	I. Ahmad, E. Kim, S.-S. Hwang, and S. Shin, “Privacy-Preserving Surveillance for Smart Cities,” presented at the The 13th International Confernce on Ubiquitous and Future Networks, Barcelona, Spain, Jul. 2022. <br>
-[8]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis,” in 2023 International Conference on Information Networking (ICOIN), Bangkok, Kingdom of Thailand: IEEE, Jan. 2023, pp. 224–229. <b>[Best Paper Award] </b><br>
-</span></p>
 
+<p align="justify"><span style="font-size: 11pt;">
+[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. </p>
+[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596521001983" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2021-08-19-paper-title-number-J1.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[2]	I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning,” in 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Bali, Indonesia: IEEE, Feb. 2023, pp. 221–226. doi: 10.1109/ICAIIC57133.2023.10067012.</span></p>
+[<a href="https://ieeexplore.ieee.org/document/10067012" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC15.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[3]	I. Ahmad and S. Shin, “IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning,” Sensors, vol. 22, no. 20, p. 8074, Oct. 2022, doi: 10.3390/s22208074.</span></p>
+[<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-21-paper-title-number-J3.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[4]	I. Ahmad and S. Shin, “Encryption-then-Compression System for Cloud-based Medical Image Services,” in 2022 International Conference on Information Networking (ICOIN), Jeju-si, Korea, Republic of: IEEE, Jan. 2022, pp. 30–33. doi: 10.1109/ICOIN53446.2022.9687214. <b>[Best Paper Award] </b></span></p>
+[<a href="https://ieeexplore.ieee.org/document/9687214" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-01-12-paper-title-number-IC7.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[5]	I. Ahmad and S. Shin, “A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services,” Electronics, vol. 11, no. 16, p. 2514, Aug. 2022, doi: 10.3390/electronics11162514.</span></p>
+[<a href="https://www.mdpi.com/2079-9292/11/16/2514" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-08-11-paper-title-number-J2.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[6]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications,” in 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of: IEEE, Oct. 2022, pp. 1817–1822. doi: 10.1109/ICTC55196.2022.9952589.</span></p>
+[<a href="https://ieeexplore.ieee.org/document/9952589" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-10-19-paper-title-number-IC11.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[7]	I. Ahmad, E. Kim, S.-S. Hwang, and S. Shin, “Privacy-Preserving Surveillance for Smart Cities,” presented at the The 13th International Confernce on Ubiquitous and Future Networks, Barcelona, Spain, Jul. 2022.</span></p>
+[<a href="https://ieeexplore.ieee.org/document/9829680" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2022-07-05-paper-title-number-IC9.md %})
+
+<p align="justify"><span style="font-size: 11pt;">
+[8]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis,” in 2023 International Conference on Information Networking (ICOIN), Bangkok, Kingdom of Thailand: IEEE, Jan. 2023, pp. 224–229. <b>[Best Paper Award] </b></span></p>
+[<a href="https://ieeexplore.ieee.org/document/10048970" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-01-11-paper-title-number-IC13.md %})
 
 
 <script>
