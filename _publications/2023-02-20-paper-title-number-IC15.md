@@ -6,10 +6,42 @@ date: 2023-02-20
 venue: 'IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
 author_profile: false
 ---
+
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+}
+</style>
+
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<h3>Abstract</h3>
+<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
+<a href="#abstract">Abstract</a> | <a href="#experience">EXPERIENCE</a>
+| <a href="#contributions">Contributions</a>
+| <a href="#proposedMethod">Proposed Method</a>
+| <a href="#conclusion">Conclusion</a>
+| <a href="#relatedArticles">Related Articles</a>
+</strong></div>
+
+<h3 id="abstract">Abstract</h3>
 <p>Lossy image compression provides an efficient
 solution to the exchange and storage of large volumes of image
 data for various applications. The main design principle of a
@@ -32,14 +64,14 @@ augmentation method increased 2% on higher resolution
 images while the accuracy difference reduced from 6% to 1%
 on smaller resolution images.</p>
 
-<h3>Contributions</h3>
+<h3 id="contributions">Contributions</h3>
 <ul>
 	<li>Noise-based image augmentation method to make DL robust against the JPEG distortions. </li>
 	<li> Optimal level of distortion for noise-based augmentation method. </li>
 	<li>As an application of our proposed method, we designed a case study of multi-label classification task for medical image analysis. </li>
 </ul>
 
-<h3>Proposed Method</h3>
+<h3 id="proposedMethod">Proposed Method</h3>
 
 <p>For an image \(I\), its JPEG compressed image \(I_{c}\) without the chroma-subsampling function can obtained as</p>
 <div style="overflow-x:auto">\[I_{c}=\left[Q\left(D\left(C_{YCbCr}\left(I\right)\right),Qf\right)\right],\]</div>
@@ -56,10 +88,26 @@ on smaller resolution images.</p>
 <p>where \(F_{\left(u,v\right)}\) is the DCT matrix and \(QT_{\left(u,v\right)}\) is the quantization table.</p>
 <div style="overflow-x:auto">\[\widetilde{F}_{\left(u,v\right)}=\widehat{F}_{\left(u,v\right)}\times QT_{\left(u,v\right)}.\]</div>
 
-<h3>Conclusion</h3>
+<h3 id="conclusion">Conclusion</h3>
 We proposed a noise-based image augmentation method to make DL models robust against compression distortions -- <i>noise-cuts-noise</i>. The analysis have shown that choosing varying level of noise helps the model to perform well on the future noisy images. Besides improving the model performance on noisy images, the main advantage of the proposed method is that it does not require any preprocessing for the artifacts correction.
 
 <br>[Full Article](https://ieeexplore.ieee.org/document/10067012)
 
-<h3>Related Articles</h3>
+<h3 id="relatedArticles">Related Articles</h3>
 [Assessment of the JPEG compression artifacts due to chroma subsampling, impact on a deep learning model performance]({{ site.baseurl }}{% link _publications/2022-10-08-paper-title-number-IC10.md %})<br>
+
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
