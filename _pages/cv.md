@@ -38,10 +38,10 @@ a:active {
 | <a href="#education">EDUCATION</a> 
 | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
-| <a href="#awards">AWARDS</a>
 | <a href="#articles">PUBLICATIONS</a>
-| <a href="#services">SERVICES</a>
 | <a href="#talks">INVITED TALKS</a>
+| <a href="#awards">AWARDS</a>
+| <a href="#services">SERVICES</a>
 | <a href="#languages">LANGUAGES</a>
 </strong></div>
 
