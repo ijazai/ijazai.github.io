@@ -226,9 +226,17 @@ I. Ahmad and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by C
 </span></li>
 </ul>
 
+<p><span style="font-size: 11pt;"><strong>Patents</strong></span></p>
+<ul>
+<li><span style="font-size: 11pt;">
+Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encrypting and Compressing Image” (filing date 08/12/2021)
+</span></li>
+</ul>
+
+
 <p><span style="font-size: 11pt;"><strong>International Conferences</strong></span></p>
 <ul>
-<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images", IEEE International Symposium on Communications and Information Technologies (ISCIT) 2023. (Under Review)
+<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images", IEEE International Symposium on Communications and Information Technologies (ISCIT): Oct 2023. (Accepted)
 <a href="https://iscit2023.org/index.php/cfp/" target="_blank">&#128214;</a>
 </span></li> 
 
@@ -395,6 +403,13 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 <a href="https://icufn.org/" target="_blank">&#127968;</a>
 </span></li> 
 </ul>
+
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+<p id="services"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>University of the Philippines | Virtual</strong></span></p>
+<p><span style="font-size: 11pt;"><i>Invited lecturer for Introduction to Transfer Learning </i>| Jun 2021</span></p>
+<p><span style="font-size: 11pt;">‘How to fine-tune pre-trained deep learning color image models for medical image analysis’</span></p>
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
