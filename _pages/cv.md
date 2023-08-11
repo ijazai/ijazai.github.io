@@ -25,7 +25,23 @@ a:active {
 }
 </style>
 
-<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;"><strong> Jump to:
+<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
+
+
+<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
