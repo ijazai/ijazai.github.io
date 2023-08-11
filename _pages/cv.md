@@ -23,6 +23,12 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+.stickyDiv {
+  position: fixed;
+  top: 0;
+}
+
 </style>
 
 
@@ -394,9 +400,9 @@ var sticky = header.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
+    header.classList.add("stickyDiv");
   } else {
-    header.classList.remove("sticky");
+    header.classList.remove("stickyDiv");
   }
 }
 </script>
