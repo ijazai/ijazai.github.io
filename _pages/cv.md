@@ -25,7 +25,7 @@ a:active {
 }
 </style>
 
-<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; position: fixed; top: 0; width: 100%;"><strong> Jump to:
+<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; position: fixed; top: 1.5; width: 100%;"><strong> Jump to:
 <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#awards">AWARDS</a>
