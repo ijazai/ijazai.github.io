@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /researchkorean/
 author_profile: true
 ---
 <style>
