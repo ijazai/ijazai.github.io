@@ -28,78 +28,21 @@ a:active {
 
 </style>
 
+<br>
+<p><i>"저의 연구 관심사는 이미지 데이터 전송, 저장 및 계산에서 개인 정보를 보호하는 것입니다. 제 연구범위는 이미지 분석 영역의 머신러닝을 포함하여 이미지 암호화부터 컴퓨터 비전까지 여러 영역에 걸쳐있습니다."</i>
+</p>
+<br>
+<h3 align=center>박사학위 논문 요약</h3><br>
+<h3 align=center>개인정보 보호를 위한 이미지 데이터 전송, 저장, 연산에 대한 암호화 접근법</h3>
+<br>
+<p>
+딥러닝(DL) 알고리즘의 발전이 인공지능(AI) 기반 자동화 애플리케이션의 확산을 이끌고 있다는 사실은 보건부터 엔터테인먼트까지 넓은 범위에서 목격된다. 그러나, DL 기반 솔루션을 개발하고 구현하는 데는 크게 두 가지 주요 장애물이 있다. 첫째로, DL 알고리즘이 매우 연산 집약적이며, 그 학습 과정은 혁신적인 기술과 상당한 계산 자원을 필요로 한다. 둘째로, DL 모델의 학습을 위해선 풍부한 샘플 데이터가 요구되는데, 특히 의료 이미지 분석 등 일부 분야에서는 비용 문제와 확보의 어려움이 동시에 발생한다. <br><br>
+이러한 한계를 극복하기 위한 방법 중 하나로 클라우드 서비스, 특히 컴퓨팅과 스토리지 자원이 주목 받고 있다. 예를 들어, 딥러닝 기술을 사용하는 조직들은 클라우드 컴퓨팅 서비스를 이용하여 최신 기술에 접근하고, 학습 과정을 가속화하며, DL 모델을 보다 저렴한 비용으로 효율적으로 확장할 수 있다. 또한, 데이터 부족 문제 해결이라는 공동의 목표를 위해 서비스를 공유하는 커뮤니티 클라우드의 이점을 활용할 수 있다. 이 경우, 클라우드 스토리지 서비스는 조직 간의 공동 프로젝트 및 협업을 위한 공유 데이터 저장소 역할을 할 수 있다.<br><br>
+그러나, 클라우드 서비스를 이용하여 데이터를 아웃소싱할 때는 데이터 유출 위험이 있으며, 이는 개인정보 보호 문제로 이어질 수 있다. 이 문제를 간단히 해결하는 방법은 데이터를 전송하기 전에 암호화하는 것이다. 정수론과 혼돈 이론에 기반한 완전 암호화 알고리즘이 가장 안전하다고 알려져 있다. 이 방법은 데이터의 보안성을 보장하지만, 데이터를 처리하기 전에는 암호를 해독해야 한다. 이 방법은 일부 응용 시나리오에서는 적용 가능하지만, 의료 이미지나 감시 데이터, 재무 데이터 등 개인 정보에 민감한 데이터 처리의 경우 개인정보 보호 요구 사항을 만족시키기는 어렵다. 또한, 큰 데이터(특히 이미지 데이터)를 전송하면서 제한된 대역폭을 효과적으로 활용하기 위해 데이터 압축이 필요하다. 한편으로, 암호화 영역에서 계산을 가능하게 하는 PPDL 기술은 연산 비용, 통신 오버헤드 및 특수 설계 요구 사항 등으로 인해 데이터 유틸리티를 줄이고 DL 모델의 성능을 저하시킬 수 있다. 따라서, 데이터 전송과 저장, 그리고 연산에 대한 보안 요구를 모두 충족시킬 수 있는 개인정보 보호 기술은 매우 중요한 연구 주제라 할 수 있다. <br><br>
+본 연구에서는 먼저 압축 절약과 암호화 효율성 사이의 더 나은 균형을 찾기 위해 압축과 암호화 과정의 수행 순서를 조사하고, 이것이 다운스트림 애플리케이션의 성능에 어떠한 영향을 미치는지 측정하였다. 다음으로, JPEG 호환 지각 암호화 방법에 대한 자세한 분류 체계와 포괄적인 분석을 제시하였으며, 이는 암호화와 압축 효율성 측면에서 고려되었다. 본 연구에서는 암호화와 압축의 균형을 효과적으로 관리하기 위해 제안된 다양한 방법을 표준 프레임워크로 적용하여, 개인정보 보호 시스템의 요구 사항에 따라 적절한 기술을 선택하는 지침이 될 수 있도록 지표들을 제시하였다. 필요한 개인정보 보호(전송 및 계산 중), 압축 절약의 보존, 그리고 다운스트림 애플리케이션의 정확도 사이의 적절한 균형을 찾기 위해, 연구에서는 지각 암호화 방법의 한계를 극복하는 새로운 변환 함수를 제시하였다. 연구에서 제안하는 개인정보 보호 연산을 위한 종단간 시스템 파이프라인에서는, 압축 블록이 모델 정확도를 저하시킬 수 있는 특정 정보의 손실을 초래하였다. 이에 대응하기 위해, 연구에서는 훈련된 DL 모델의 성능에 압축 아티팩트의 영향을 완화하는 새로운 노이즈 기반 데이터 확대 기술을 제안하였으며, 제안된 방법의 유용성을 확인하기 위해 흉부 X-선 이미지에서의 개인정보 보호 얼굴 인식, 개인정보 보호 자연 이미지 분류, 그리고 개인정보 보호 COVID-19 감지 등 다양한 개인정보 보호 애플리케이션을 고려하였다.<br><br>
+시뮬레이션 결과로부터, 제안된 동시 이미지 암호화 및 압축 기법이 안전하고 효율적인 데이터 전송 및 저장을 가능하게 하며, 무손실 압축 절약을 유지하고, 데이터 대 심볼 매핑 함수를 통해 압축 절약을 평균 6%에서 15%까지 향상시킨다는 것을 확인하였다. 또한, 제안된 PE 기반 방식을 사용하면, 개인정보 보호 연산 영역에서 자연 이미지 분류 작업에 대한 DL 모델의 예측 정확도는 약 5% 감소하는 반면, 의료 이미지 분석에 대한 모델의 정확도와 민감도 점수는 약 3% 감소함을 확인하였다.<br>
 
-
-<div style="font-size: 12pt; overflow: hidden; background-color: #FFFFFF; width: 100%;" id="myHeader"><strong> Jump to:
-<a href="#researchArea">Research Area</a>
-| <a href="#phdThesis">PhD Thesis</a>
-| <a href="#currentWork">Current Work</a>
-</strong></div>
-
-<p align="justify" id="researchArea"><span style="font-size: 12pt;"><strong>Research Area</strong></span></p>
-
-<p align="justify"><span style="font-size: 11pt;">
-
-My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain. <br><br>
-
-There are two main challenges in the development and implementation of Deep Learning (DL) solutions: First, DL algorithms are characterized as compute-intensive tasks, and their training requires innovative technology and high computational resources. Second, training DL models for a particular task needs a large volume of sample data, which in some domains such as in the field of medical image analysis, is expensive and difficult to acquire. These challenges can be efficiently addressed by taking advantage of powerful infrastructures such as cloud services. For example, in the first case, organizations can avail cloud-computing services to access the latest technology to speed-up the training process and allow DL models to scale efficiently with a lower capital cost. Similarly, to mitigate the data deficiency challenge, an organization can benefit from a community cloud, where services are shared by organizations with common interests to achieve their goals. In this case, cloud storage services can be utilized as a shared data repository for joint collaborative learning. <br><br>
-
-This avail of third-party resources provides an efficient solution for a well-trained DL model; however, this can lead to privacy concerns as data outsourcing comes with a risk of information leakage. Though the traditional image encryption techniques guarantee data security in transit and at rest, data decryption is necessary prior to performing any computations on them, which makes them inadequate to cater to the requirements of data security in use. On the other hand, techniques specifically proposed to enable computation in the encryption domain have either their associated computational cost, communication overhead or specialized design requirement that may reduce data utility and degrade the DL model performance. In addition, when transmitting large volumes of data (especially images), compression is necessary to efficiently utilize the available bandwidth. Therefore, I argue for a holistic privacy-preserving solution that can satisfy the dual requirements of data transmission, data storage and computation in the encryption domain to fully reap the benefits of DL for data-driven applications.
-
-</span></p>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
-<p align="justify" id="phdThesis"><span style="font-size: 12pt;"><strong>PhD Thesis</strong></span></p>
-
-<p align="justify"><span style="font-size: 11pt;"> 
-Compression and encryption deal with the redundancy of a source but each with their own purpose. The unwanted redundancy of a source is reduced in compression to achieve a data representation that requires lesser number of bits while in encryption it is reduced to make the source unintelligible by the addition of randomness. The order in which the compression and encryption operations are carried out affects the overall efficiency of the system. The common approach is to complete compression prior to encryption. Otherwise there is less or no compressibility as the encryption process would have significantly reduced the correlation and altered the statistical distribution of the image data. <br><br>
-In my PhD thesis, I investigated the order of performing compression and encryption to find proper trade-offs between maintaining a desired level of compression savings, preserving necessary privacy while achieving acceptable downstream application performance by means of implementing suitable encryption and compression techniques, and avoiding (or at best, reducing) the potential negative impact of the visual degradation (because of applying either privacy preservation or compression technique) on the DL model performance. The main contributions of my thesis are summarized as below:
-
-<ul>
-<li><p align="justify"><span style="font-size: 11pt;"><strong>A simultaneous image compression and encryption algorithm</strong><br>
-Image compression and encryption are often coupled together for efficient and secure image transmission and/or storage. A straightforward way is to perform compression and encryption as two separate processes. However, the problem with such an approach is that if the encryption is performed before, then the compression efficiency is severely reduced. Conversely, it is challenging to ensure reasonable security in the compression domain while preserving the compression savings. We  proposed a hybrid simultaneous image encryption and compression algorithm in [1] that incorporates the compression requirement of a data communication system into the encryption algorithm. In our scheme, encryption is based on Chaos theory and is carried out in two steps, i.e., permutation and substitution. The lossless compression is performed on the shuffled image and then the compressed bitstream is grouped into 8-bit blocks for the substitution stage. Furthermore, to improve the performance of the entropy encoder in the compression algorithm, we proposed a novel data-to-symbol mapping method based on the Chinese remainder theorem to represent adjacent pixel values as a block. Such representation improved the compression savings on average from 5.76% to 15.45%.
-</span></p> </li>
-
-<li><p align="justify"><span style="font-size: 11pt;"><strong>A data augmentation technique to mitigate compression artifacts on DL</strong><br>
-Lossy image compression provides an efficient solution to the exchange and storage of large volumes of image data for various applications. The resulting human unperceivable defects in the compressed images significantly degrade the performance of a trained DL model. Towards which we proposed a noise-based data augmentation technique in [2] to enhance the quality of training datasets such that the model generalizes well on noisy images in the future. Specifically, we considered the JPEG distortions to generate new images. The main advantages of the proposed method are that it does not require artifact correction as a preprocessing step and can preserve the model performance on the uncompressed images. Simulation results showed that the proposed technique mitigates the impact of the lossy compression artifacts on the trained DL model performance, and on heavily compressed images the accuracy difference is reduced from 11% to 2% for classification of natural images and 6% to 1% for COVID-19 detection in chest X-ray images.
-</span></p> </li>
-
-<li><p align="justify"><span style="font-size: 11pt;"><strong>A new geometric transformation function for perceptual encryption methods</strong><br>
-In the conventional PE methods, for better security, a larger number of blocks is achieved by decreasing the block size; therefore, the key size expansion is limited by the smallest allowable block size used in the compression algorithm. In addition, the extended PE methods that process each color component independently to achieve a larger number of blocks degrade image quality and compression savings, and remove color information, which limits their applications. To overcome these limitations, we proposed inter and intra block processing in [3] (healthcare applications in [4], [5]) that performs the encryption steps that only change correlation’s direction on a sub-block level, thereby improving the encryption efficiency without compromising the compression performance. The intra block processing results in a new transformation called inside-out transformation function. Compared to the plain image compression, the JPEG performance on the cipher images is reduced ~3% at best.
-</span></p> </li>
-
-<li><p  align="justify"><span style="font-size: 11pt;"><strong>Privacy-preserving DL applications</strong><br>
-Besides better security, the main advantage of the proposed PE method is that the spatial information is retained in each color channel, which makes it suitable for privacy-preserving computations. For privacy-preserving natural images classification task presented in [3], [6], our proposed scheme at best introduces a decrease of ~5% in the prediction accuracy of the trained models. For privacy-preserving face recognition applications presented in [7], the proposed scheme delivers the same recognition accuracy as that of the plain images. For COVID-19 screening in chest X-ray images presented in [8], the proposed PE-based privacy-preserving scheme at best introduces ~3% drop in the model's accuracy and sensitivity scores.
-</span></p> </li>
-
-</ul>
-
-
-</span></p>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
-<p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>Current Work</strong></span></p>
-<p align="justify"><span style="font-size: 11pt;">
-Currently, I am working on representation learning to quantify perceptual distortions in wirelessly transmitted images. This is motivated by an observation that the existing Image Quality Assessment (IQA) metrics either rely on or are optimized to coincide with human judgment and do not account for the perceptual distortions (for example, because of imperfect communication system) that are responsible for the degradation in DL model performance. Given the popularity of DL solutions in various domains, it is necessary to quantify perceptual loss in distorted images using machine perception. Towards this we proposed an IQA metric that compares the perceptual similarity between distorted and original images in the semantic feature space defined by latent-variable models. It is anticipated that the proposed method will give an important indication of a DL model performance implemented on a remotely located server for a downstream application and can be used to optimize the parameters of a communication system.
-</span></p>
-
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
-<p align="justify" id="currentWork"><span style="font-size: 12pt;"><strong>References</strong></span></p>
-<p align="justify"><span style="font-size: 11pt;">
-[1]	I. Ahmad and S. Shin, “A novel hybrid image encryption–compression scheme by combining chaos theory and number theory,” Signal Processing: Image Communication, vol. 98, p. 116418, Oct. 2021, doi: 10.1016/j.image.2021.116418. <br>
-[2]	I. Ahmad and S. Shin, “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning,” in 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Bali, Indonesia: IEEE, Feb. 2023, pp. 221–226. doi: 10.1109/ICAIIC57133.2023.10067012. <br>
-[3]	I. Ahmad and S. Shin, “IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning,” Sensors, vol. 22, no. 20, p. 8074, Oct. 2022, doi: 10.3390/s22208074. <br>
-[4]	I. Ahmad and S. Shin, “Encryption-then-Compression System for Cloud-based Medical Image Services,” in 2022 International Conference on Information Networking (ICOIN), Jeju-si, Korea, Republic of: IEEE, Jan. 2022, pp. 30–33. doi: 10.1109/ICOIN53446.2022.9687214. <b>[Best Paper Award] </b><br>
-[5]	I. Ahmad and S. Shin, “A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services,” Electronics, vol. 11, no. 16, p. 2514, Aug. 2022, doi: 10.3390/electronics11162514. <br>
-[6]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning in Internet of Things Applications,” in 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of: IEEE, Oct. 2022, pp. 1817–1822. doi: 10.1109/ICTC55196.2022.9952589. <br>
-[7]	I. Ahmad, E. Kim, S.-S. Hwang, and S. Shin, “Privacy-Preserving Surveillance for Smart Cities,” presented at the The 13th International Confernce on Ubiquitous and Future Networks, Barcelona, Spain, Jul. 2022. <br>
-[8]	I. Ahmad and S. Shin, “Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis,” in 2023 International Conference on Information Networking (ICOIN), Bangkok, Kingdom of Thailand: IEEE, Jan. 2023, pp. 224–229. <b>[Best Paper Award] </b><br>
-</span></p>
-
+</p>
 
 
 <script>
