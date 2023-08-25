@@ -4,29 +4,6 @@ title: ""
 permalink: /researchkorean/
 author_profile: true
 ---
-<style>
-a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-a:active {
-  text-decoration: none;
-}
-
-.stickyDiv {
-  position: fixed;
-  top: 0;
-}
-
-</style>
 
 <br>
 <p><i>"저의 연구 관심사는 이미지 데이터 전송, 저장 및 계산에서 개인 정보를 보호하는 것입니다. 제 연구범위는 이미지 분석 영역의 머신러닝을 포함하여 이미지 암호화부터 컴퓨터 비전까지 여러 영역에 걸쳐있습니다."</i>
