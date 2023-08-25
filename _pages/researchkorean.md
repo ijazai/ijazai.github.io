@@ -43,19 +43,3 @@ a:active {
 시뮬레이션 결과로부터, 제안된 동시 이미지 암호화 및 압축 기법이 안전하고 효율적인 데이터 전송 및 저장을 가능하게 하며, 무손실 압축 절약을 유지하고, 데이터 대 심볼 매핑 함수를 통해 압축 절약을 평균 6%에서 15%까지 향상시킨다는 것을 확인하였다. 또한, 제안된 PE 기반 방식을 사용하면, 개인정보 보호 연산 영역에서 자연 이미지 분류 작업에 대한 DL 모델의 예측 정확도는 약 5% 감소하는 반면, 의료 이미지 분석에 대한 모델의 정확도와 민감도 점수는 약 3% 감소함을 확인하였다.<br>
 
 </p>
-
-
-<script>
-window.onscroll = function() {myFunction()};
-
-var header = document.getElementById("myHeader");
-var stickyDiv = header.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset > stickyDiv) {
-    header.classList.add("stickyDiv");
-  } else {
-    header.classList.remove("stickyDiv");
-  }
-}
-</script>
