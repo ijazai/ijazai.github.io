@@ -255,7 +255,7 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 <h2>National Conferences</h2>
 
 <b>Deep Joint Source-Channel Coding for Medical Image Transmission</b><br>
-Korean Title: <i>의료영상 전송을 위한 딥 조인트 소스-채널 코딩</i>
+Korean Title: <i>의료영상 전송을 위한 딥 조인트 소스-채널 코딩</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학술대회): Sep. 2023. <br>
 <i>The information will be updated soon!</i>
@@ -263,7 +263,7 @@ KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학�
 <br>
 
 <b>Convolutional Autoencoder for Image Quality Assessment</b><br>
-Korean Title: <i>합성곱 오토인코더 기반의 이미지 품질 평가</i>
+Korean Title: <i>합성곱 오토인코더 기반의 이미지 품질 평가</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KICS Summer Conference (하계종합학술발표회) Jun. 2023. <br>
 <i>The information will be updated soon!</i>
@@ -271,7 +271,7 @@ KICS Summer Conference (하계종합학술발표회) Jun. 2023. <br>
 <br>
 
 <b>Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection</b><br>
-Korean Title: <i>EfficientNetV2 기반 결핵 검출을 위한 전이 학습 활용</i>
+Korean Title: <i>EfficientNetV2 기반 결핵 검출을 위한 전이 학습 활용</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 KICS Fall Conference (추계종합학술발표회): 458-459, Nov. 2022. <br>
 [<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11197142" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
