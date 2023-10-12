@@ -26,7 +26,7 @@ My research interests are in privacy preservation during data transmission – <
 <h2>News</h2>
 
 <ul  align="justify">
-	<li><span style="font-size: 11pt;"><strong>[02<sup>nd</sup> Sep 2023]</strong>  Our paper <i>Deep Joint Source-Channel Coding for Medical Image Transmission</i> got accepted for presentation in the KICS Korea Artificial Intelligence Conference 2023 conference!</span></li>
+	<li><span style="font-size: 11pt;"><strong>[02<sup>nd</sup> Sep 2023]</strong>  Our paper <i>Deep Joint Source-Channel Coding for Medical Image Transmission</i> got accepted for presentation in the KICS Korea Artificial Intelligence Conference 2023!</span></li>
 
 	<li><span style="font-size: 11pt;"><strong>[07<sup>th</sup> July 2023]</strong> Our paper <i>Deep Learning-Based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images</i> got accepted for presentation in the ISCIT 2023 conference! </span></li>
 	
