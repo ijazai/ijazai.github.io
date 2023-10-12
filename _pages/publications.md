@@ -40,6 +40,14 @@ The order in which the two operations are carried out affects the overall effici
 
 <h2>International Conferences</h2>
 
+<b>Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images</b><br>
+Ijaz Ahmad and Seokjoo Shin <br>
+IEEE International Symposium on Communications and Information Technologies (ISCIT) 2023. <br>
+
+<i>The information will be updated soon!</i>
+
+<br>
+
 <b>Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC): 221–226, Feb. 2023. <br>
@@ -246,6 +254,22 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 <h2>National Conferences</h2>
 
+<b>Deep Joint Source-Channel Coding for Medical Image Transmission</b><br>
+Korean Title: <i>의료영상 전송을 위한 딥 조인트 소스-채널 코딩</i>
+Ijaz Ahmad and Seokjoo Shin <br>
+KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학술대회): Sep. 2023. <br>
+<i>The information will be updated soon!</i>
+
+<br>
+
+<b>Convolutional Autoencoder for Image Quality Assessment</b><br>
+Korean Title: <i>합성곱 오토인코더 기반의 이미지 품질 평가</i>
+Ijaz Ahmad and Seokjoo Shin <br>
+KICS Summer Conference (하계종합학술발표회) Jun. 2023. <br>
+<i>The information will be updated soon!</i>
+
+<br>
+
 <b>Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection</b><br>
 Korean Title: <i>EfficientNetV2 기반 결핵 검출을 위한 전이 학습 활용</i>
 Ijaz Ahmad and Seokjoo Shin <br>
@@ -255,7 +279,7 @@ KICS Fall Conference (추계종합학술발표회): 458-459, Nov. 2022. <br>
 <b>A Comparison of EfficientNets for Tuberculosis Detection in Chest Radiographs</b><br>
 Korean Title: <i>흉부 엑스선 결핵 검출을 위한 EfficientNets 비교</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): 126-127, Sep. 2022. <br>
+KICS Korea Artificial Intelligence Conference (제3회 한국 인공지능 학술대회): 126-127, Sep. 2022. <br>
 [<a href="https://koreaai.org/" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 
@@ -281,7 +305,7 @@ KICS Winter Conference (동계종합학술발표회): 549-551, Feb. 2022. <br>
 <b>Optimal Batch Size for Fine-Tuning Pre-Trained Deep Learning Models</b><br>
 Korean Title: <i>사전 훈련된 딥 러닝 모델의 파인튜닝을 위한 최적의 배치 크기</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): 203-205, Sep. 2021. <br>
+KICS Korea Artificial Intelligence Conference (제2회 한국 인공지능 학술대회): 203-205, Sep. 2021. <br>
 [<a href="https://koreaai.org/history" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 
