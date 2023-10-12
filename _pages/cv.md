@@ -46,14 +46,14 @@ a:active {
 </strong></div>
 
 <p id="summary"><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
-<p><span style="font-size: 11pt;">Researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up. Experience in project proposal and progress report writing.</span></p>
+<p><span style="font-size: 11pt;">I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences. I have experience in project proposal and progress report writing.</span></p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="education"><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Ph.D. Candidate in Computer Engineering | August 2023 (Expected) </strong></span></p>
+Ph.D. Computer Engineering | August 2023 </strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
@@ -100,7 +100,18 @@ Advisor: Ms. Fatima Tuz Zuhra (Assistant Professor)
 
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-P.h.D., Researcher | Sep 2018 to present <br></strong></span></p>
+Researcher | Sep 2023 to present <br></strong></span></p>
+
+<ul>
+<li><span style="font-size: 11pt;">
+Supervisor: Prof. Seokjoo Shin  <br>
+Topic: <i>Privacy-Preserving Deep Learning via Perceptual Encryption</i>
+</span></li>
+</ul>
+
+
+<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
+P.h.D., Researcher | Sep 2018 to Aug 2023 <br></strong></span></p>
 
 <ul>
 <li><span style="font-size: 11pt;">
@@ -293,6 +304,16 @@ Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encry
 
 <p><span style="font-size: 11pt;"><strong>National Conferences</strong></span></p>
 <ul>
+
+<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): Sep. 2023. (Oral Presentation)
+<a href="https://koreaai.org/" target="_blank">&#128214;</a>
+</span></li>
+
+<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Convolutional Autoencoder for Image Quality Assessment”, KICS Summer Conference (하계종합학술발표회) Jun. 2023. (Oral Presentation)
+<a href="https://pastconf.kics.or.kr/e2023s" target="_blank">&#128214;</a>
+</span></li>
+
+
 <li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Leveraging Transfer Learning in EfficientNetV2-based Tuberculosis Detection”, KICS Fall Conference (추계종합학술발표회): 458-459, Nov. 2022. (Oral Presentation)
 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11197142" target="_blank">&#128214;</a>
 </span></li> 
