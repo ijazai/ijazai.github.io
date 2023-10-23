@@ -26,15 +26,16 @@ My research interests are in privacy preservation during data transmission – <
 <h2>News</h2>
 
 <ul  align="justify">
+	<li><span style="font-size: 11pt;"><strong>[24<sup>th</sup> April 2023]</strong> We submitted a paper related to chroma subsampling function for our proposed [<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">IIB-CPE method</a>] to KICS Fall 2023 conference.</span></li>
+	
 	<li><span style="font-size: 11pt;"><strong>[02<sup>nd</sup> Sep 2023]</strong>  Our paper <i>Deep Joint Source-Channel Coding for Medical Image Transmission</i> got accepted for presentation in the KICS Korea Artificial Intelligence Conference 2023!</span></li>
 
 	<li><span style="font-size: 11pt;"><strong>[07<sup>th</sup> July 2023]</strong> Our paper <i>Deep Learning-Based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images</i> got accepted for presentation in the ISCIT 2023 conference! </span></li>
-	
-	<li><span style="font-size: 11pt;"><strong>[31<sup>st</sup> May 2023]</strong> Our paper <i>Convolutional Autoencoder for Image Quality Assessment</i> got accepted for presentation in the KICS Summer Conference 2023! </span></li>
 </ul>
 
 <h3>Past Events</h3>
 <ul align="justify">
+	<li><span style="font-size: 11pt;"><strong>[31<sup>st</sup> May 2023]</strong> Our paper <i>Convolutional Autoencoder for Image Quality Assessment</i> got accepted for presentation in the KICS Summer Conference 2023! </span></li>
 	<li><span style="font-size: 11pt;"><strong>[24<sup>th</sup> April 2023]</strong> We submitted a paper related to quantifying noise in transmitted images to the ISCIT 2023 conference.</span></li>
 	<li><span style="font-size: 11pt;"><strong>[18<sup>th</sup> April 2023]</strong> Our paper <i><a href="https://www.mdpi.com/1424-8220/23/8/4057" target="_blank" style="color:#64B2CB">'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</a></i>  is now online.</span></li>
 	<li><span style="font-size: 11pt;"><strong>[13<sup>th</sup> April 2023]</strong> Our paper <i>'Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives'</i> got accepted for publication in the Sensors journal!</span></li>
