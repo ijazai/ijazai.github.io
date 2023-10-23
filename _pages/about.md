@@ -26,7 +26,7 @@ My research interests are in privacy preservation during data transmission – <
 <h2>News</h2>
 
 <ul  align="justify">
-	<li><span style="font-size: 11pt;"><strong>[19<sup>th</sup> Oct 2023]</strong> We submitted a paper related to chroma subsampling function for our proposed [<a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">IIB-CPE method</a>] to KICS Fall 2023 conference.</span></li>
+	<li><span style="font-size: 11pt;"><strong>[19<sup>th</sup> Oct 2023]</strong> We submitted a paper related to chroma subsampling function for our proposed <a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">IIB-CPE method</a> to KICS Fall 2023 conference.</span></li>
 	
 	<li><span style="font-size: 11pt;"><strong>[02<sup>nd</sup> Sep 2023]</strong>  Our paper <i>Deep Joint Source-Channel Coding for Medical Image Transmission</i> got accepted for presentation in the KICS Korea Artificial Intelligence Conference 2023!</span></li>
 
