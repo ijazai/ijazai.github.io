@@ -254,11 +254,17 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 <h2>National Conferences</h2>
 
+<b>Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms</b><br>
+Korean Title: <i>서브 블록기반 지각 암호화 알고리즘을 위한 크로마 서브샘플링</i><br>
+Ijaz Ahmad and Seokjoo Shin <br>
+KICS Fall Conference (추계종합학술발표회): Nov. 2023. <br>
+<i>The information will be updated soon!</i>
+
 <b>Deep Joint Source-Channel Coding for Medical Image Transmission</b><br>
 Korean Title: <i>의료영상 전송을 위한 딥 조인트 소스-채널 코딩</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학술대회): Sep. 2023. <br>
-<i>The information will be updated soon!</i>
+KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학술대회): 449-450, Sep. 2023. <br>
+[<a href="https://koreaai.org/" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 <br>
 
