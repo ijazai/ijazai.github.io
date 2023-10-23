@@ -305,7 +305,10 @@ Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encry
 <p><span style="font-size: 11pt;"><strong>National Conferences</strong></span></p>
 <ul>
 
-<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): Sep. 2023. (Oral Presentation)
+<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms”, KICS Fall Conference (추계종합학술발표회): Nov. 2023. (Submitted)
+</span></li>
+
+<li><span style="font-size: 11pt;">I. Ahmad and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS Korea Artificial Intelligence Conference (한국 인공지능 학술대회): 449-450, Sep. 2023. (Oral Presentation)
 <a href="https://koreaai.org/" target="_blank">&#128214;</a>
 </span></li>
 
