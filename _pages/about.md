@@ -12,15 +12,21 @@ redirect_from:
 I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences.
 
 <br><br>
-I have recently completed a Ph.D. degree in Computer Engineering from Chosun university, where I am currently a part of the Wireless Communication and Networking (WHYNET) group and working as a researcher. The topic of my ongoing research is <i> Privacy-Preserving Deep Learning via Perceptual Encryption</i>.
+Currently, I am a postdoctoral researcher at Korea Univ., AI and Mobility (<a href="https://sites.google.com/view/aimlab-kuee/home?authuser=0" target="_blank" style="color:#64B2CB">AIM</a>) Lab under the supervision of <a href="https://sites.google.com/view/aimlab-kuee/members/joongheonkim?authuser=0" target="_blank" style="color:#64B2CB">Prof. Joongheon Kim</a>. I have received M.S. (2018) and Ph.D. (2023) degrees in computer engineering from Chosun Univ., Korea under the supervision of <a href="https://sites.google.com/view/whynet-lab/members?authuser=0" target="_blank" style="color:#64B2CB">Prof. Seokjoo Shin</a>. 
+
+Beside a postdoc, I am a visiting researcher at Chosun Univ., where I am a part of Wireless Communication and Networking (<a href="https://sites.google.com/view/whynet-lab/home?authuser=0" target="_blank" style="color:#64B2CB">WHYNET LAB</a>) research group.
 
 <br><br>
 My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain.
 
+<br><br>
+The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 
 <br><br>
 <b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, and Image Communication</i>.
 </p>
+
+
 
 <br>
 <h2>News</h2>
