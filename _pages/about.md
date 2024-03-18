@@ -33,18 +33,17 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt;"><strong>[11<sup>th</sup> Jan 2023]</strong> Our paper won IET & KICS best paper award at the KICS Fall 2023 conference!</span></li>
+	<li><span style="font-size: 11pt;"><strong>[18<sup>th</sup> Jan 2024]</strong> Our paper won IET & KICS best paper award at the KICS Fall 2023 conference!</span></li>
 	
 	<li><span style="font-size: 11pt;"><strong>[15<sup>th</sup> Jan 2024]</strong> Our paper <i>  Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification.</i> got accepted for presentation in the KICS Fall 2024 conference! </span></li>
 
 	<li><span style="font-size: 11pt;"><strong>[02<sup>nd</sup> Jan 2024]</strong> We submitted a paper related to privacy-preserving image classification to the KICS Winter 2024 conference.</span></li>
 
-	<li><span style="font-size: 11pt;"><strong>[08<sup>th</sup> Dec 2023]</strong> Our paper <i> Perceptual Image Encryption: A Communication Perspective</i> got accepted for presentation in the ICOIN 2024 conference! </span></li>
-
 </ul>
 
 <h3>Past Events</h3>
 <ul align="justify">
+	<li><span style="font-size: 11pt;"><strong>[08<sup>th</sup> Dec 2023]</strong> Our paper <i> Perceptual Image Encryption: A Communication Perspective</i> got accepted for presentation in the ICOIN 2024 conference! </span></li>
 	<li><span style="font-size: 11pt;"><strong>[26<sup>th</sup> Oct 2023]</strong> Our paper <i> Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms</i> got accepted for presentation in the KICS Fall 2023 conference! </span></li>
 	<li><span style="font-size: 11pt;"><strong>[26<sup>th</sup> Oct 2023]</strong> We submitted a paper related to communication perspective of perceptual encryption to the ICOIN 2024 conference.</span></li>
 	<li><span style="font-size: 11pt;"><strong>[19<sup>th</sup> Oct 2023]</strong> We submitted a paper related to chroma subsampling function for our proposed <a href="https://www.mdpi.com/1424-8220/22/20/8074" target="_blank" style="color:#64B2CB">IIB-CPE method</a> to KICS Fall 2023 conference.</span></li>
