@@ -42,9 +42,13 @@ The order in which the two operations are carried out affects the overall effici
 
 <b>Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images</b><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-IEEE International Symposium on Communications and Information Technologies (ISCIT) 2023. <br>
+IEEE International Symposium on Communications and Information Technologies (ISCIT): 208-213, Oct. 2023. <br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10376077" target="_blank" style="color:#64B2CB">Full Article</a>]
+[Summary]({{ site.baseurl }}{% link _publications/2023-02-20-paper-title-number-IC16.md %})<br>
 
-<i>The information will be updated soon!</i>
+<u>Description</u>: <i> We proposed a convolutional autoencoder-based image quality assessment metric <span id="dotsC14">...</span><span id="moreC14" style="display:none">that compares images in low dimensional feature space and can be used to monitor image degradation occurred during data transmission.</span></i>
+<button onclick="moreLessFtn('dotsC14','moreC14','moreLessBttnC14')" id="moreLessBttnC14" style="border:none; background-color:transparent; color:dodgerblue">+ Read more</button>
+
 
 <br>
 
