@@ -267,11 +267,21 @@ IEEE International Conference on Electronics, Information, and Communication (IC
 
 <h2>National Conferences</h2>
 
+<b>Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification</b><br>
+Korean Title: <i>개인정보 보호 이미지 분류를 위한 학습 가능한 픽셀 기반 암호화</i><br>
+Ijaz Ahmad and Seokjoo Shin <br>
+KICS Winter Conference (동계종합학술발표회): 252-253 Jan. 2024. <br>
+[<a href="https://conference.kics.or.kr/" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+
+<br>
+
 <b>Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms</b><br>
 Korean Title: <i>서브 블록기반 지각 암호화 알고리즘을 위한 크로마 서브샘플링</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-KICS Fall Conference (추계종합학술발표회): Nov. 2023. <br>
-<i>The information will be updated soon!</i>
+KICS Fall Conference (추계종합학술발표회): 852-853, Nov. 2023. <br>
+[<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11667552" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
+
+<br>
 
 <b>Deep Joint Source-Channel Coding for Medical Image Transmission</b><br>
 Korean Title: <i>의료영상 전송을 위한 딥 조인트 소스-채널 코딩</i><br>
@@ -284,8 +294,8 @@ KICS Korea Artificial Intelligence Conference (제4회 한국 인공지능 학�
 <b>Convolutional Autoencoder for Image Quality Assessment</b><br>
 Korean Title: <i>합성곱 오토인코더 기반의 이미지 품질 평가</i><br>
 Ijaz Ahmad and Seokjoo Shin <br>
-KICS Summer Conference (하계종합학술발표회) Jun. 2023. <br>
-<i>The information will be updated soon!</i>
+KICS Summer Conference (하계종합학술발표회): 1304-1305, Jun. 2023. <br>
+[<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487614" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 <br>
 
