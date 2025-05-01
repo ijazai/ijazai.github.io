@@ -9,7 +9,7 @@ author_profile: true
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt;"><strong>[18<sup>th</sup> Jan 2024]</strong> Our paper won IET & KICS best paper award at the KICS Fall 2023 conference!</span></li>
+	<li><span style="font-size: 10pt;">M.S. Uzzal, <strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup>*</sup>Equal contribution (Under review)</span></li>
 	
 	<li><span style="font-size: 11pt;"><strong>[15<sup>th</sup> Jan 2024]</strong> Our paper <i>  Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification.</i> got accepted for presentation in the KICS Fall 2024 conference! </span></li>
 
