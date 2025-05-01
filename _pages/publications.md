@@ -7,12 +7,11 @@ author_profile: true
 
 <h2>Journals</h2>
 
-<b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> in Sensors, 2023.<br>
-I. Ahmad, W. Choi and S. Shin<br>
 
-<b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> in Sensors, 2023. I. Ahmad, W. Choi and S. Shin<br>
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> (Sensors, 2023) I. Ahmad, W. Choi and S. Shin<br>
+
+Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives, (Sensors, 2023) <i>I. Ahmad, W. Choi and S. Shin<\i><br>
 
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
