@@ -30,7 +30,7 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 
 <br>
 <h2>Recent</h2>
-
+<h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:blue">Elsevier Expert Systems with Applications, (Under review)</span> <sup>*</sup>Equal contribution </span></li>
@@ -40,15 +40,17 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in <span style="font-size: 11pt; color:blue">IEEE Internet of Things Journal, 2025. (Online)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in <span style="font-size: 11pt; color:blue">MDPI Electronics, 2025.</span></span></li>
-	
 		
-	
-	
+</ul>
+
+<h3>Conferences</h3>
+
+<ul  align="justify" style="list-style-type:none;">
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, J. Kim and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:blue">IEICE NOLTA, 2025. (Under review)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:blue">IEEE ICUFN, 2025. (Under review)</span> </span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:blue">IEEE DSN, 2025. (Accepted)<\span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:blue">IEEE DSN, 2025. (Accepted)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:blue">IEEE ICAIIC, 2025.</span> </span></li>
 	
@@ -63,7 +65,9 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "A Searchable Encryption Technique for Secure Color Image Retrieval," <span style="font-size: 11pt; color:blue">IEEE ICTC, 2024.</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Perceptual Image Encryption: A Communication Perspective," <span style="font-size: 11pt; color:blue">IEEE ICOIN, 2024. </span></span></li>
-	
+
+</ul>
+<ul  align="justify" style="list-style-type:none;">
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:blue">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
 	
