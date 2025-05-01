@@ -75,7 +75,7 @@ author_profile: true
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Fuzzy Logic-based Feature Fusion Technique for Image Retrieval System”, KICS KoreaAI, 2024. </span></li>
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications”, KICS KoreaAI, 2024. </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “A Data Augmentation Technique for Perceptual Encryption-Based Privacy Preserving Medical Image Analysis”, KICS Summer Conference, 2024. </span></li>
-	<li><span style="font-size: 11pt; color:black"></span><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. </li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms”, KICS Fall Conference, 2023. </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS KoreaAI, 2023. </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Convolutional Autoencoder for Image Quality Assessment”, KICS Summer Conference, 2023. </span></li>
