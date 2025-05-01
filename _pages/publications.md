@@ -35,12 +35,15 @@ M.S. Uzzal, <b>I. Ahmad </b>, J. Kim and S. Shin, " Chaos-based Searchable Encry
 A. A. Mahbub, <b>I. Ahmad </b>, S. Hwang, E. Kim, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” IEEE ICUFN, 2025. (Under review) <br>
 
 <b>I. Ahmad </b>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," IEEE DSN, 2025. (Accepted) <br>
+
 I. I. Shovon, <b>I. Ahmad </b> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," IEEE ICAIIC, 2025. <br>
 
 <b>I. Ahmad </b>, M. S. Uzzal and S. Shin, "Secure Retrieval of Brain Tumor Images using Perceptual Encryption," IEEE BigComp, 2025. <br>
+
 I. I. Shovon, <b>I. Ahmad </b> and S. Shin, Segmentation Aided Multiclass Classification of Lung Disease in Chest X-ray Images using Graph Neural Networks," IEEE ICOIN, 2025. <br>
 
 <b>I. Ahmad </b>, J. Kim and S. Shin, "Chaos Theory-based Learnable Encryption Scheme for Privacy-Preserving Medical Image Analysis," IEICE NOLTA, 2024. <br>
+
 M.S. Uzzal, <b>I. Ahmad </b> and S. Shin. “Perceptual Encryption-based Privacy-Preserving Image Retrieval Application.” KINGPC ICNGC, 2024. <br>
 
 <b>I. Ahmad </b>, J. Kim and S. Shin, "A Searchable Encryption Technique for Secure Color Image Retrieval," IEEE ICTC, 2024. <br>
@@ -50,6 +53,7 @@ M.S. Uzzal, <b>I. Ahmad </b> and S. Shin. “Perceptual Encryption-based Privacy
 <b>I. Ahmad </b> and S. Shin, “Deep Learning-based Image Quality Assessment Metric for Quantifying Perceptual Distortions in Transmitted Images", IEEE ISCIT, 2023. <br>
 
 <b>I. Ahmad </b> and S. Shin. “Noise-cuts-Noise Approach for Mitigating the JPEG Distortions in Deep Learning.” IEEE ICAIIC, 2023. <br>
+
 N. Islam, <b>I. Ahmad </b> and S. Shin. “Robustness of Deep Learning Enabled IoT Applications Utilizing Higher Order QAM in OFDM Image Communication System.” IEEE ICAIIC, 2023. <br>
 
 <b>I. Ahmad </b> and S. Shin. “Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis.” IEEE ICOIN, 2023. <br>
