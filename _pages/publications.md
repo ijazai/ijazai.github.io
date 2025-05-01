@@ -9,30 +9,31 @@ author_profile: true
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Under review)<sup>*</sup>Equal contribution </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Under review) <sup>*</sup>Equal contribution </span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)</span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online)</span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025.</span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in KICS J-KICS,  2024.</span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods-Compression and Encryption Perspectives", in MDPI Sensors,  2023. (invited) </span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", in MDPI Sensors,  2022. (invited)</span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", in MDPI Electronics, 2022. </span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad<sup>*</sup></strong> and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", in Elsevier Signal Processing: Image Communication, 2021.</span></li>
+	
+	<li><span style="font-size: 11pt; color:black"></span></li>
+	
+	<li><span style="font-size: 11pt; color:black"></span></li>
 	
 	
 
 </ul>
 
-
-M.S. Uzzal<sup>*</sup>, <b>I. Ahmad </b><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup>*</sup>Equal contribution (Under review) <br>
-
-<b>I. Ahmad</b>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)  <br>
-
-<b>I. Ahmad</b>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online) <br>
-
-<b>I. Ahmad</b>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025. <br>
-
-<b>I. Ahmad</b> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in KICS J-KICS,  2024. <br>
-
-<b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods-Compression and Encryption Perspectives", in MDPI Sensors,  2023. (invited) <br>
-
-<b>I. Ahmad</b> and S. Shin, "IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", in MDPI Sensors,  2022. (invited) <br>
-
-<b>I. Ahmad</b> and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", in MDPI Electronics, 2022. <br>
-
-<b>I. Ahmad</b> and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", in Elsevier Signal Processing: Image Communication, 2021. <br>
 
 
 <h2>Conferences</h2>
