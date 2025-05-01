@@ -70,77 +70,31 @@ author_profile: true
 <h3>National</h3>
 
 <ul  align="justify">
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
-	<li><span style="font-size: 11pt; color:black"></span></li>
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <b> I. Ahmad </b> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. (Accepted) </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <b> I. Ahmad </b> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, KINGPC Spring Conference, 2025. (Accepted) </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin, “Fuzzy Logic-based Feature Fusion Technique for Image Retrieval System”, KICS KoreaAI, 2024. </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <b>I. Ahmad </b> and S. Shin, “Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications”, KICS KoreaAI, 2024. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin, “A Data Augmentation Technique for Perceptual Encryption-Based Privacy Preserving Medical Image Analysis”, KICS Summer Conference, 2024. </span></li>
+	<li><span style="font-size: 11pt; color:black"></span><b>I. Ahmad </b> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. </li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin, “Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms”, KICS Fall Conference, 2023. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS KoreaAI, 2023. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin, “Convolutional Autoencoder for Image Quality Assessment”, KICS Summer Conference, 2023. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Leveraging Transfer Learning in EfficientNetv2-based Tuberculosis Detection.” KICS Fall Conference, 2022. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “A Comparison of EfficientNets for Tuberculosis Detection in Chest Radiographs.” KICS KoreaAI, 2022. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b>, N. Islam and S. Shin. “Performance Analysis of Deep Learning Models with Communication Channel Distortion.” KICS Summer Conference, 2022. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Block-based Perceptual Encryption Algorithm with Improved Color Components Scrambling.” KINGPC Spring Conference, 2022. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “A pixel-based Encryption Method for Privacy-Preserving Deep Learning Models.” KICS Winter Conference, 2022. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Optimal Batch Size for Fine-Tuning Pre-Trained Deep Learning Models.” KICS KoreaAI, 2021. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Effect of Inter and Intra Block-level shuffling on the JPEG Compression Performance.” KIISE SWCC, 2021. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Optimal Resolution Selection to Run Pre-Trained Deep Learning Models on Tiny Images.” KINGPC Spring Conference, 2021. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Data Rate of End-to-End Learning of Communication Systems: A Survey.” KINGPC Summer Conference, 2020. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Performance analysis of Chinese Remainder Theorem for Data Compression.” KIISE KCC, 2020. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Channel Model for End-to-End Learning of Communications Systems: A Survey.” KISM Spring Conference, 2020. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b> and S. Shin. “Analysis of Chinese Remainder Theorem Moduli for Image Compression.” KICS Fall Conference, 2019. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b>, N. Sahar, and S. Shin. “Algorithmic Design of Korean Dancheong Patterns.” KISM CSMS, 2019. </span></li>
+	<li><span style="font-size: 11pt; color:black"><b>I. Ahmad </b>, K. Choi and I. Moon. “Parallel Heap Sort Algorithm-based on Graphics Processing Units.” KISM Spring Conference, 2017.</span></li>
 
 </ul>
-
-G. Saadloonia, <b> I. Ahmad </b> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. (Accepted) <br>
-
-M.S. Uzzal, <b> I. Ahmad </b> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, KINGPC Spring Conference, 2025. (Accepted) <br>
-
-<b>I. Ahmad </b> and S. Shin, “Fuzzy Logic-based Feature Fusion Technique for Image Retrieval System”, KICS KoreaAI, 2024. <br>
-
-M.S. Uzzal, <b>I. Ahmad </b> and S. Shin, “Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications”, KICS KoreaAI, 2024. <br>
-
-<b>I. Ahmad </b> and S. Shin, “A Data Augmentation Technique for Perceptual Encryption-Based Privacy Preserving Medical Image Analysis”, KICS Summer Conference, 2024. <br>
-
-<b>I. Ahmad </b> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. <br>
-
-<b>I. Ahmad </b> and S. Shin, “Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms”, KICS Fall Conference, 2023. <br>
-
-<b>I. Ahmad </b> and S. Shin, “Deep Joint Source-Channel Coding for Medical Image Transmission”, KICS KoreaAI, 2023. <br>
-
-<b>I. Ahmad </b> and S. Shin, “Convolutional Autoencoder for Image Quality Assessment”, KICS Summer Conference, 2023. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Leveraging Transfer Learning in EfficientNetv2-based Tuberculosis Detection.” KICS Fall Conference, 2022. <br>
-
-<b>I. Ahmad </b> and S. Shin. “A Comparison of EfficientNets for Tuberculosis Detection in Chest Radiographs.” KICS KoreaAI, 2022. <br>
-
-<b>I. Ahmad </b>, N. Islam and S. Shin. “Performance Analysis of Deep Learning Models with Communication Channel Distortion.” KICS Summer Conference, 2022. <br> 
-
-<b>I. Ahmad </b> and S. Shin. “Block-based Perceptual Encryption Algorithm with Improved Color Components Scrambling.” KINGPC Spring Conference, 2022. <br>
-
-<b>I. Ahmad </b> and S. Shin. “A pixel-based Encryption Method for Privacy-Preserving Deep Learning Models.” KICS Winter Conference, 2022. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Optimal Batch Size for Fine-Tuning Pre-Trained Deep Learning Models.” KICS KoreaAI, 2021. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Effect of Inter and Intra Block-level shuffling on the JPEG Compression Performance.” KIISE SWCC, 2021. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Optimal Resolution Selection to Run Pre-Trained Deep Learning Models on Tiny Images.” KINGPC Spring Conference, 2021. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Data Rate of End-to-End Learning of Communication Systems: A Survey.” KINGPC Summer Conference, 2020. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Performance analysis of Chinese Remainder Theorem for Data Compression.” KIISE KCC, 2020. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Channel Model for End-to-End Learning of Communications Systems: A Survey.” KISM Spring Conference, 2020. <br>
-
-<b>I. Ahmad </b> and S. Shin. “Analysis of Chinese Remainder Theorem Moduli for Image Compression.” KICS Fall Conference, 2019. <br>
-
-<b>I. Ahmad </b>, N. Sahar, and S. Shin. “Algorithmic Design of Korean Dancheong Patterns.” KISM CSMS, 2019. <br>
-
-<b>I. Ahmad </b>, K. Choi and I. Moon. “Parallel Heap Sort Algorithm-based on Graphics Processing Units.” KISM Spring Conference, 2017.
 
 
 <!--
