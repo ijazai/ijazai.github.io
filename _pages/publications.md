@@ -8,8 +8,7 @@ author_profile: true
 <h2>Journals</h2>
 
 
-<p>M.S. Uzzal<sup>*</sup>, <b>I. Ahmad </b><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup>*</sup>Equal contribution (Under review) </p>
-
+<p>M.S. Uzzal<sup></sup>, <b>I. Ahmad </b><sup></sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup></sup>Equal contribution (Under review) </p>
 <p><b>I. Ahmad</b>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)  </p>
 
 <p><b>I. Ahmad</b>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online) <br></p>
