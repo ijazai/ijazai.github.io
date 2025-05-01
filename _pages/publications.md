@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
@@ -8,15 +8,12 @@ author_profile: true
 <h2>Journals</h2>
 
 
-<li> <b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives", in MDPI Sensors, 2023.
-
-
 <li> M.S. Uzzal<sup>*</sup>, <b>I. Ahmad <sup>*</sup></b> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Under review) <sup>*</sup>Equal contribution
 <li> <b>I. Ahmad</b>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)
 <li> <b>I. Ahmad</b>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online)
 <li> <b>I. Ahmad</b>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025.
 <li> <b>I. Ahmad</b> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in KICS J-KICS,  2024.
-<li> <b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods--Compression and Encryption Perspectives", in MDPI Sensors,  2023. (invited)
+<li> <b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods-Compression and Encryption Perspectives", in MDPI Sensors,  2023. (invited)
 <li> <b>I. Ahmad</b> and S. Shin, "IIB–CPE: Inter and Intra Block Processing-Based Compressible Perceptual Encryption Method for Privacy-Preserving Deep Learning", in MDPI Sensors,  2022. (invited)
 <li> <b>I. Ahmad</b> and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", in MDPI Electronics, 2022.
 <li> <b>I. Ahmad</b> and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", in Elsevier Signal Processing: Image Communication, 2021.
