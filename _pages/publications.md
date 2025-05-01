@@ -8,11 +8,11 @@ author_profile: true
 <h2>Journals</h2>
 
 
-M.S. Uzzal<sup>*</sup>, <b>I. Ahmad </b><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup>*</sup>Equal contribution (Under review) <br>
+<p>M.S. Uzzal<sup>*</sup>, <b>I. Ahmad </b><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. <sup>*</sup>Equal contribution (Under review) </p>
 
-<b>I. Ahmad</b>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)  <br>
+<p><b>I. Ahmad</b>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)  </p>
 
-<b>I. Ahmad</b>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online) <br>
+<p><b>I. Ahmad</b>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online) <br></p>
 
 <b>I. Ahmad</b>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025. <br>
 
