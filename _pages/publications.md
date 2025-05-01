@@ -13,6 +13,9 @@ author_profile: true
 <li> <b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives", in MDPI Sensors, 2023.
 </ul>
 
+<li> Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives, (Sensors, 2023) <i>I. Ahmad, W. Choi and S. Shin</i>
+<li> <b>I. Ahmad</b>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives", in MDPI Sensors, 2023.
+
 <!--
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
 Ijaz Ahmad, Wooyeol Choi and Seokjoo Shin<br>
