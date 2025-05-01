@@ -53,26 +53,24 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:#003AA6">IEEE DSN, 2025. (Accepted)</span></span></li>
 	
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
+	
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
+	
 	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2025.</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M. S. Uzzal and S. Shin, "Secure Retrieval of Brain Tumor Images using Perceptual Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE BigComp, 2025. </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, Segmentation Aided Multiclass Classification of Lung Disease in Chest X-ray Images using Graph Neural Networks," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2025.</span> </span></li>
 	
+	
+	
+	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Chaos Theory-based Learnable Encryption Scheme for Privacy-Preserving Medical Image Analysis," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2024. </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin. “Perceptual Encryption-based Privacy-Preserving Image Retrieval Application.” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2024. </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "A Searchable Encryption Technique for Secure Color Image Retrieval," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2024.</span> </span></li>
-	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Perceptual Image Encryption: A Communication Perspective," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2024. </span></span></li>
-
-</ul>
-<ul  align="justify" style="list-style-type:none;">
-	
-	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
-	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Fuzzy Logic-based Feature Fusion Technique for Image Retrieval System”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2024. </span></span></li>
 	
@@ -82,7 +80,10 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, <span style="font-size: 11pt; color:#3AA600">KICS Winter Conference, 2024. </span></span></li>
 	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Perceptual Image Encryption: A Communication Perspective," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2024. </span></span></li>
+
 </ul>
+
 
 <!--
 <h2>News</h2>
