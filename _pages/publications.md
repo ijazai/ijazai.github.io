@@ -12,6 +12,8 @@ I. Ahmad, W. Choi and S. Shin<br>
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> in Sensors, 2023. I. Ahmad, W. Choi and S. Shin<br>
 
+<b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> (Sensors, 2023) I. Ahmad, W. Choi and S. Shin<br>
+
 
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
 Ijaz Ahmad, Wooyeol Choi and Seokjoo Shin<br>
