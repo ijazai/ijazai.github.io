@@ -74,7 +74,7 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “A Data Augmentation Technique for Perceptual Encryption-Based Privacy Preserving Medical Image Analysis”, KICS Summer Conference, 2024. </span></li>
 	
-	<li><span style="font-size: 11pt; color:black"></span><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. </li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, KICS Winter Conference, 2024. </span></li>
 	
 </ul>
 
