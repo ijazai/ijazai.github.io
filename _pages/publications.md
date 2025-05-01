@@ -8,12 +8,12 @@ author_profile: true
 <h2>Journals</h2>
 
 
+<ul>
+<li> Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives, (Sensors, 2023) <i>I. Ahmad, W. Choi and S. Shin</i><br>
+<li> Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives, (Sensors, 2023) <i>I. Ahmad, W. Choi and S. Shin</i><br>
+</ul>
 
-<b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives,</b> (Sensors, 2023) I. Ahmad, W. Choi and S. Shin<br>
-
-Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives, (Sensors, 2023) <i>I. Ahmad, W. Choi and S. Shin<\i><br>
-
-
+<!--
 <b>Comprehensive Analysis of Compressible Perceptual Encryption Methods—Compression and Encryption Perspectives</b><br>
 Ijaz Ahmad, Wooyeol Choi and Seokjoo Shin<br>
 Sensors, vol. 23, no. 8, p. 4057, Apr. 2023. <br>
@@ -387,6 +387,7 @@ KISM Workshop on Covergent and Smart Media Systems (융합∙스마트미디어�
 [<a href="https://kism.jams.or.kr/acm/config/accnConf/acAccnInfoCreateList.kci?accnNmKor=&pageIndex=1&acStatCheckboxArr=" target="_blank" style="color:#64B2CB">Full Article</a>]<br>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+-->
 
 <!--
 <b></b><br>
