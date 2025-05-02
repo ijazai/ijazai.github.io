@@ -60,10 +60,19 @@ div.container {
 | <a href="#languages">LANGUAGES</a>
 </strong></div>
 
-<p id="summary"><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
-<p><span style="font-size: 11pt;">I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences. I have experience in project proposal and progress report writing.</span></p>
 
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
+<div class="container" id="summary">
+	<span style="font-size: 12pt; color:black"><strong>SUMMARY</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	<span style="font-size: 11pt; color:black">I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences. I have experience in project proposal and progress report writing.</span>
+    </div>
+	
+</div>
 
 <hr style="height:1px;border-width:0;color:black;background-color:white">
 
@@ -487,61 +496,23 @@ div.container {
 	
 </div>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<p id="services"><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
-<p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
-<ul>
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
-<li><span style="font-size: 11pt;"> Springer Artificial Intelligence Review 
-<a href="https://www.springer.com/journal/10462" target="_blank">&#127968;</a>
-</span></li>
+<div class="container" id="languages">
+	<span style="font-size: 12pt; color:black"><strong>LANGUAGES</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
 
-<li><span style="font-size: 11pt;"> Elsevier Journal of King Saud University - Computer and Information Sciences (JKSUCIS) 
-<a href="https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences" target="_blank">&#127968;</a>
-</span></li> 
+    <br>
+	<div class="b">
+    	<li><span style="font-size: 11pt; color:black">English (Full professional proficiency)</span></li>
+		<li><span style="font-size: 11pt; color:black">Korean (Elementary proficiency)</span></li>
+		<li><span style="font-size: 11pt; color:black">Urdu (Native or bilingual proficiency)</span></li>
+		<li><span style="font-size: 11pt; color:black">Pashto (Native or bilingual proficiency)</span></li>
+    </div>
+	
+</div>
 
-<li><span style="font-size: 11pt;"> Elsevier Cyber Security and Applications (CSA) 
-<a href="https://www.sciencedirect.com/journal/cyber-security-and-applications" target="_blank">&#127968;</a>
-</span></li>
-
-<li><span style="font-size: 11pt;"> Bentham Science Current Medical Imaging (CMIM) 
-<a href="https://benthamscience.com/public/journals/current-medical-imaging" target="_blank">&#127968;</a>
-</span></li> 
-</ul>
-
-<p><span style="font-size: 11pt;"><strong>Technical Program Committee Member / Conference Reviewers</strong></span></p>
-<ul>
-
-<li><span style="font-size: 11pt;">
-IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2021-2023
-<a href="http://icaiic.org/" target="_blank">&#127968;</a>
-</span></li> 
-
-<li><span style="font-size: 11pt;">
-IEEE International Conference on Information Networking (ICOIN) 2022-2023
-<a href="https://icoin.org/" target="_blank">&#127968;</a>
-</span></li> 
-
-<li><span style="font-size: 11pt;">IEEE International Conference on Information and Communication Technology Convergence (ICTC) 2022-2023
-<a href="https://ictc.org/" target="_blank">&#127968;</a>
-</span></li> 
-
-<li><span style="font-size: 11pt;">IEEE International Conference on Ubiquitous and Future Networks (ICUFN) 2023
-<a href="https://icufn.org/" target="_blank">&#127968;</a>
-</span></li> 
-</ul>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
-
-<p id="languages"><span style="font-size: 12pt;"><strong>LANGUAGES</strong></span></p>
-<ul>
-<li><span style="font-size: 11pt;">English (Full professional proficiency)</span></li> 
-<li><span style="font-size: 11pt;">Korean (Elementary proficiency)</span></li> 
-<li><span style="font-size: 11pt;">Urdu (Native or bilingual proficiency)</span></li> 
-<li><span style="font-size: 11pt;">Pashto (Native or bilingual proficiency)</span></li> 
-</ul>
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
