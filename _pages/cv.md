@@ -86,36 +86,32 @@ div.container {
     
     <div class="b">
     	<span style="font-size: 10pt; color:black"><strong><i>B.S., Peshawar University, Pakistan (February 2015)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Science</span> <br>
+        <span style="font-size: 10pt; color:black">Computer Science (Honors)</span> <br>
         <span style="font-size: 10pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
     </div>
 </div>
 
 
-<div class="container">
+<div class="container" id="experience">
 	<span style="font-size: 12pt; color:black"><strong>PROFESSIONAL EXPERIENCE</strong></span> <br><br>
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
     <br>
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Ph.D., Chosun University, South Korea (August 2023)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> A cryptographic approach towards privacy-preserving image data transmission, storage and computation</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    	<span style="font-size: 10pt; color:black"><strong><i>Postdoctoral Researcher, Korea University, South Korea (Jan 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">AI and Mobility Lab</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Topic:</i> Privacy-preserving deep learning</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Joongheon Kim</span>
     </div>
-    
+	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>M.S., Chosun University, South Korea (August 2018)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> Study of edge detection with color-to-grayscale algorithms</span>  <br>
+    	<span style="font-size: 10pt; color:black"><strong><i>Technical Lead, Chosun University, South Korea (Apr 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 10pt; color:black">1. Secure content-based image retrieval using perceptual encryption</span> <br>
+        <span style="font-size: 10pt; color:black">2. Data aided image classification using graph neural networks</span>
     </div>
     
-    
-    <div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>B.S., Peshawar University, Pakistan (February 2015)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Science</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
-    </div>
+	
 </div>
 
 
