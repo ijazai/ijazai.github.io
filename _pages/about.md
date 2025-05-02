@@ -47,7 +47,7 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 <p>[<span style="font-size: 11pt; color:#003AA6"> International</span> | <span style="font-size: 11pt; color:#3AA600">National </span>]</p>
 
 <ul  align="justify" style="list-style-type:none;">
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, J. Kim and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Under review)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. (Under review)</span> </span></li>
 	
