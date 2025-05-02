@@ -67,7 +67,7 @@ author_profile: true
 
 </ul>
 
-<h3>National</h3>
+<h3><span style="color:#3AA600">National</span></h3>
 
 <ul  align="justify">
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span> </span></li>
