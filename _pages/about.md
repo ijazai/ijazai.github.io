@@ -49,7 +49,7 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 <ul  align="justify" style="list-style-type:none;">
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, J. Kim and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. (Under review)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. (Under review)</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:#003AA6">IEEE DSN, 2025. (Accepted)</span></span></li>
 	
@@ -57,11 +57,11 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2025.</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">I.I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2025.</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M. S. Uzzal and S. Shin, "Secure Retrieval of Brain Tumor Images using Perceptual Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE BigComp, 2025. </span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, Segmentation Aided Multiclass Classification of Lung Disease in Chest X-ray Images using Graph Neural Networks," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2025.</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">I.I. Shovon, <strong>I. Ahmad</strong> and S. Shin, Segmentation Aided Multiclass Classification of Lung Disease in Chest X-ray Images using Graph Neural Networks," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2025.</span> </span></li>
 	
 	
 	
