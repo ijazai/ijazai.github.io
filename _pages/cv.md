@@ -144,83 +144,34 @@ div.container {
 </div>
 
 
+<div class="container" id="experience">
+	<span style="font-size: 12pt; color:black"><strong>MENTORING EXPERIENCE</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Graduate Mentor, Chosun University, South Korea (Mar 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 10pt; color:black">Mentored three Master and one Ph.D. students</span>  <br>
+        <span style="font-size: 10pt; color:black">(1 Journal Paper | 5 International Conference Papers | 3 National Conference Papers)</span>
+    </div>
+	
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Volunteer Advisor, University of the Philippines, The Philippines (Dec 2023 to present)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Mathematical and Computing Sciences Unit</span> <br>
+        <span style="font-size: 10pt; color:black">Mentored students in research topic selection and provided technical feedback on topics such as:</span> <br>
+        <span style="font-size: 10pt; color:black">1. Privacy-preserving AI mainly focusing on Federated Learning</span>
+		<span style="font-size: 10pt; color:black">2. Medical image processing</span>
+		<span style="font-size: 10pt; color:black">3. Explainable AI</span>
+    </div>
+    
+	
+</div>
 
 
-<p id="experience"><span style="font-size: 12pt;"><strong>PROFESSIONAL EXPERIENCE</strong></span></p>
-<hr style="height:2px;border-width:0;color:black;background-color:black">
 
 
-<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Researcher | Sep 2023 to present <br></strong></span></p>
 
-<ul>
-<li><span style="font-size: 11pt;">
-Supervisor: Prof. Seokjoo Shin  <br>
-Topic: <i>Privacy-Preserving Deep Learning via Perceptual Encryption</i>
-</span></li>
-</ul>
-
-
-<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-P.h.D., Researcher | Sep 2018 to Aug 2023 <br></strong></span></p>
-
-<ul>
-<li><span style="font-size: 11pt;">
-Supervisor: Prof. Seokjoo Shin  <br>
-Topic: <i>An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving domain</i>
-</span></li>
-<li><span style="font-size: 11pt;">Developed novel techniques for image encryption and compression to preserve user privacy during data transmission, storage and DL-based computations </span></li>
-<li><span style="font-size: 11pt;">Developed novel Image Quality Assessment metric to quantify perceptual distortions with respect to downstream DL model performance </span></li>
-<li><span style="font-size: 11pt;">Developed novel noise-based augmentation method to mitigate compression artifacts impact on DL model performance </span></li>
-<li><span style="font-size: 11pt;">Published 4 journal papers, 27 conference papers and 1 patent (applied)</span></li>
-<li><span style="font-size: 11pt;">Aided principal investigator with research projects and administrative tasks</span></li>
-<li><span style="font-size: 11pt;">Received Research Fund from Chosun University (2022 & 2020)</span></li>
-<li><span style="font-size: 11pt;">Received Basic Science Research Program Funding</span></li>
-</ul>
-
-
-<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Graduate Researcher | Sep 2017 to Aug 2018 <br></strong></span></p>
-
-<ul>
-<li><span style="font-size: 11pt;">
-Supervisor: Prof. Seokjoo Shin  <br>
-Topic: <i>Image processing and computer vision applications</i>
-</span></li>
-<li><span style="font-size: 11pt;">Assessed the impact of color to grayscale conversion algorithms on edge detectors</span></li>
-<li><span style="font-size: 11pt;">Developed novel edge map quality assessment metric</span></li>
-<li><span style="font-size: 11pt;">Published 1 journal and 2 conference papers</span></li>
-<li><span style="font-size: 11pt;">Aided principal investigator with research projects and administrative tasks</span></li>
-<li><span style="font-size: 11pt;">Received Basic Science Research Program Funding</span></li>
-</ul>
-
-
-<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Graduate Researcher | Sep 2016 to Aug 2017 <br></strong></span></p>
-
-<ul>
-<li><span style="font-size: 11pt;">
-Supervisor: Prof. Inkyu Moon <br>
-Topic: <i>Double random phase encoding for image encryption</i>
-</span></li>
-<li><span style="font-size: 11pt;">Published 1 conference paper</span></li>
-</ul>
-
-
-<p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
-Project Manager<br></strong></span></p>
-
-<ul>
-<li><span style="font-size: 11pt;">Responsibilities: Project proposal preparation, Yearly progress report, Software installation and Server configuration</span></li>
-<li><span style="font-size: 11pt;">Acquired high performance computational resources from NIPA, Korea for consecutive 3 years</span></li>
-<li><span style="font-size: 11pt;">Handled List of Projects
-<ul>
-<li><span style="font-size: 11pt;">Jan 2023 to present <br><i>Development of privacy-preserving deep learning-based image classification systems using both private and publicly available image datasets</i></span></li>
-<li><span style="font-size: 11pt;">Jan 2022 to Dec 2022 <br><i>Fine-tuning pre-trained deep learning color models for medical image analysis</i></span></li>
-<li><span style="font-size: 11pt;">Apr 2021 to Dec 2021 <br><i>Development of object recognition system for smart cities and Internet of Multimedia Things</i></span></li>
-</ul>
-</span></li>
-</ul>
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
