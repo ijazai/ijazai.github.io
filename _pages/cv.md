@@ -48,9 +48,17 @@ a:active {
 <p id="summary"><span style="font-size: 12pt;"><strong>SUMMARY</strong></span></p>
 <p><span style="font-size: 11pt;">I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences. I have experience in project proposal and progress report writing.</span></p>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <p id="education"><span style="font-size: 12pt;"><strong>EDUCATION</strong></span></p>
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
+
+<p>
+<span style="font-size:10pt; color:black"><strong><i>Ph.D., Chosun University, South Korea (August 2023)</i></strong><br>
+Computer Engineering</span> <br>
+<span style="font-size:10pt; color:black"><i>Thesis:</i> A cryptographic approach towards privacy-preserving image data transmission, storage and computation <br>
+<i>Mentor:</i> Prof. Seokjoo Shin </span>
+
+</p>
 
 <p><span style="font-size: 11pt;"><strong>Chosun University | South Korea <br>
 Ph.D. Computer Engineering | August 2023 </strong></span></p>
