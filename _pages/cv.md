@@ -454,17 +454,33 @@ div.container {
 
     <br>
 	<div class="b">
+		<h2><span style="font-size: 11pt; color:black">Journal Reviewers</span></h2>
+		
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black"><strong>Bentham </strong> | Current Medical Imaging</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Bentham </strong> <br> Current Medical Imaging</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Elsevier </strong> | Journal of King Saud University - Computer and Information Sciences, Journal of Systems Architecture, Pattern Recognition Letter</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Elsevier </strong> <br> Journal of King Saud University - Computer and Information Sciences, Journal of Systems Architecture, Pattern Recognition Letter</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>IEEE </strong> | Internet of Things Journal, Transactions on Multimedia</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>IEEE </strong> <br> Internet of Things Journal, Transactions on Multimedia</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>MDPI </strong> | Cryptography, Electronics, Entropy ,Future Internet, Information</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>MDPI </strong> <br> Cryptography, Electronics, Entropy ,Future Internet, Information</span></li>
 			
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Springer </strong> | Artificial Intelligence Review, Computing, Multimedia Systems, Nonlinear Dynamics, Scientific Reports, Signal, Image and Video Processing, The Visual Computer</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Springer </strong> <br> Artificial Intelligence Review, Computing, Multimedia Systems, Nonlinear Dynamics, Scientific Reports, Signal, Image and Video Processing, The Visual Computer</span></li>
+			
+		</ul>
+    </div>
+	
+	<br>
+	<div class="b">
+		<h2><span style="font-size: 11pt; color:black">Conference TPCs / Reviews</span></h2>
+		
+		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black">IEEE BigComp (2025~)</span></li>
+			<li><span style="font-size: 11pt; color:black">IEEE ICUFN (2023~)</span></li>
+			<li><span style="font-size: 11pt; color:black">IEEE ICTC (2022~)</span></li>
+			<li><span style="font-size: 11pt; color:black">IEEE ICOIN (2022~)</span></li>
+			<li><span style="font-size: 11pt; color:black">IEEE ICAIIC (2021~)</span></li>
 			
 		</ul>
     </div>
