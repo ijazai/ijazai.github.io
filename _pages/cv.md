@@ -40,7 +40,7 @@ div.b {
 
 div.container {
 	font-size: 2pt;
-	margin-top:4px
+	margin-top:6px
 }
 
 </style>
@@ -120,10 +120,24 @@ div.container {
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Project Manager, Chosun University, South Korea (Jan 2021 to Dec 2023)</i></strong></span> <br>
+    	<span style="font-size: 10pt; color:black"><strong><i>Project Manager, Chosun University, South Korea (Jan 2021 to Dec 2024)</i></strong></span> <br>
         <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
         <span style="font-size: 10pt; color:black"><i>Responsibilities:</i> Project proposal preparation, yearly progress report, and software installation</span>  <br>
         <span style="font-size: 10pt; color:black">Acquired high performance computing resources (NIPA, Korea) for consecutive 4 years</span>
+    </div>
+	
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2017 to Dec 2023)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Topic:</i> An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving manner</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    </div>
+	
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2016 to Aug 2017)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Three-Dimensional Image Processing Lab</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Topic:</i> Double random phase encoding for image encryption</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Inkyu Moon</span>
     </div>
     
 	
