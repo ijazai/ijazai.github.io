@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
 <p align="justify">
 I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences.
 
