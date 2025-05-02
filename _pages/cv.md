@@ -431,15 +431,13 @@ div.container {
 			
 			<li><span style="font-size: 11pt; color:black"><strong>MDPI APC Award (2022)</strong></span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2023)</strong>, - <i>BK21 fellowship to pursue Ph.D. Degree</i></span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2023)</strong>, <i>BK21 fellowship to pursue Ph.D. Degree</i></span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2020)</strong>, - <i>Chosun Univ. tuition fee Award for Ph.D. Degree</i> <br>
-			50% Research Assistant Scholarship | 33% Excellent Student Scholarship</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2020)</strong>, <i>Chosun Univ. tuition fee Award for Ph.D. Degree</i></span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, - <i>BK21 fellowship to pursue Master Degree</i></span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, <i>BK21 fellowship to pursue Master Degree</i></span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, - <i>Chosun Univ. tuition fee award for Master Degree</i> <br>
-			50% Research Assistant Scholarship | 33% Excellent Student Scholarship</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, <i>Chosun Univ. tuition fee award for Master Degree</i> </span></li>
 			
 		</ul>
     </div>
