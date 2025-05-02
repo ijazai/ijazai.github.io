@@ -29,6 +29,31 @@ a:active {
   top: 0;
 }
 
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+  float: left;
+  width:80%;
+  margin-bottom:4px
+}
+
+div.c {
+  text-align: right;
+  float: right;
+} 
+
+div.d {
+  text-align: justify;
+}
+
+div.container {
+	font-size: 2pt;
+}
+
 </style>
 
 
@@ -459,6 +484,84 @@ IEEE International Conference on Information Networking (ICOIN) 2022-2023
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+<div class="container">
+<div class="container">
+	<span style="font-size: 12pt; color:black"><strong>EDUCATION</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Ph.D., Chosun University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i>A cryptographic approach</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    </div>
+    
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">South Korea</span> <br>
+        <span style="font-size: 10pt; color:black">August 2023</span>
+	</div>
+    
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>M.S., Chosun University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i></span>  <br>
+    </div>
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">South Korea</span> <br>
+        <span style="font-size: 10pt; color:black">August 2018</span>
+	</div>
+    
+    <div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>B.S., Peshawar University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Science</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i></span>  <br>
+    </div>
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">Pakistan</span> <br>
+        <span style="font-size: 10pt; color:black">February 2018</span>
+	</div>
+</div>
+<div class="container">
+	<span style="font-size: 12pt; color:black"><strong>EDUCATION</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Ph.D., Chosun University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i>A cryptographic approach</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    </div>
+    
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">South Korea</span> <br>
+        <span style="font-size: 10pt; color:black">August 2023</span>
+	</div>
+    
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>M.S., Chosun University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i></span>  <br>
+    </div>
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">South Korea</span> <br>
+        <span style="font-size: 10pt; color:black">August 2018</span>
+	</div>
+    
+    <div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>B.S., Peshawar University</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Computer Science</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Thesis:</i></span>  <br>
+    </div>
+    <div class="c">
+    	<span style="font-size: 10pt; color:black">Pakistan</span> <br>
+        <span style="font-size: 10pt; color:black">February 2018</span>
+	</div>
+</div>
+</div>
+
 
 
 
