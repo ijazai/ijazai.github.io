@@ -35,14 +35,11 @@ div.a {
 
 div.b {
   text-align: left;
-  float: left;
-  width:80%;
   margin-bottom:4px
 }
 
 div.c {
   text-align: right;
-  float: right;
 } 
 
 div.d {
