@@ -40,6 +40,7 @@ div.b {
 
 div.container {
 	font-size: 2pt;
+	margin-top:4px
 }
 
 </style>
@@ -109,6 +110,20 @@ div.container {
         <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
         <span style="font-size: 10pt; color:black">1. Secure content-based image retrieval using perceptual encryption</span> <br>
         <span style="font-size: 10pt; color:black">2. Data aided image classification using graph neural networks</span>
+    </div>
+	
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Visiting Researcher, Chosun University, South Korea (Jan 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Topic:</i> Perceptual encryption-based privacy-preserving computation applications</span>  <br>
+        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    </div>
+	
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Project Manager, Chosun University, South Korea (Jan 2021 to Dec 2023)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 10pt; color:black"><i>Responsibilities:</i> Project proposal preparation, yearly progress report, and software installation</span>  <br>
+        <span style="font-size: 10pt; color:black">Acquired high performance computing resources (NIPA, Korea) for consecutive 4 years</span>
     </div>
     
 	
