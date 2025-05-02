@@ -51,6 +51,7 @@ div.container {
 <a href="#summary">SUMMARY</a>
 | <a href="#education">EDUCATION</a> 
 | <a href="#experience">EXPERIENCE</a>
+| <a href="#grants">GRANTS</a>
 | <a href="#skills">SKILLS</a>
 | <a href="#articles">PUBLICATIONS</a>
 | <a href="#talks">INVITED TALKS</a>
@@ -160,9 +161,24 @@ div.container {
     	<span style="font-size: 10pt; color:black"><strong><i>Volunteer Advisor, University of the Philippines, The Philippines (Dec 2023 to present)</i></strong></span> <br>
         <span style="font-size: 10pt; color:black">Mathematical and Computing Sciences Unit</span> <br>
         <span style="font-size: 10pt; color:black">Mentored students in research topic selection and provided technical feedback on topics such as:</span> <br>
-        <span style="font-size: 10pt; color:black">1. Privacy-preserving AI mainly focusing on Federated Learning</span>
-		<span style="font-size: 10pt; color:black">2. Medical image processing</span>
+        <span style="font-size: 10pt; color:black">1. Privacy-preserving AI mainly focusing on Federated Learning</span> <br>
+		<span style="font-size: 10pt; color:black">2. Medical image processing</span> <br>
 		<span style="font-size: 10pt; color:black">3. Explainable AI</span>
+    </div>
+    
+	
+</div>
+
+
+<div class="container" id="grants">
+	<span style="font-size: 12pt; color:black"><strong>MENTORING EXPERIENCE</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	<span style="font-size: 10pt; color:black"><strong><i>Core Contributor, Chosun University, South Korea (2023)</i></strong></span> <br>
+        <span style="font-size: 10pt; color:black">A study on perceptual encryption-based privacy preserving deep learning application service technology considering a networking environment in an image communication system</span>  <br>
+        <span style="font-size: 10pt; color:black">(2023.09.01~2027.02.28) | PI: Prof. Seokjoo Shin</span>
     </div>
     
 	
