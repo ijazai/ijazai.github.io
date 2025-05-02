@@ -196,7 +196,7 @@ div.container {
     <br>
 	<div class="b">
     	
-	<ul>
+	<ul  align="justify">
 		<li><span style="font-size: 11pt; color:black"> Image Processing, Computer Vision, Image Compression, and Image Encryption
 			<ul>
 				<li><span style="font-size: 11pt; color:black"> Foundational Algorithms; Image Quality Assessment; Lossless and Lossy Compression; Number Theory, Chaos Theory and Perceptual Encryption</span></li> 
@@ -320,6 +320,7 @@ div.container {
 	<div class="b">
 	<h2><span style="font-size: 11pt; color:black">National Conferences</span></h2>
 	
+	<ul  align="justify">	
 		<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. (Accepted) </span></li>
 		
 		<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, KINGPC Spring Conference, 2025. (Accepted) </span></li>
@@ -365,7 +366,7 @@ div.container {
 		<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, N. Sahar, and S. Shin. “Algorithmic Design of Korean Dancheong Patterns.” KISM CSMS, 2019. </span></li>
 		
 		<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, K. Choi and I. Moon. “Parallel Heap Sort Algorithm-based on Graphics Processing Units.” KISM Spring Conference, 2017.</span></li>
-		
+	</ul>	
 </div>
 
 
