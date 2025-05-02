@@ -372,11 +372,11 @@ div.container {
 	
 	<br>
 	<div class="b">
-	<h2><span style="font-size: 11pt; color:black">Patents</span></h2>
-	
-	<ul  align="justify">
-		<li><span style="font-size: 11pt; color:black"> Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encrypting and Compressing Image” (filing date 08/12/2021) </span></li>
-	</ul>
+		<h2><span style="font-size: 11pt; color:black">Patents</span></h2>
+		
+		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black"> Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encrypting and Compressing Image” (filing date 08/12/2021) </span></li>
+		</ul>
 	</div>
 
 </div>
@@ -446,6 +446,30 @@ div.container {
 	
 </div>
 
+<hr style="height:1px;border-width:0;color:black;background-color:white">
+
+<div class="container" id="services">
+	<span style="font-size: 12pt; color:black"><strong>SERVICES</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black"><strong>Bentham </strong> | Current Medical Imaging</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Elsevier </strong> | Journal of King Saud University - Computer and Information Sciences, Journal of Systems Architecture, Pattern Recognition Letter</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>IEEE </strong> | Internet of Things Journal, Transactions on Multimedia</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>MDPI </strong> | Cryptography, Electronics, Entropy ,Future Internet, Information</span></li>
+			
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Springer </strong> | Artificial Intelligence Review, Computing, Multimedia Systems, Nonlinear Dynamics, Scientific Reports, Signal, Image and Video Processing, The Visual Computer</span></li>
+			
+		</ul>
+    </div>
+	
+</div>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
