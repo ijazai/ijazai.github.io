@@ -449,20 +449,6 @@ div.container {
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-
-<p id="awards"><span style="font-size: 12pt;"><strong>AWARDS</strong></span></p>
-<ul>
-	<li><span style="font-size: 11pt;">2023 Best Paper Award, IEEE ICOIN</span></li> 
-	<li><span style="font-size: 11pt;">2022 Best Paper Award, IEEE ICOIN</span></li> 
-	<li><span style="font-size: 11pt;">2021 Best Poster Award, KINGPC Spring Conference</span></li> 
-	<li><span style="font-size: 11pt;">2020 Best Paper Award, ACM SMA Conference</span></li> 
-	<li><span style="font-size: 11pt;">2018 Best Poster Award, KINGPC ICNGC</span></li> 
-	<li><span style="font-size: 11pt;">2017 Best Paper Award, KINGPC ICNGC</span></li>
-</ul>
-
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
 <p id="services"><span style="font-size: 12pt;"><strong>SERVICES</strong></span></p>
 <p><span style="font-size: 11pt;"><strong>Journal Reviewers</strong></span></p>
 <ul>
