@@ -65,7 +65,7 @@ div.container {
 
 
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="education">
 	<span style="font-size: 12pt; color:black"><strong>EDUCATION</strong></span> <br><br>
@@ -93,7 +93,7 @@ div.container {
     </div>
 </div>
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="experience">
 	<span style="font-size: 12pt; color:black"><strong>PROFESSIONAL EXPERIENCE</strong></span> <br><br>
@@ -145,7 +145,7 @@ div.container {
 	
 </div>
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="experience">
 	<span style="font-size: 12pt; color:black"><strong>MENTORING EXPERIENCE</strong></span> <br><br>
@@ -171,7 +171,7 @@ div.container {
 	
 </div>
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="grants">
 	<span style="font-size: 12pt; color:black"><strong>GRANTS</strong></span> <br><br>
@@ -187,7 +187,7 @@ div.container {
 	
 </div>
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="skills">
 	<span style="font-size: 12pt; color:black"><strong>SKILLS</strong></span> <br><br>
@@ -220,7 +220,7 @@ div.container {
     </div>	
 </div>
 
-<hr style="height:2px;border-width:0;color:black;background-color:white">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="publications">
 	<span style="font-size: 12pt; color:black"><strong>PUBLICATIONS, PRESENTATIONS, & PATENTS</strong></span> <br><br>
