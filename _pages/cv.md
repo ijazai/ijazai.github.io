@@ -394,12 +394,21 @@ div.container {
 	
 </div>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:black;background-color:white">
 
-<p id="talks"><span style="font-size: 12pt;"><strong>INVITED TALKS</strong></span></p>
-<p><span style="font-size: 11pt;"><strong>University of the Philippines | Virtual</strong></span></p>
-<p><span style="font-size: 11pt;"><i>Invited lecturer for Introduction to Transfer Learning </i>| Jun 2021</span></p>
-<p><span style="font-size: 11pt;">‘How to fine-tune pre-trained deep learning color image models for medical image analysis’</span></p>
+<div class="container" id="awards">
+	<span style="font-size: 12pt; color:black"><strong>HONORS & AWARDS</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black"><strong> KICS Excellent Paper Award (2024)</strong> - <i>KICS Korea AI Conference</i> <br>
+			“Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications.”</span></li>
+		</ul>
+    </div>
+	
+</div>
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
