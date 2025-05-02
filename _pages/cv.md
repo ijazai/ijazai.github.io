@@ -405,6 +405,42 @@ div.container {
 		<ul  align="justify">
 			<li><span style="font-size: 11pt; color:black"><strong> KICS Excellent Paper Award (2024)</strong> - <i>KICS Korea AI Conference</i> <br>
 			“Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong> IET and KICS Best Paper Award (2023)</strong> - <i>IET and KICS Fall Conference</i> <br>
+			“Chroma Subsampling for Sub-block-based Perceptual Encryption Algorithms.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong> IEEE ICOIN Best Paper Award (2023)</strong> - <i>IEEE Computer Society</i> <br>
+			“Perceptual Encryption-based Privacy-Preserving Deep Learning for Medical Image Analysis.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong> IEEE ICOIN Best Paper Award (2022)</strong> - <i>IEEE Computer Society</i> <br>
+			“Encryption-then-Compression System for Cloud-based Medical Image Services.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Best Poster Award (2021)</strong> - <i>KINGPC Spring Conference</i> <br>
+			“Optimal Resolution Selection to Run Pre-Trained Deep Learning Models on Tiny Images.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>ACM SMA Best Paper Award (2020)</strong> - <i>ACM SMA Conference</i> <br>
+			“Region-based Selective Compression and Selective Encryption of Medical Images.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Best Poster Award (2018)</strong> - <i>KINGPC ICNGC Conference</i> <br>
+			“Just-Noticeable-Difference Based Edge Map Quality Measure.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Best Paper Award (2017)</strong> - <i>KINGPC ICNGC Conference</i> <br>
+			“N-Puzzle: A General Application of 3n+1 Problem.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>MDPI APC Award (2023)</strong></span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>MDPI APC Award (2022)</strong></span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2023)</strong>, - <i>BK21 fellowship to pursue Ph.D. Degree</i></span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2018 – 2020)</strong>, - <i>Chosun Univ. tuition fee Award for Ph.D. Degree</i> <br>
+			50% Research Assistant Scholarship | 33% Excellent Student Scholarship</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, - <i>BK21 fellowship to pursue Master Degree</i></span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>Scholarship (2016 – 2018)</strong>, - <i>Chosun Univ. tuition fee award for Master Degree</i> <br>
+			50% Research Assistant Scholarship | 33% Excellent Student Scholarship</span></li>
+			
 		</ul>
     </div>
 	
