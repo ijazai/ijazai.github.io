@@ -37,7 +37,7 @@ author_profile: true
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, J. Kim and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," IEICE NOLTA, 2025. (Under review)</span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," IEICE NOLTA, 2025. (Under review)</span></li>
 	<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” IEEE ICUFN, 2025. (Under review) </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," IEEE DSN, 2025. (Accepted)</span></li>
 	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," IEEE ICAIIC, 2025. </span></li>
