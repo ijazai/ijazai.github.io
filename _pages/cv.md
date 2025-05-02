@@ -171,7 +171,7 @@ div.container {
 
 
 <div class="container" id="grants">
-	<span style="font-size: 12pt; color:black"><strong>MENTORING EXPERIENCE</strong></span> <br><br>
+	<span style="font-size: 12pt; color:black"><strong>GRANTS</strong></span> <br><br>
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
     <br>
@@ -186,11 +186,42 @@ div.container {
 
 
 
+<div class="container" id="skills">
+	<span style="font-size: 12pt; color:black"><strong>SKILLS</strong></span> <br><br>
+    <hr style="height:2px;border-width:0;color:black;background-color:black">
+
+    <br>
+	<div class="b">
+    	
+	<ul>
+		<li><span style="font-size: 10pt; color:black"> Image Processing, Computer Vision, Image Compression, and Image Encryption
+			<ul>
+				<li><span style="font-size: 10pt; color:black"> Foundational Algorithms; Image Quality Assessment; Lossless and Lossy Compression; Number Theory, Chaos Theory and Perceptual Encryption</span></li> 
+			</ul>
+		</span></li>
+		<li><span style="font-size: 10pt; color:black"> Deep Learning and Machine Learning 
+			<ul>
+				<li><span style="font-size: 10pt; color:black"> Algorithms: Supervised and Unsupervised Learning, Transfer Learning, and Privacy-Preserving AI</span></li> 
+				<li><span style="font-size: 10pt; color:black"> Applications: Natural and Medical Image Analysis</span></li>
+			</ul>
+		</span></li>
+		<li><span style="font-size: 10pt; color:black"> Programming Languages
+			<ul>
+				<li><span style="font-size: 10pt; color:black"> MATLAB, Python, Tensorflow, Keras </span></li> 
+				<li><span style="font-size: 10pt; color:black"> Familiar with: C, C++, and Java </span></li>
+			</ul>
+		</span></li>
+		<li><span style="font-size: 10pt; color:black"> Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
+	</ul>
+		
+    </div>
+    
+	
+</div>
 
 
 
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
 
