@@ -382,17 +382,15 @@ div.container {
 
 <hr style="height:1px;border-width:0;color:black;background-color:white">
 
-<div class="container" id="grants">
-	<span style="font-size: 12pt; color:black"><strong>GRANTS</strong></span> <br><br>
+<div class="container" id="talks">
+	<span style="font-size: 12pt; color:black"><strong>INVITED TALKS</strong></span> <br><br>
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
     <br>
 	<div class="b">
-    	<span style="font-size: 11pt; color:black"><strong><i>Core Contributor, Chosun University, South Korea (2023)</i></strong></span> <br>
-        <span style="font-size: 11pt; color:black">A study on perceptual encryption-based privacy preserving deep learning application service technology considering a networking environment in an image communication system</span>  <br>
-        <span style="font-size: 11pt; color:black">(2023.09.01~2027.02.28) | PI: Prof. Seokjoo Shin</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Invited lecturer for Introduction to Transfer Learning, University of the Philippines, Virtual (Jun 2021)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">How to fine-tune pre-trained deep learning color image models for medical image analysis</span>
     </div>
-    
 	
 </div>
 
