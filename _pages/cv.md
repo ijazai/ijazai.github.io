@@ -73,23 +73,23 @@ div.container {
 
     <br>
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Ph.D., Chosun University, South Korea (August 2023)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> A cryptographic approach towards privacy-preserving image data transmission, storage and computation</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Ph.D., Chosun University, South Korea (August 2023)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Thesis:</i> A cryptographic approach towards privacy-preserving image data transmission, storage and computation</span>  <br>
+        <span style="font-size: 11pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
     </div>
     
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>M.S., Chosun University, South Korea (August 2018)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Engineering</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> Study of edge detection with color-to-grayscale algorithms</span>  <br>
+    	<span style="font-size: 11pt; color:black"><strong><i>M.S., Chosun University, South Korea (August 2018)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Computer Engineering</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Thesis:</i> Study of edge detection with color-to-grayscale algorithms</span>  <br>
     </div>
     
     
     <div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>B.S., Peshawar University, Pakistan (February 2015)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Computer Science (Honors)</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
+    	<span style="font-size: 11pt; color:black"><strong><i>B.S., Peshawar University, Pakistan (February 2015)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Computer Science (Honors)</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
     </div>
 </div>
 
@@ -100,45 +100,45 @@ div.container {
 
     <br>
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Postdoctoral Researcher, Korea University, South Korea (Jan 2024 to present)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">AI and Mobility Lab</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Topic:</i> Privacy-preserving deep learning</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Joongheon Kim</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Postdoctoral Researcher, Korea University, South Korea (Jan 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">AI and Mobility Lab</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Topic:</i> Privacy-preserving deep learning</span>  <br>
+        <span style="font-size: 11pt; color:black"><i>Mentor:</i> Prof. Joongheon Kim</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Technical Lead, Chosun University, South Korea (Apr 2024 to present)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
-        <span style="font-size: 10pt; color:black">1. Secure content-based image retrieval using perceptual encryption</span> <br>
-        <span style="font-size: 10pt; color:black">2. Data aided image classification using graph neural networks</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Technical Lead, Chosun University, South Korea (Apr 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 11pt; color:black">1. Secure content-based image retrieval using perceptual encryption</span> <br>
+        <span style="font-size: 11pt; color:black">2. Data aided image classification using graph neural networks</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Visiting Researcher, Chosun University, South Korea (Jan 2024 to present)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Topic:</i> Perceptual encryption-based privacy-preserving computation applications</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Visiting Researcher, Chosun University, South Korea (Jan 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Topic:</i> Perceptual encryption-based privacy-preserving computation applications</span>  <br>
+        <span style="font-size: 11pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Project Manager, Chosun University, South Korea (Jan 2021 to Dec 2024)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Responsibilities:</i> Project proposal preparation, yearly progress report, and software installation</span>  <br>
-        <span style="font-size: 10pt; color:black">Acquired high performance computing resources (NIPA, Korea) for consecutive 4 years</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Project Manager, Chosun University, South Korea (Jan 2021 to Dec 2024)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Responsibilities:</i> Project proposal preparation, yearly progress report, and software installation</span>  <br>
+        <span style="font-size: 11pt; color:black">Acquired high performance computing resources (NIPA, Korea) for consecutive 4 years</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2017 to Dec 2023)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Topic:</i> An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving manner</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2017 to Dec 2023)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Topic:</i> An end-to-end image communication system for availing third party owned resources to develop AI-based solutions in privacy-preserving manner</span>  <br>
+        <span style="font-size: 11pt; color:black"><i>Mentor:</i> Prof. Seokjoo Shin</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2016 to Aug 2017)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Three-Dimensional Image Processing Lab</span> <br>
-        <span style="font-size: 10pt; color:black"><i>Topic:</i> Double random phase encoding for image encryption</span>  <br>
-        <span style="font-size: 10pt; color:black"><i>Mentor:</i> Prof. Inkyu Moon</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Research Assistant, Chosun University, South Korea (Sep 2016 to Aug 2017)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Three-Dimensional Image Processing Lab</span> <br>
+        <span style="font-size: 11pt; color:black"><i>Topic:</i> Double random phase encoding for image encryption</span>  <br>
+        <span style="font-size: 11pt; color:black"><i>Mentor:</i> Prof. Inkyu Moon</span>
     </div>
     
 	
@@ -151,19 +151,19 @@ div.container {
 
     <br>
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Graduate Mentor, Chosun University, South Korea (Mar 2024 to present)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Wireless Communication and Networking Lab</span> <br>
-        <span style="font-size: 10pt; color:black">Mentored three Master and one Ph.D. students</span>  <br>
-        <span style="font-size: 10pt; color:black">(1 Journal Paper | 5 International Conference Papers | 3 National Conference Papers)</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Graduate Mentor, Chosun University, South Korea (Mar 2024 to present)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Wireless Communication and Networking Lab</span> <br>
+        <span style="font-size: 11pt; color:black">Mentored three Master and one Ph.D. students</span>  <br>
+        <span style="font-size: 11pt; color:black">(1 Journal Paper | 5 International Conference Papers | 3 National Conference Papers)</span>
     </div>
 	
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Volunteer Advisor, University of the Philippines, The Philippines (Dec 2023 to present)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">Mathematical and Computing Sciences Unit</span> <br>
-        <span style="font-size: 10pt; color:black">Mentored students in research topic selection and provided technical feedback on topics such as:</span> <br>
-        <span style="font-size: 10pt; color:black">1. Privacy-preserving AI mainly focusing on Federated Learning</span> <br>
-		<span style="font-size: 10pt; color:black">2. Medical image processing</span> <br>
-		<span style="font-size: 10pt; color:black">3. Explainable AI</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Volunteer Advisor, University of the Philippines, The Philippines (Dec 2023 to present)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">Mathematical and Computing Sciences Unit</span> <br>
+        <span style="font-size: 11pt; color:black">Mentored students in research topic selection and provided technical feedback on topics such as:</span> <br>
+        <span style="font-size: 11pt; color:black">1. Privacy-preserving AI mainly focusing on Federated Learning</span> <br>
+		<span style="font-size: 11pt; color:black">2. Medical image processing</span> <br>
+		<span style="font-size: 11pt; color:black">3. Explainable AI</span>
     </div>
     
 	
@@ -176,9 +176,9 @@ div.container {
 
     <br>
 	<div class="b">
-    	<span style="font-size: 10pt; color:black"><strong><i>Core Contributor, Chosun University, South Korea (2023)</i></strong></span> <br>
-        <span style="font-size: 10pt; color:black">A study on perceptual encryption-based privacy preserving deep learning application service technology considering a networking environment in an image communication system</span>  <br>
-        <span style="font-size: 10pt; color:black">(2023.09.01~2027.02.28) | PI: Prof. Seokjoo Shin</span>
+    	<span style="font-size: 11pt; color:black"><strong><i>Core Contributor, Chosun University, South Korea (2023)</i></strong></span> <br>
+        <span style="font-size: 11pt; color:black">A study on perceptual encryption-based privacy preserving deep learning application service technology considering a networking environment in an image communication system</span>  <br>
+        <span style="font-size: 11pt; color:black">(2023.09.01~2027.02.28) | PI: Prof. Seokjoo Shin</span>
     </div>
     
 	
@@ -194,24 +194,24 @@ div.container {
 	<div class="b">
     	
 	<ul>
-		<li><span style="font-size: 10pt; color:black"> Image Processing, Computer Vision, Image Compression, and Image Encryption
+		<li><span style="font-size: 11pt; color:black"> Image Processing, Computer Vision, Image Compression, and Image Encryption
 			<ul>
-				<li><span style="font-size: 10pt; color:black"> Foundational Algorithms; Image Quality Assessment; Lossless and Lossy Compression; Number Theory, Chaos Theory and Perceptual Encryption</span></li> 
+				<li><span style="font-size: 11pt; color:black"> Foundational Algorithms; Image Quality Assessment; Lossless and Lossy Compression; Number Theory, Chaos Theory and Perceptual Encryption</span></li> 
 			</ul>
 		</span></li>
-		<li><span style="font-size: 10pt; color:black"> Deep Learning and Machine Learning 
+		<li><span style="font-size: 11pt; color:black"> Deep Learning and Machine Learning 
 			<ul>
-				<li><span style="font-size: 10pt; color:black"> Algorithms: Supervised and Unsupervised Learning, Transfer Learning, and Privacy-Preserving AI</span></li> 
-				<li><span style="font-size: 10pt; color:black"> Applications: Natural and Medical Image Analysis</span></li>
+				<li><span style="font-size: 11pt; color:black"> Algorithms: Supervised and Unsupervised Learning, Transfer Learning, and Privacy-Preserving AI</span></li> 
+				<li><span style="font-size: 11pt; color:black"> Applications: Natural and Medical Image Analysis</span></li>
 			</ul>
 		</span></li>
-		<li><span style="font-size: 10pt; color:black"> Programming Languages
+		<li><span style="font-size: 11pt; color:black"> Programming Languages
 			<ul>
-				<li><span style="font-size: 10pt; color:black"> MATLAB, Python, Tensorflow, Keras </span></li> 
-				<li><span style="font-size: 10pt; color:black"> Familiar with: C, C++, and Java </span></li>
+				<li><span style="font-size: 11pt; color:black"> MATLAB, Python, Tensorflow, Keras </span></li> 
+				<li><span style="font-size: 11pt; color:black"> Familiar with: C, C++, and Java </span></li>
 			</ul>
 		</span></li>
-		<li><span style="font-size: 10pt; color:black"> Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
+		<li><span style="font-size: 11pt; color:black"> Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
 	</ul>
 		
     </div>	
@@ -224,7 +224,7 @@ div.container {
 
     <br>
 	<div class="b">
-	<h2><span style="font-size: 11pt">Journals</span></h2>
+	<h2><span style="font-size: 11pt; color:black">Journals</span></h2>
 
 	<ul  align="justify">
 
