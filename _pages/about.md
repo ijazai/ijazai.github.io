@@ -25,7 +25,7 @@ redirect_from:
 
 	<br><br>
 	<b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, and Image Communication</i>.
-	</li>
+	</span></li>
 </ul>
 
 
