@@ -96,7 +96,7 @@ div.container {
     
     
     <div class="b">
-    	<span style="font-size: 11pt; color:black"><strong><i>B.S., Peshawar University, Pakistan (February 2015)</i></strong></span> <br>
+    	<span style="font-size: 11pt; color:black"><strong><i>B.S., University of Peshawar, Pakistan (February 2015)</i></strong></span> <br>
         <span style="font-size: 11pt; color:black">Computer Science (Honors)</span> <br>
         <span style="font-size: 11pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
     </div>
@@ -223,7 +223,7 @@ div.container {
 				<li><span style="font-size: 11pt; color:black"> Familiar with: C, C++, and Java </span></li>
 			</ul>
 		</span></li>
-		<li><span style="font-size: 11pt; color:black"> Communication, Presentation, Project Management, Team Leading, and Collaboration Skills</span></li>
+		<li><span style="font-size: 11pt; color:black"> Communication, Presentation, Project Management, Team Leading, Mentoring, and Collaboration Skills</span></li>
 	</ul>
 		
     </div>	
@@ -231,7 +231,7 @@ div.container {
 
 <hr style="height:1px;border-width:0;color:black;background-color:white">
 
-<div class="container" id="publications">
+<div class="container" id="articles">
 	<span style="font-size: 12pt; color:black"><strong>PUBLICATIONS, PRESENTATIONS, & PATENTS</strong></span> <br><br>
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
@@ -241,15 +241,15 @@ div.container {
 
 		<ul  align="justify">
 
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Under review) <sup>*</sup>Equal contribution </span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Submitted) <sup>*</sup>Equal contribution </span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online)</span></span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in KICS J-KICS,  2024</span></span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in KICS J-KICS,  2024</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods-Compression and Encryption Perspectives", in MDPI Sensors,  2023. (invited) </span></li>
 			
