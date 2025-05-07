@@ -9,7 +9,7 @@ author_profile: true
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="color:#A6003A">Elsevier Expert Systems with Applications. (Under review) </span> <sup>*</sup>Equal contribution </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="color:#A6003A">Elsevier Expert Systems with Applications. (Submitted) </span> <sup>*</sup>Equal contribution </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in <span style="color:#A6003A">IEEE Transactions on Multimedia. (Under review)</span></span></li>
 	
