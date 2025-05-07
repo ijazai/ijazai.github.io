@@ -7,23 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="justify">
-I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences.
 
-<br><br>
-Currently, I am a postdoctoral researcher at Korea Univ., AI and Mobility (<a href="https://sites.google.com/view/aimlab-kuee/home?authuser=0" target="_blank" style="color:#64B2CB">AIM</a>) Lab under the supervision of <a href="https://sites.google.com/view/aimlab-kuee/members/joongheonkim?authuser=0" target="_blank" style="color:#64B2CB">Prof. Joongheon Kim</a>. I have received M.S. (2018) and Ph.D. (2023) degrees in computer engineering from Chosun Univ., Korea under the supervision of <a href="https://sites.google.com/view/whynet-lab/members?authuser=0" target="_blank" style="color:#64B2CB">Prof. Seokjoo Shin</a>. 
+<ul  align="justify" style="list-style-type:none;">
 
-Beside a postdoc, I am a visiting researcher at Chosun Univ., where I am a part of Wireless Communication and Networking (<a href="https://sites.google.com/view/whynet-lab/home?authuser=0" target="_blank" style="color:#64B2CB">WHYNET LAB</a>) research group.
+	<li><span style="font-size: 11pt; color:black"> I am a researcher with substantial experience in designing and implementing AI-based computer vision solutions for a wide range of applications. Throughout the years, I have developed capabilities to undertake research from conception to write-up and disseminate my findings in journals and conferences. My work has received recognition awards in national and international conferences.
 
-<br><br>
-My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain.
+	<br><br>
+	Currently, I am a postdoctoral researcher at Korea Univ., AI and Mobility (<a href="https://sites.google.com/view/aimlab-kuee/home?authuser=0" target="_blank" style="color:#64B2CB">AIM</a>) Lab under the supervision of <a href="https://sites.google.com/view/aimlab-kuee/members/joongheonkim?authuser=0" target="_blank" style="color:#64B2CB">Prof. Joongheon Kim</a>. I have received M.S. (2018) and Ph.D. (2023) degrees in computer engineering from Chosun Univ., Korea under the supervision of <a href="https://sites.google.com/view/whynet-lab/members?authuser=0" target="_blank" style="color:#64B2CB">Prof. Seokjoo Shin</a>. 
 
-<br><br>
-The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
+	Beside a postdoc, I am a visiting researcher at Chosun Univ., where I am a part of Wireless Communication and Networking (<a href="https://sites.google.com/view/whynet-lab/home?authuser=0" target="_blank" style="color:#64B2CB">WHYNET LAB</a>) research group.
 
-<br><br>
-<b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, and Image Communication</i>.
-</p>
+	<br><br>
+	My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain.
+
+	<br><br>
+	The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
+
+	<br><br>
+	<b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, and Image Communication</i>.
+	</li>
+</ul>
 
 
 
@@ -32,7 +35,7 @@ The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">Elsevier Expert Systems with Applications, (Under review)</span> <sup>*</sup>Equal contribution </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">Elsevier Expert Systems with Applications, (Submitted)</span> <sup>*</sup>Equal contribution </span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Multimedia. (Under review)</span></span></li>
 	
