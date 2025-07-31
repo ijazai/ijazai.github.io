@@ -35,11 +35,16 @@ redirect_from:
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">Elsevier Expert Systems with Applications, (Submitted)</span> <sup>*</sup>Equal contribution </span></li>
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Comprehensive Analysis of CNN-based Models for SNR Estimation", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Multimedia. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
+	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Journal on Selected Areas in Communications. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal, 2025. (Online)</span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
+	
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, (Major Revision)</span> <sup>*</sup>Equal contribution </span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal, 2025.</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in <span style="font-size: 11pt; color:#A6003A">MDPI Electronics, 2025.</span></span></li>
 		
@@ -49,15 +54,15 @@ redirect_from:
 <p>[<span style="font-size: 11pt; color:#003AA6"> International</span> | <span style="font-size: 11pt; color:#3AA600">National </span>]</p>
 
 <ul  align="justify" style="list-style-type:none;">
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Accepted)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. (Under review)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. </span> </span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:#003AA6">IEEE DSN, 2025. (Accepted)</span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:#003AA6">IEEE DSN, 2025.</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025.</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025. (Accepted) </span></span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025.</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">I.I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2025.</span> </span></li>
 	
