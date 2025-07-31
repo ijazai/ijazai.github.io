@@ -40,7 +40,8 @@ redirect_from:
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
 	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Journal on Selected Areas in Communications. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
+    for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, (Major Revision)</span> <sup>*</sup>Equal contribution </span></li>
 	
