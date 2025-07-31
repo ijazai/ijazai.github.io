@@ -240,12 +240,22 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">Journals</span></h2>
 
 		<ul  align="justify">
-
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in Elsevier Expert Systems with Applications. (Submitted) <sup>*</sup>Equal contribution </span></li>
+		
+		
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Comprehensive Analysis of CNN-based Models for SNR Estimation", in  IEEE Access. (Under review)</li>
+	
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
+			Framework for Internet of Multimedia Things (IoMT) Applications", in IEEE Journal on Selected Areas in Communications. (Under review)</li>
 			
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
+			for IoMT Applications using 2D Chaos", in IEEE Internet of Things Journal. (Under review)</li>
+			
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in IEEE Transactions on Dependable and Secure Computing, (Major Revision) <sup>*</sup>Equal contribution </span></li>
+	
+
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)</span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025. (Online)</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025.</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025</span></li>
 			
@@ -270,11 +280,11 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">International Conferences</span></h2>
 
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," IEICE NOLTA, 2025. (Under review)</span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," IEICE NOLTA, 2025. (Accepted)</span></li>
 			
-			<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation", IEEE ICUFN, 2025. (Under review) </span></li>
+			<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation", IEEE ICUFN, 2025. </span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," IEEE DSN, 2025. (Accepted)</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," IEEE DSN, 2025. </span></li>
 			
 			<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," IEEE ICAIIC, 2025. </span></li>
 			
