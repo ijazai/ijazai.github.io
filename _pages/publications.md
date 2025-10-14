@@ -23,7 +23,6 @@ author_profile: true
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in <span style="color:#A6003A">MDPI Electronics, 2025</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in <span style="color:#A6003A">KICS J-KICS,  2024</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, W. Choi and S. Shin, "Comprehensive Analysis of Compressible Perceptual Encryption Methods-Compression and Encryption Perspectives", in <span style="color:#A6003A">MDPI Sensors,  2023. (invited) </span></span></li>
 	
@@ -32,6 +31,9 @@ author_profile: true
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "A Perceptual Encryption-Based Image Communication System for Deep Learning-Based Tuberculosis Diagnosis Using Healthcare Cloud Services", in <span style="color:#A6003A">MDPI Electronics, 2022 </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", in <span style="color:#A6003A">Elsevier Signal Processing: Image Communication, 2021 </span></span></li>
+	
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in <span style="color:#A6003A">KICS J-KICS,  2024</span></span></li>
 		
 
 </ul>
