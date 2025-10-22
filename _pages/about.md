@@ -35,7 +35,7 @@ redirect_from:
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, (Accepted)</span> <sup>*</sup>Equal contribution </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution <\strong></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal, 2025.</span></span></li>
 	
@@ -56,11 +56,14 @@ redirect_from:
 
 <ul  align="justify" style="list-style-type:none;">
 	
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2026. (Under review) </span> </span></li>
+	
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. (Under review) </span> </span></li>
+	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2025. (Accepted)</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Accepted)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. (Under review) </span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2025.</span></span></li>
 	
