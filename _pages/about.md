@@ -35,7 +35,7 @@ redirect_from:
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution <\strong></span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution </strong></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal, 2025.</span></span></li>
 	
