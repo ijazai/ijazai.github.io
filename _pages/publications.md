@@ -45,9 +45,10 @@ author_profile: true
 
 <ul  align="justify">
 
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2026. (Under review) </span> </span></li>
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. (Under review) </span> </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2025. (Accepted)</span> </span></li>
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025. (Accepted)</span></span></li>
-	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. (Under review) </span> </span></li>
 	<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="color:#003AA6">IEEE ICUFN, 2025. </span> </span></li>
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="color:#003AA6">IEEE DSN, 2025. </span> </span></li>
 	<li><span style="font-size: 11pt; color:black">I. I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="color:#003AA6">IEEE ICAIIC, 2025. </span> </span></li>
