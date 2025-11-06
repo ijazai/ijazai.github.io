@@ -32,6 +32,9 @@ author_profile: true
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "A Novel Hybrid Image Encryption–Compression Scheme by Combining Chaos Theory and Number Theory", in <span style="color:#A6003A">Elsevier Signal Processing: Image Communication, 2021 </span></span></li>
 	
+	<hr style="border: none; border-top: 1px dashed #708E99; margin: 1.5rem 0;">
+	
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, "Perceptual Encryption-based Secure Image Retrieval Scheme with Feature Fusion Descriptor", in <span style="font-size: 11pt; color:#A6003A">KINGPC J-KINGPC, 2025. </span>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Sub-Block-Based Compressible Perceptual Encryption Algorithm with Chroma Subsampling", in <span style="color:#A6003A">KICS J-KICS,  2024</span></span></li>
 		
