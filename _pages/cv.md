@@ -422,6 +422,15 @@ div.container {
     <br>
 	<div class="b">
 		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black"><strong> NOLTA Student Paper Award (2025)</strong> - <i>IEICE NOLTA Conference</i> <br>
+			“Chaos-Based Searchable Encryption Scheme for Secure Medical Image Retrieval Using Edge Histogram Descriptor”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong> KICS Excellent Paper Award (2025)</strong> - <i>KICS Korea AI Conference</i> <br>
+			“EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications.”</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong> KINGPC Best Paper Award (2025)</strong> - <i>KINGPC Spring Conference</i> <br>
+			“Perceptual Encryption-based Secure Image Retrieval using Color Edge Directivity Descriptor”</span></li>
+			
 			<li><span style="font-size: 11pt; color:black"><strong> KICS Excellent Paper Award (2024)</strong> - <i>KICS Korea AI Conference</i> <br>
 			“Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications.”</span></li>
 			
