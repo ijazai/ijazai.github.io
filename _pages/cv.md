@@ -278,15 +278,15 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">International Conferences</span></h2>
 
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2026. (Accepted)</span> </span></li>
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," IEEE ICAIIC, 2026. </span></li>
 	
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2026. (Accepted) </span> </span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” IEEE ICOIN, 2026. (Accepted) </span></li>
 			
-			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. </span> </span></li>
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” KINGPC ICNGC, 2025. </span></li>
 			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2025.</span> </span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," IEEE ICTC, 2025.</span></li>
 			
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025.</span></span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor,"IEICE NOLTA, 2025.</span></li>
 			
 			<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation", IEEE ICUFN, 2025. </span></li>
 			
@@ -347,7 +347,7 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">National Conferences</span></h2>
 		
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2025.</span></span></li>
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, KICS KoreaAI, 2025.</span></li>
 		
 			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. </span></li>
 			
