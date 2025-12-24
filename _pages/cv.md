@@ -96,7 +96,7 @@ div.container {
     
     
     <div class="b">
-    	<span style="font-size: 11pt; color:black"><strong><i>B.S., University of Peshawar, Pakistan (February 2015)</i></strong></span> <br>
+    	<span style="font-size: 11pt; color:black"><strong><i>B.S., Pakistan (February 2015)</i></strong></span> <br>
         <span style="font-size: 11pt; color:black">Computer Science (Honors)</span> <br>
         <span style="font-size: 11pt; color:black"><i>Thesis:</i> Robot cognition</span>  <br>
     </div>
@@ -240,19 +240,19 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">Journals</span></h2>
 
 		<ul  align="justify">		
-			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Comprehensive Analysis of CNN-based Models for SNR Estimation", in  IEEE Access. (Under review)</span></li>
 	
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> et al., "Annonymized", in <span style="font-size: 11pt; color:#A6003A">IEEE Computational Intelligence Magazine. (Under review)</span></span></li>
+			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
-			Framework for Internet of Multimedia Things (IoMT) Applications", in IEEE Journal on Selected Areas in Communications. (Under review)</span></li>
+			Framework for Internet of Multimedia Things (IoMT) Applications", in IEEE Internet of Things Journal. (Under review)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
-			for IoMT Applications using 2D Chaos", in IEEE Internet of Things Journal. (Under review)</span></li>
+			for IoMT Applications using 2D Chaos", in IEEE Internet of Things Journal. (Major Revision)</span></li>
 			
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in IEEE Transactions on Dependable and Secure Computing, (Major Revision) <sup>*</sup>Equal contribution </span></li>
-	
-
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "A Privacy-Preserving Scheme using 2D Chaos for Medical Image Analysis and Archiving", in IEEE Transactions on Multimedia. (Under review)</span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in IEEE Transactions on Dependable and Secure Computing, 2025. <sup>*</sup>Equal contribution </span></li>
 			
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Comprehensive Analysis of CNN-based Models for SNR Estimation", in  IEEE Access, 2025</span></li>
+				
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Uncertainty Calibration using Perceptual Encryption in Cloud-Edge Collaborative Artificial Intelligence of Things", in IEEE Internet of Things Journal, 2025.</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in MDPI Electronics, 2025</span></li>
@@ -278,7 +278,15 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">International Conferences</span></h2>
 
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," IEICE NOLTA, 2025. (Accepted)</span></li>
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2026. (Accepted)</span> </span></li>
+	
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2026. (Accepted) </span> </span></li>
+			
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. </span> </span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2025.</span> </span></li>
+			
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, " Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2025.</span></span></li>
 			
 			<li><span style="font-size: 11pt; color:black">A. A. Mahbub, <strong>I. Ahmad</strong> and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation", IEEE ICUFN, 2025. </span></li>
 			
@@ -338,7 +346,9 @@ div.container {
 	<div class="b">
 		<h2><span style="font-size: 11pt; color:black">National Conferences</span></h2>
 		
-		<ul  align="justify">	
+		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2025.</span></span></li>
+		
 			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. </span></li>
 			
 			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, KINGPC Spring Conference, 2025. </span></li>
@@ -525,7 +535,6 @@ div.container {
     	<li><span style="font-size: 11pt; color:black">English (Full professional proficiency)</span></li>
 		<li><span style="font-size: 11pt; color:black">Korean (Elementary proficiency)</span></li>
 		<li><span style="font-size: 11pt; color:black">Urdu (Native or bilingual proficiency)</span></li>
-		<li><span style="font-size: 11pt; color:black">Pashto (Native or bilingual proficiency)</span></li>
     </div>
 	
 </div>
