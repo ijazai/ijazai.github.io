@@ -11,11 +11,13 @@ author_profile: true
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> et al., "Annonymized", in <span style="font-size: 11pt; color:#A6003A">IEEE Computational Intelligence Magazine. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
-	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review) </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
-    for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Major revision)</span></span></li>
+    for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing. (Revision Submitted)</span></span></li>
+	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
+	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution </strong></span></li>
 	
