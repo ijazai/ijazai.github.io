@@ -242,12 +242,14 @@ div.container {
 		<ul  align="justify">		
 	
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> et al., "Annonymized", in IEEE Computational Intelligence Magazine. (Under review)</span></li>
+	
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in IEEE Internet of Things Journal. (Under review)</span></li>
+			
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
+			for IoMT Applications using 2D Chaos", in IEEE Transactions on Mobile Computing. (Revision Submitted)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
 			Framework for Internet of Multimedia Things (IoMT) Applications", in IEEE Internet of Things Journal. (Under review)</span></li>
-			
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
-			for IoMT Applications using 2D Chaos", in IEEE Internet of Things Journal. (Major Revision)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in IEEE Transactions on Dependable and Secure Computing, 2025. <strong><sup>*</sup>Equal contribution</strong> </span></li>
 			
@@ -278,9 +280,13 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">International Conferences</span></h2>
 
 		<ul  align="justify">
-			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," IEEE ICAIIC, 2026. </span></li>
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” APSIPA ASC, 2026. (Submitted)</span></li>
 	
-			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” IEEE ICOIN, 2026. (Accepted) </span></li>
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," IEEE ICUFN, 2026. (Accepted)</span></li>
+						
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," IEEE ICAIIC, 2026.</span></li>
+	
+			<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” IEEE ICOIN, 2026.</span></li>
 			
 			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” KINGPC ICNGC, 2025. </span></li>
 			
@@ -347,6 +353,8 @@ div.container {
 		<h2><span style="font-size: 11pt; color:black">National Conferences</span></h2>
 		
 		<ul  align="justify">
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong> and S. Shin, “Low-Rank Model Compression for Energy-Efficient Deep Learning–based SNR Estimation”, KINGPC Spring Conference, 2026.</span></li>
+			
 			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, KICS KoreaAI, 2025.</span></li>
 		
 			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, KINGPC Spring Conference, 2025. </span></li>
