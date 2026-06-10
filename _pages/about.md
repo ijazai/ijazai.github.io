@@ -20,10 +20,10 @@ redirect_from:
 	My research interests are in privacy preservation during data transmission – <i>in transit</i>, data storage – <i>at rest</i>, and computation – <i>in use</i>. The scope of my research spans across multiple fields, from image encryption to computer vision, including Machine Learning (ML) in the image analysis domain.
 
 	<br><br>
-	The topic of my ongoing research is <i> Privacy-Preserving Deep Learning.</i>.
+	The topic of my ongoing research is <i> Secure Computing.</i>.
 
 	<br><br>
-	<b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, and Image Communication</i>.
+	<b>Keywords:</b> <i>Privacy-Preserving Deep Learning, Image Compression, Image Encryption, Image Communication, Image Retrieval, and Federated Learning</i>.
 	</span></li>
 </ul>
 
@@ -34,7 +34,7 @@ redirect_from:
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 	
-	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> et al., "Annonymized", in <span style="font-size: 11pt; color:#A6003A">IEEE Computational Intelligence Magazine. (Under review)</span></span></li>
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Secure MedViT: A Robust Privacy-Preserving Framework for Medical Image Analysis via Perceptual Encryption and Vision Transformers", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing. (Under review)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review) </span></span></li>
 	
@@ -42,7 +42,7 @@ redirect_from:
     for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing. (Revision Submitted)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
-	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review)</span></span></li>
+	Framework for Internet of Multimedia Things (IoMT) Applications", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Revision submitted)</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution </strong></span></li>
 	
