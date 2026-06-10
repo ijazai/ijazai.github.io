@@ -241,7 +241,7 @@ div.container {
 
 		<ul  align="justify">		
 	
-			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> et al., "Annonymized", in IEEE Computational Intelligence Magazine. (Under review)</span></li>
+			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Secure MedViT: A Robust Privacy-Preserving Framework for Medical Image Analysis via Perceptual Encryption and Vision Transformers", in IEEE Transactions on Dependable and Secure Computing. (Under review)</span></li>
 	
 			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in IEEE Internet of Things Journal. (Under review)</span></li>
 			
