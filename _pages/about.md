@@ -34,9 +34,11 @@ redirect_from:
 <h3>Journals</h3>
 <ul  align="justify" style="list-style-type:none;">
 	
+	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "On the Security of Permutation-under-Point-wise Transformation Image Encryption Schemes", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Information Forensics and Security. (Under review)</span></span></li>
+	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Secure MedViT: A Robust Privacy-Preserving Framework for Medical Image Analysis via Perceptual Encryption and Vision Transformers", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing. (Under review)</span></span></li>
 	
-	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in <span style="font-size: 11pt; color:#A6003A">IEEE Internet of Things Journal. (Under review) </span></span></li>
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review) </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
     for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing. (Revision Submitted)</span></span></li>
