@@ -275,25 +275,73 @@ author_profile: true
         </details>
     </div>
 
-    <!-- Mentee Card 2: Placeholder for your next mentee -->
-    <div class="mentee-card">
-        <div class="mentee-header">
-            <div class="mentee-meta">
-                <h3>Mentee Name</h3>
-                <p class="institution">Institution / Department Name</p>
-                <div class="timeline-badges">
-                    <span class="badge active">Active Role (Dates)</span>
-                </div>
-            </div>
-        </div>
-        <details class="mentee-details">
-            <summary class="toggle-btn">
-                <span class="btn-text-show">✨ View Details</span>
-                <span class="btn-text-hide">✨ Hide Details</span>
-            </summary>
-            <div class="mentee-body">
-                <p>Details go here...</p>
-            </div>
-        </details>
-    </div>
+    
+	<!-- Mentee Card 2: Ghazal Saadloonia -->
+	<div class="mentee-card">
+		<div class="mentee-header">
+			<div class="mentee-meta">
+				<h3>Ghazal Saadloonia</h3>
+				<p class="institution">Department of Computer Engineering, Chosun University</p>
+				<div class="timeline-badges">
+					<span class="badge active">Ph.D. Candidate (2026 — Present)</span>
+					<span class="badge alumni">M.S. Alumnus (2025 — 2026)</span>
+				</div>
+			</div>
+		</div>
+
+		<!-- HTML-Native Dropdown Component -->
+		<details class="mentee-details">
+			<summary class="toggle-btn">
+				<span class="btn-text-show">✨ View Full Research, Awards & Testimonial</span>
+				<span class="btn-text-hide">✨ Hide Details</span>
+			</summary>
+			
+			<div class="mentee-body">
+				<!-- Master's Thesis -->
+				<div class="research-focus">
+					<h4>Master's Thesis</h4>
+					<p class="thesis-title">"Efficient Deep Learning-Based Feature Extraction for Image Retrieval Applications"</p>
+				</div>
+
+				<!-- Awards Section -->
+				<div class="mentee-awards">
+					<h4>🏆 Awards & Recognition</h4>
+					<ul>
+						<li><strong>KICS Excellent Paper Award (2025)</strong> – KICS Korea AI Conference</li>
+					</ul>
+				</div>
+
+				<!-- Publications -->
+				<div class="mentee-publications">
+					<h4>📚 Joint Publications</h4>
+					
+					<h5 class="pub-subheading">International Journals</h5>
+					<ul class="pub-list">
+						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks." <em>IEEE Access</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
+					</ul>
+
+					<h5 class="pub-subheading">International Conferences</h5>
+					<ul class="pub-list">
+						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications." <em>IEEE ICAIIC</em>, 2026.</li>
+					</ul>
+
+					<h5 class="pub-subheading">Domestic Conferences (Korea)</h5>
+					<ul class="pub-list">
+						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications." <em>KICS KoreaAI</em>, 2025.</li>
+						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Device Heterogeneity Challenges and Solutions in Federated Learning." <em>KINGPC Spring Conference</em>, 2025.</li>
+					</ul>
+				</div>
+
+				<!-- Testimonial -->
+				<div class="mentee-testimonial">
+					<span class="quote-icon">“</span>
+					<p class="quote-text">
+						I would like to express my profound gratitude to Dr. Ijaz Ahmad—the one who enlightened my young mind. He has been a mentor, teacher, guide, inspiration, supporter, and above all, a true friend... Learning from him felt like a real-life application of transfer learning, I had the privilege of learning from a remarkable researcher trained on an exceptionally large dataset of knowledge and experience... Among the many advice he gave me, one remains deeply engraved in my mind: “Once you are good at research, you will be good at many other things, because the way you do one thing determines the way you do other things.”
+					</p>
+					<p class="quote-source">— Excerpt from M.S. Thesis Acknowledgements</p>
+				</div>
+			</div>
+		</details>
+	</div>
+
 </section>
