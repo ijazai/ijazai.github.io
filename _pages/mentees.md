@@ -408,11 +408,11 @@ author_profile: true
 	<div class="mentee-card">
 		<div class="mentee-header">
 			<div class="mentee-meta">
-				<h3>Abdullah Al Mahbub</h3>
 				<div class="name-row">
-				<a href="https://scholar.google.com/citations?user=g4loMOYAAAAJ&hl=en" target="_blank" class="scholar-link" title="Google Scholar Profile">
+					<h3>Abdullah Al Mahbub</h3>
+					<a href="https://scholar.google.com/citations?user=g4loMOYAAAAJ&hl=en" target="_blank" class="scholar-link" title="Google Scholar Profile">
                         <svg class="scholar-icon" viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2zm0 4l7.5 13h-15L12 6z"/></svg> Scholar
-                </a>
+					</a>
 				</div>
 				<p class="institution">Department of Computer Engineering, Chosun University</p>
 				<div class="timeline-badges">
