@@ -192,29 +192,94 @@ author_profile: true
     to { opacity: 1; transform: translateY(0); }
 }
 
+
+/* Align Name and Scholar Link side-by-side */
+.name-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 6px;
+}
+
+.name-row h3 {
+    margin: 0 !important;
+}
+
+/* Scholar Link Button styling */
+.scholar-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.85rem;
+    color: #4a5568;
+    text-decoration: none;
+    padding: 2px 8px;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    background: #f8fafc;
+    transition: all 0.2s ease;
+}
+
+.scholar-link:hover {
+    color: #0366d6;
+    border-color: #0366d6;
+    background: #e2f0fe;
+}
+
+.scholar-icon {
+    width: 14px;
+    height: 14px;
+    fill: currentColor;
+}
+
+/* Research Interest Specific Badges */
+.badge.tag-security {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.badge.tag-vision {
+    background-color: #e1f5fe;
+    color: #01579b;
+}
+
+.badge.tag-comm {
+    background-color: #f3e5f5;
+    color: #4a148c;
+}
+
 </style>
 
 <section id="mentorship" class="mentorship-section">
     <h2>Mentorship & Academic Guidance</h2>
     <p class="philosophy">
-        Guiding the next generation of researchers to push boundaries in secure image retrieval, 
-        privacy-preserving machine learning, and computer vision.
+        Guiding the next generation of researchers by advancing core techniques in secure image retrieval and computer vision, 
+        as well as translating deep learning frameworks to solve cross-disciplinary engineering challenges.
     </p>
 
     <!-- Mentee Card 1: Md. Shahriar Uzzal -->
     <div class="mentee-card">
         <div class="mentee-header">
             <div class="mentee-meta">
-                <h3>Md. Shahriar Uzzal</h3>
+                <div class="name-row">
+                    <h3>Md. Shahriar Uzzal</h3>
+                    <!-- Google Scholar Link Anchor -->
+                    <a href="https://google.com" target="_blank" class="scholar-link" title="Google Scholar Profile">
+                        <svg class="scholar-icon" viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2zm0 4l7.5 13h-15L12 6z"/></svg> Scholar
+                    </a>
+                </div>
                 <p class="institution">Department of Computer Engineering, Chosun University</p>
                 <div class="timeline-badges">
                     <span class="badge active">Ph.D. Candidate (2026 — Present)</span>
                     <span class="badge alumni">M.S. Alumnus (2024 — 2026)</span>
+                    <!-- Research Interest Tag -->
+                    <span class="badge tag-security">🔐 Secure Image Retrieval</span>
                 </div>
             </div>
         </div>
 
-        <!-- HTML-Native Dropdown Component -->
         <details class="mentee-details">
             <summary class="toggle-btn">
                 <span class="btn-text-show">✨ View Full Research, Awards & Testimonial</span>
@@ -222,13 +287,11 @@ author_profile: true
             </summary>
             
             <div class="mentee-body">
-                <!-- Master's Thesis -->
                 <div class="research-focus">
                     <h4>Master's Thesis</h4>
                     <p class="thesis-title">"Secure Content-based Image Retrieval with Perceptual Encryption"</p>
                 </div>
 
-                <!-- Awards Section -->
                 <div class="mentee-awards">
                     <h4>🏆 Awards & Recognition</h4>
                     <ul>
@@ -238,10 +301,8 @@ author_profile: true
                     </ul>
                 </div>
 
-                <!-- Publications -->
                 <div class="mentee-publications">
                     <h4>📚 Joint Publications</h4>
-                    
                     <h5 class="pub-subheading">International Journals</h5>
                     <ul class="pub-list">
                         <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption." <em>IEEE Transactions on Dependable and Secure Computing</em>, 2025.</li>
@@ -263,7 +324,6 @@ author_profile: true
                     </ul>
                 </div>
 
-                <!-- Testimonial -->
                 <div class="mentee-testimonial">
                     <span class="quote-icon">“</span>
                     <p class="quote-text">
@@ -275,74 +335,75 @@ author_profile: true
         </details>
     </div>
 
-    
-	<!-- Mentee Card 2: Ghazal Saadloonia -->
-	<div class="mentee-card">
-		<div class="mentee-header">
-			<div class="mentee-meta">
-				<h3>Ghazal Saadloonia</h3>
-				<p class="institution">Department of Computer Engineering, Chosun University</p>
-				<div class="timeline-badges">
-					<span class="badge active">Ph.D. Candidate (2026 — Present)</span>
-					<span class="badge alumni">M.S. Alumnus (2025 — 2026)</span>
-				</div>
-			</div>
-		</div>
+    <!-- Mentee Card 2: Ghazal Saadloonia -->
+    <div class="mentee-card">
+        <div class="mentee-header">
+            <div class="mentee-meta">
+                <div class="name-row">
+                    <h3>Ghazal Saadloonia</h3>
+                    <a href="https://google.com" target="_blank" class="scholar-link" title="Google Scholar Profile">
+                        <svg class="scholar-icon" viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2zm0 4l7.5 13h-15L12 6z"/></svg> Scholar
+                    </a>
+                </div>
+                <p class="institution">Department of Computer Engineering, Chosun University</p>
+                <div class="timeline-badges">
+                    <span class="badge active">Ph.D. Candidate (2026 — Present)</span>
+                    <span class="badge alumni">M.S. Alumnus (2025 — 2026)</span>
+                    <!-- Research Interest Tag -->
+                    <span class="badge tag-vision">👁️ CV & Efficient Deep Learning</span>
+                </div>
+            </div>
+        </div>
 
-		<!-- HTML-Native Dropdown Component -->
-		<details class="mentee-details">
-			<summary class="toggle-btn">
-				<span class="btn-text-show">✨ View Full Research, Awards & Testimonial</span>
-				<span class="btn-text-hide">✨ Hide Details</span>
-			</summary>
-			
-			<div class="mentee-body">
-				<!-- Master's Thesis -->
-				<div class="research-focus">
-					<h4>Master's Thesis</h4>
-					<p class="thesis-title">"Efficient Deep Learning-Based Feature Extraction for Image Retrieval Applications"</p>
-				</div>
+        <details class="mentee-details">
+            <summary class="toggle-btn">
+                <span class="btn-text-show">✨ View Full Research, Awards & Testimonial</span>
+                <span class="btn-text-hide">✨ Hide Details</span>
+            </summary>
+            
+            <div class="mentee-body">
+                <div class="research-focus">
+                    <h4>Master's Thesis</h4>
+                    <p class="thesis-title">"Efficient Deep Learning-Based Feature Extraction for Image Retrieval Applications"</p>
+                </div>
 
-				<!-- Awards Section -->
-				<div class="mentee-awards">
-					<h4>🏆 Awards & Recognition</h4>
-					<ul>
-						<li><strong>KICS Excellent Paper Award (2025)</strong> – KICS Korea AI Conference</li>
-					</ul>
-				</div>
+                <div class="mentee-awards">
+                    <h4>🏆 Awards & Recognition</h4>
+                    <ul>
+                        <li><strong>KICS Excellent Paper Award (2025)</strong> – KICS Korea AI Conference</li>
+                    </ul>
+                </div>
 
-				<!-- Publications -->
-				<div class="mentee-publications">
-					<h4>📚 Joint Publications</h4>
-					
-					<h5 class="pub-subheading">International Journals</h5>
-					<ul class="pub-list">
-						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks." <em>IEEE Access</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
-					</ul>
+                <div class="mentee-publications">
+                    <h4>📚 Joint Publications</h4>
+                    <h5 class="pub-subheading">International Journals</h5>
+                    <ul class="pub-list">
+                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks." <em>IEEE Access</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
+                    </ul>
 
-					<h5 class="pub-subheading">International Conferences</h5>
-					<ul class="pub-list">
-						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications." <em>IEEE ICAIIC</em>, 2026.</li>
-					</ul>
+                    <h5 class="pub-subheading">International Conferences</h5>
+                    <ul class="pub-list">
+                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications." <em>IEEE ICAIIC</em>, 2026.</li>
+                    </ul>
 
-					<h5 class="pub-subheading">Domestic Conferences (Korea)</h5>
-					<ul class="pub-list">
-						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications." <em>KICS KoreaAI</em>, 2025.</li>
-						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Device Heterogeneity Challenges and Solutions in Federated Learning." <em>KINGPC Spring Conference</em>, 2025.</li>
-					</ul>
-				</div>
+                    <h5 class="pub-subheading">Domestic Conferences (Korea)</h5>
+                    <ul class="pub-list">
+                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications." <em>KICS KoreaAI</em>, 2025.</li>
+                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Device Heterogeneity Challenges and Solutions in Federated Learning." <em>KINGPC Spring Conference</em>, 2025.</li>
+                    </ul>
+                </div>
 
-				<!-- Testimonial -->
-				<div class="mentee-testimonial">
-					<span class="quote-icon">“</span>
-					<p class="quote-text">
-						I would like to express my profound gratitude to Dr. Ijaz Ahmad—the one who enlightened my young mind. He has been a mentor, teacher, guide, inspiration, supporter, and above all, a true friend... Learning from him felt like a real-life application of transfer learning, I had the privilege of learning from a remarkable researcher trained on an exceptionally large dataset of knowledge and experience... Among the many advice he gave me, one remains deeply engraved in my mind: “Once you are good at research, you will be good at many other things, because the way you do one thing determines the way you do other things.”
-					</p>
-					<p class="quote-source">— Excerpt from M.S. Thesis Acknowledgements</p>
-				</div>
-			</div>
-		</details>
-	</div>
+                <div class="mentee-testimonial">
+                    <span class="quote-icon">“</span>
+                    <p class="quote-text">
+                        I would like to express my profound gratitude to Dr. Ijaz Ahmad—the one who enlightened my young mind. He has been a mentor, teacher, guide, inspiration, supporter, and above all, a true friend... Learning from him felt like a real-life application of transfer learning, I had the privilege of learning from a remarkable researcher trained on an exceptionally large dataset of knowledge and experience... Among the many advice he gave me, one remains deeply engraved in my mind: “Once you are good at research, you will be good at many other things, because the way you do one thing determines the way you do other things.”
+                    </p>
+                    <p class="quote-source">— Excerpt from M.S. Thesis Acknowledgements</p>
+                </div>
+            </div>
+        </details>
+    </div>
+
 	<!-- Mentee Card 3: Abdullah Al Mahbub -->
 	<div class="mentee-card">
 		<div class="mentee-header">
