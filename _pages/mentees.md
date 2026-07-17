@@ -417,7 +417,7 @@ author_profile: true
 				<p class="institution">Department of Computer Engineering, Chosun University</p>
 				<div class="timeline-badges">
 					<span class="badge alumni">M.S. Alumnus (2024 — 2026)</span>
-					<span class="badge tag-security">📡 Wireless Comm & Deep Learning </span>
+					<span class="badge tag-comm">📡 Wireless Comm & Deep Learning </span>
 				</div>
 			</div>
 		</div>
