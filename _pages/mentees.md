@@ -343,5 +343,64 @@ author_profile: true
 			</div>
 		</details>
 	</div>
+	<!-- Mentee Card 3: Abdullah Al Mahbub -->
+	<div class="mentee-card">
+		<div class="mentee-header">
+			<div class="mentee-meta">
+				<h3>Abdullah Al Mahbub</h3>
+				<p class="institution">Department of Computer Engineering, Chosun University</p>
+				<div class="timeline-badges">
+					<span class="badge alumni">M.S. Alumnus (2024 — 2026)</span>
+				</div>
+			</div>
+		</div>
+
+		<!-- HTML-Native Dropdown Component -->
+		<details class="mentee-details">
+			<summary class="toggle-btn">
+				<span class="btn-text-show">✨ View Full Research & Awards</span>
+				<span class="btn-text-hide">✨ Hide Details</span>
+			</summary>
+			
+			<div class="mentee-body">
+				<!-- Master's Thesis -->
+				<div class="research-focus">
+					<h4>Master's Thesis</h4>
+					<p class="thesis-title">"Comprehensive Analysis of Efficient Deep Learning-Based SNR Estimation for OFDM Systems"</p>
+				</div>
+
+				<!-- Awards Section -->
+				<div class="mentee-awards">
+					<h4>🏆 Awards & Recognition</h4>
+					<ul>
+						<li><strong>KINGPC Excellent Paper Award (2025)</strong> – KINGPC ICNGC Conference</li>
+					</ul>
+				</div>
+
+				<!-- Publications -->
+				<div class="mentee-publications">
+					<h4>📚 Joint Publications</h4>
+					
+					<h5 class="pub-subheading">International Journals</h5>
+					<ul class="pub-list">
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Comprehensive Analysis of CNN-based Models for SNR Estimation." <em>IEEE Access</em>, 2025.</li>
+					</ul>
+
+					<h5 class="pub-subheading">International Conferences</h5>
+					<ul class="pub-list">
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation." <em>IEEE ICUFN</em>, 2026.</li>
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "A Lightweight CNN Model for SNR Estimation in OFDM Systems." <em>KINGPC ICNGC</em>, 2025.</li>
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Comparative Analysis of CNN Models for SNR Estimation." <em>IEEE ICUFN</em>, 2025.</li>
+					</ul>
+
+					<h5 class="pub-subheading">Domestic Conferences (Korea)</h5>
+					<ul class="pub-list">
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Low-Rank Model Compression for Energy-Efficient Deep Learning–based SNR Estimation." <em>KINGPC Spring Conference</em>, 2026.</li>
+					</ul>
+				</div>
+			</div>
+		</details>
+	</div>
+
 
 </section>
