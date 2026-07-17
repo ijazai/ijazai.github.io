@@ -24,5 +24,8 @@ main:
   - title: "연구"
     url: /researchkorean/
     
+  - title: "Mentees"
+    url: /mentees/
+    
 #  - title: "Guide"
 #    url: /markdown/
