@@ -145,6 +145,53 @@ author_profile: true
     text-align: right;
 }
 
+/* Hide default summary arrow in all browsers */
+.mentee-details summary {
+    list-style: none;
+}
+.mentee-details summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Styled Dropdown Toggle Button */
+.toggle-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #0366d6;
+    background-color: #f6f8fa;
+    border: 1px solid #d1d5da;
+    border-radius: 6px;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.2s ease;
+}
+
+.toggle-btn:hover {
+    background-color: #f3f4f6;
+    border-color: #0366d6;
+}
+
+/* Magic switch behavior for text when open vs closed */
+.mentee-details[open] .btn-text-show {
+    display: none;
+}
+.mentee-details:not([open]) .btn-text-hide {
+    display: none;
+}
+
+/* Content spacing inside the open drawer */
+.mentee-body {
+    padding-top: 15px;
+    animation: slideDown 0.3s ease-out; /* Smooth entrance */
+}
+
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
 </style>
 
 <section id="mentorship" class="mentorship-section">
@@ -154,7 +201,7 @@ author_profile: true
         privacy-preserving machine learning, and computer vision.
     </p>
 
-    <!-- Mentee Card Start -->
+    <!-- Mentee Card 1: Md. Shahriar Uzzal -->
     <div class="mentee-card">
         <div class="mentee-header">
             <div class="mentee-meta">
@@ -167,57 +214,86 @@ author_profile: true
             </div>
         </div>
 
-        <div class="mentee-body">
-            <!-- Thesis Information -->
-            <div class="research-focus">
-                <h4>Master's Thesis</h4>
-                <p class="thesis-title">"Secure Content-based Image Retrieval with Perceptual Encryption"</p>
+        <!-- HTML-Native Dropdown Component -->
+        <details class="mentee-details">
+            <summary class="toggle-btn">
+                <span class="btn-text-show">✨ View Full Research, Awards & Testimonial</span>
+                <span class="btn-text-hide">✨ Hide Details</span>
+            </summary>
+            
+            <div class="mentee-body">
+                <!-- Master's Thesis -->
+                <div class="research-focus">
+                    <h4>Master's Thesis</h4>
+                    <p class="thesis-title">"Secure Content-based Image Retrieval with Perceptual Encryption"</p>
+                </div>
+
+                <!-- Awards Section -->
+                <div class="mentee-awards">
+                    <h4>🏆 Awards & Recognition</h4>
+                    <ul>
+                        <li><strong>NOLTA Student Paper Award (2025)</strong> – IEICE NOLTA Conference</li>
+                        <li><strong>KINGPC Best Paper Award (2025)</strong> – KINGPC Spring Conference</li>
+                        <li><strong>KICS Excellent Paper Award (2024)</strong> – KICS Korea AI Conference</li>
+                    </ul>
+                </div>
+
+                <!-- Publications -->
+                <div class="mentee-publications">
+                    <h4>📚 Joint Publications</h4>
+                    
+                    <h5 class="pub-subheading">International Journals</h5>
+                    <ul class="pub-list">
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption." <em>IEEE Transactions on Dependable and Secure Computing</em>, 2025.</li>
+                    </ul>
+
+                    <h5 class="pub-subheading">International Conferences</h5>
+                    <ul class="pub-list">
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion." <em>APSIPA ASC</em>, 2026.</li>
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption." <em>IEEE ICOIN</em>, 2026.</li>
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor." <em>IEICE NOLTA</em>, 2025.</li>
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Privacy-Preserving Image Retrieval Application." <em>KINGPC ICNGC</em>, 2024.</li>
+                    </ul>
+
+                    <h5 class="pub-subheading">Domestic Journals & Conferences (Korea)</h5>
+                    <ul class="pub-list">
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Secure Image Retrieval Scheme with Feature Fusion Descriptor." <em>KINGPC J-KINGPC</em>, 2025.</li>
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Secure Image Retrieval using CEDD." <em>KINGPC Spring Conference</em>, 2025.</li>
+                        <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications." <em>KICS KoreaAI</em>, 2024.</li>
+                    </ul>
+                </div>
+
+                <!-- Testimonial -->
+                <div class="mentee-testimonial">
+                    <span class="quote-icon">“</span>
+                    <p class="quote-text">
+                        A special note of appreciation goes to Dr. Ijaz Ahmad... To me, he is more than a mentor, he is a guide, a motivator, and a genuine friend. His advice and constant support led me to achieve several publications and awards during my master's journey... His kindness, humor, and leadership has created an environment where hard work feels meaningful and growth becomes inevitable.
+                    </p>
+                    <p class="quote-source">— Excerpt from M.S. Thesis Acknowledgements</p>
+                </div>
             </div>
+        </details>
+    </div>
 
-            <!-- Awards Section -->
-            <div class="mentee-awards">
-                <h4>🏆 Awards & Recognition</h4>
-                <ul>
-                    <li><strong>NOLTA Student Paper Award (2025)</strong> – IEICE NOLTA Conference</li>
-                    <li><strong>KINGPC Best Paper Award (2025)</strong> – KINGPC Spring Conference</li>
-                    <li><strong>KICS Excellent Paper Award (2024)</strong> – KICS Korea AI Conference</li>
-                </ul>
-            </div>
-
-            <!-- Publications Accordion / List -->
-            <div class="mentee-publications">
-                <h4>📚 Joint Publications</h4>
-                
-                <h5 class="pub-subheading">International Journals</h5>
-                <ul class="pub-list">
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption." <em>IEEE Transactions on Dependable and Secure Computing</em>, 2025.</li>
-                </ul>
-
-                <h5 class="pub-subheading">International Conferences</h5>
-                <ul class="pub-list">
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion." <em>APSIPA ASC</em>, 2026.</li>
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption." <em>IEEE ICOIN</em>, 2026.</li>
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Chaos-based Searchable Encryption Scheme for Secure Medical Image Retrieval using Edge Histogram Descriptor." <em>IEICE NOLTA</em>, 2025.</li>
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Privacy-Preserving Image Retrieval Application." <em>KINGPC ICNGC</em>, 2024.</li>
-                </ul>
-
-                <h5 class="pub-subheading">Domestic Journals & Conferences (Korea)</h5>
-                <ul class="pub-list">
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Secure Image Retrieval Scheme with Feature Fusion Descriptor." <em>KINGPC J-KINGPC</em>, 2025.</li>
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Perceptual Encryption-based Secure Image Retrieval using CEDD." <em>KINGPC Spring Conference</em>, 2025.</li>
-                    <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications." <em>KICS KoreaAI</em>, 2024.</li>
-                </ul>
-            </div>
-
-            <!-- Testimonial / Acknowledgement Box -->
-            <div class="mentee-testimonial">
-                <span class="quote-icon">“</span>
-                <p class="quote-text">
-                    A special note of appreciation goes to Dr. Ijaz Ahmad... To me, he is more than a mentor, he is a guide, a motivator, and a genuine friend. His advice and constant support led me to achieve several publications and awards during my master's journey... His kindness, humor, and leadership has created an environment where hard work feels meaningful and growth becomes inevitable.
-                </p>
-                <p class="quote-source">— Excerpt from M.S. Thesis Acknowledgements</p>
+    <!-- Mentee Card 2: Placeholder for your next mentee -->
+    <div class="mentee-card">
+        <div class="mentee-header">
+            <div class="mentee-meta">
+                <h3>Mentee Name</h3>
+                <p class="institution">Institution / Department Name</p>
+                <div class="timeline-badges">
+                    <span class="badge active">Active Role (Dates)</span>
+                </div>
             </div>
         </div>
+        <details class="mentee-details">
+            <summary class="toggle-btn">
+                <span class="btn-text-show">✨ View Details</span>
+                <span class="btn-text-hide">✨ Hide Details</span>
+            </summary>
+            <div class="mentee-body">
+                <p>Details go here...</p>
+            </div>
+        </details>
     </div>
-    <!-- Mentee Card End -->
 </section>
