@@ -450,6 +450,7 @@ author_profile: true
 					
 					<h5 class="pub-subheading">International Journals</h5>
 					<ul class="pub-list">
+						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Joint Hyperparameter Optimization and Low-Rank Compression of Deep Residual Networks for SNR estimation." <em>IEEE Access</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
 						<li>A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Comprehensive Analysis of CNN-based Models for SNR Estimation." <em>IEEE Access</em>, 2025.</li>
 					</ul>
 
