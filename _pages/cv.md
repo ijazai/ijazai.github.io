@@ -244,14 +244,16 @@ div.container {
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "On the Security of Permutation-under-Point-wise Transformation Image Encryption Schemes", in IEEE Transactions on Information Forensics and Security. (Under review)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Secure MedViT: A Robust Privacy-Preserving Framework for Medical Image Analysis via Perceptual Encryption and Vision Transformers", in IEEE Transactions on Dependable and Secure Computing. (Under review)</span></li>
-	
-			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in IEEE Access. (Under review)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme
 			for IoMT Applications using 2D Chaos", in IEEE Transactions on Mobile Computing. (Revision Submitted)</span></li>
 			
 			<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
 			Framework for Internet of Multimedia Things (IoMT) Applications", in IEEE Internet of Things Journal. (Revision submitted)</span></li>
+			
+			<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Joint Hyperparameter Optimization and Low-Rank Compression of Deep Residual Networks for SNR estimation", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review) </span></span></li>
+	
+			<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin, "Heterogeneity-Aware Federated Learning: A Quantitative Survey on Aggregation Paradigms in Non-IID IoT Networks", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review) </span></span></li>
 			
 			<li><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in IEEE Transactions on Dependable and Secure Computing, 2025. <strong><sup>*</sup>Equal contribution</strong> </span></li>
 			
