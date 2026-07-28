@@ -305,6 +305,8 @@ author_profile: true
                     <h4>📚 Joint Publications</h4>
                     <h5 class="pub-subheading">International Journals</h5>
                     <ul class="pub-list">
+						<li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval." <em>Elsevier Journal of Network and Computer Applications.</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
+						
                         <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption." <em>IEEE Transactions on Dependable and Secure Computing</em>, 2025.</li>
                     </ul>
 
