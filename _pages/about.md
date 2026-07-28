@@ -35,9 +35,13 @@ redirect_from:
 
 <ul align="justify" style="list-style-type:none; padding-left:0;">
     <!-- HIGHLIGHTED: Just Accepted Paper -->
-    <li style="background-color: #fff9db; border-left: 4px solid #f59f00; padding: 10px; margin-bottom: 15px; border-radius: 4px;">
+    <li style="background-color: #fdf2f4; border-left: 4px solid #A6003A; padding: 12px; margin-bottom: 15px; border-radius: 4px;">
+        <!-- Badge on its own line -->
+        <div style="margin-bottom: 6px;">
+            <span style="background-color: #A6003A; color: white; font-weight: bold; font-size: 8.5pt; padding: 2px 8px; border-radius: 3px; letter-spacing: 0.5px;">JUST ACCEPTED</span>
+        </div>
+        <!-- Citation -->
         <span style="font-size: 11pt; color:black">
-            <span style="background-color: #f59f00; color: white; font-weight: bold; font-size: 9pt; padding: 2px 6px; border-radius: 3px; margin-right: 8px; vertical-align: middle;">JUST ACCEPTED</span>
             <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation Framework for Internet of Multimedia Things (IoMT) Applications", in 
             <span style="font-size: 11pt; color:#A6003A; font-weight: bold;">IEEE Internet of Things Journal.</span>
         </span>
@@ -64,6 +68,7 @@ redirect_from:
     
     <li style="margin-bottom: 12px;"><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, M.S. Uzzal, and S. Shin, "Secure Retrieval of Brain Tumor Images Using Perceptual Encryption in Cloud-Assisted Scenario", in <span style="font-size: 11pt; color:#A6003A">MDPI Electronics, 2025.</span></span></li>
 </ul>
+
 
 <h3>Conferences</h3>
 <p>[<span style="font-size: 11pt; color:#003AA6"> International</span> | <span style="font-size: 11pt; color:#3AA600">National </span>]</p>
