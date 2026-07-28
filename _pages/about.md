@@ -79,7 +79,7 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Submitted)</span> </span></li>
 	
-	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026. (Accepted)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026.</span> </span></li>
 	
 	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong> and S. Shin, “Low-Rank Model Compression for Energy-Efficient Deep Learning–based SNR Estimation”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2026.</span></span></li>
@@ -125,7 +125,9 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Chaos Theory-based Learnable Encryption Scheme for Privacy-Preserving Medical Image Analysis," <span style="font-size: 11pt; color:#003AA6">IEICE NOLTA, 2024. </span></span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin. “Perceptual Encryption-based Privacy-Preserving Image Retrieval Application.” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2024. </span></span></li>
+	-->
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "A Searchable Encryption Technique for Secure Color Image Retrieval," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2024.</span> </span></li>
 	
