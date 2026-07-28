@@ -57,14 +57,6 @@ redirect_from:
     <!-- Revision Submitted at the top of this sub-section -->
     <li style="margin-bottom: 12px;">
         <span style="font-size: 11pt; color:black">
-            <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme for IoMT Applications using 2D Chaos", in 
-            <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing.</span> 
-            <strong style="color: #0066cc; font-size: 10pt; margin-left: 5px;">[Revision Submitted]</strong>
-        </span>
-    </li>
-
-    <li style="margin-bottom: 12px;">
-        <span style="font-size: 11pt; color:black">
             <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "On the Security of Permutation-under-Point-wise Transformation Image Encryption Schemes", in 
             <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Information Forensics and Security.</span> 
             <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
@@ -76,6 +68,14 @@ redirect_from:
             <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Secure MedViT: A Robust Privacy-Preserving Framework for Medical Image Analysis via Perceptual Encryption and Vision Transformers", in 
             <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing.</span> 
             <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
+        </span>
+    </li>
+	
+	<li style="margin-bottom: 12px;">
+        <span style="font-size: 11pt; color:black">
+            <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Privacy-Preserving Archiving and Analysis Scheme for IoMT Applications using 2D Chaos", in 
+            <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing.</span> 
+			<span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Revision submitted)</span>
         </span>
     </li>
     
