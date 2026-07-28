@@ -32,6 +32,7 @@ redirect_from:
 <br>
 <h2>Recent</h2>
 <h3>Journals</h3>
+
 <h4>Just out</h4>
 <ul  align="justify" style="list-style-type:none;">
 <li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation
