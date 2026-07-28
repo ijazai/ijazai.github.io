@@ -124,7 +124,7 @@ redirect_from:
 <p>[<span style="font-size: 11pt; color:#003AA6"> International</span> | <span style="font-size: 11pt; color:#3AA600">National </span>]</p>
 -->
 
-<ul  align="justify" style="list-style-type:none;">
+<ul align="justify" style="list-style-type:none; padding-left:0;">
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Submitted)</span> </span></li>
 	
