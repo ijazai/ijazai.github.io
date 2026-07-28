@@ -71,7 +71,9 @@ redirect_from:
 
 
 <h3>Conferences</h3>
+<!--
 <p>[<span style="font-size: 11pt; color:#003AA6"> International</span> | <span style="font-size: 11pt; color:#3AA600">National </span>]</p>
+-->
 
 <ul  align="justify" style="list-style-type:none;">
 	
@@ -79,13 +81,17 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026. (Accepted)</span> </span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong> and S. Shin, “Low-Rank Model Compression for Energy-Efficient Deep Learning–based SNR Estimation”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2026.</span></span></li>
+	-->
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, "Fine-Tuning EfficientNet Feature Extraction for Efficiency in Image Retrieval Applications," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2026.</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “A Fast and Secure Content-based Image Retrieval Scheme using Clustering and Searchable Encryption,” <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2026.</span> </span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “A Lightweight CNN Model for SNR Estimation in OFDM Systems,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2025. </span> </span></li>
+	-->
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Privacy-Preserving Transfer Learning using Learnable Encryption," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2025.</span> </span></li>
 	
@@ -94,13 +100,17 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2025.</span></span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. “Comparative Analysis of CNN Models for SNR Estimation.” <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2025. </span> </span></li>
+	-->
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "Learnable Encryption with a Diffusion Property," <span style="font-size: 11pt; color:#003AA6">IEEE DSN, 2025.</span></span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025.</span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Perceptual Encryption-based Secure Image Retrieval using CEDD”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2025.</span></span></li>
+	-->
 	
 	<li><span style="font-size: 11pt; color:black">I.I. Shovon, <strong>I. Ahmad</strong> and S. Shin, "Segmentation Aided Multiclass Tumor Classification in Ultrasound Images using Graph Neural Network," <span style="font-size: 11pt; color:#003AA6">IEEE ICAIIC, 2025.</span> </span></li>
 	
@@ -117,6 +127,7 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong>, J. Kim and S. Shin, "A Searchable Encryption Technique for Secure Color Image Retrieval," <span style="font-size: 11pt; color:#003AA6">IEEE ICTC, 2024.</span> </span></li>
 	
+	<!--
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Fuzzy Logic-based Feature Fusion Technique for Image Retrieval System”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2024. </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong> and S. Shin, “Edge Histogram Descriptor with DWT Decomposition for Medical Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2024. </span></span></li>
@@ -126,6 +137,7 @@ redirect_from:
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, “Learnable Pixel-Based Encryption for Privacy-Preserving Image Classification”, <span style="font-size: 11pt; color:#3AA600">KICS Winter Conference, 2024. </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black"><strong>I. Ahmad</strong> and S. Shin, "Perceptual Image Encryption: A Communication Perspective," <span style="font-size: 11pt; color:#003AA6">IEEE ICOIN, 2024. </span></span></li>
+	-->
 
 </ul>
 
