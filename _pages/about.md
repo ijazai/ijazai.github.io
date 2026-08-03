@@ -45,6 +45,14 @@ redirect_from:
         <span style="font-size: 11pt; color:black">
             <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "USD2C: UAV-Assisted Secure Data Collection and Computation Framework for Internet of Multimedia Things (IoMT) Applications", in 
             <span style="font-size: 11pt; color:#A6003A; font-weight: bold;">IEEE Internet of Things Journal.</span>
+			<!-- External Link Icon -->
+            <a href="https://ieeexplore.ieee.org/document/11635840" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; vertical-align: middle; margin-left: 4px;" title="Open in IEEE Xplore">
+                <svg xmlns="http://w3.org" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#A6003A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                    <polyline points="15 3 21 3 21 9"></polyline>
+                    <line x1="10" y1="14" x2="21" y2="3"></line>
+                </svg>
+            </a>
         </span>
     </li>
 </ul>
