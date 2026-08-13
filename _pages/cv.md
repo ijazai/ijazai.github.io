@@ -232,7 +232,7 @@ div.container {
 <hr style="height:1px;border-width:0;color:black;background-color:white">
 
 <div class="container" id="articles">
-	<span style="font-size: 12pt; color:black"><strong>PUBLICATIONS, PRESENTATIONS, & PATENTS</strong></span> <br><br>
+	<span style="font-size: 12pt; color:black"><strong>PUBLICATIONS & PRESENTATIONS</strong></span> <br><br>
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
     <br>
