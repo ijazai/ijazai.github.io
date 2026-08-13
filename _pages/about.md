@@ -90,7 +90,7 @@ redirect_from:
     <li style="margin-bottom: 12px;">
         <span style="font-size: 11pt; color:black">
             M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval", in 
-            <span style="font-size: 11pt; color:#A6003A">Elsevier Journal of Network and Computer Applications.</span> 
+            <span style="font-size: 11pt; color:#A6003A">IEEE Access.</span> 
             <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
         </span>
     </li>
@@ -134,7 +134,7 @@ redirect_from:
 
 <ul align="justify" style="list-style-type:none; padding-left:0;">
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Submitted)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Accepted)</span> </span></li>
 	
 	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026.</span> </span></li>
