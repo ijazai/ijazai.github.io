@@ -414,6 +414,7 @@ div.container {
 	</div>
 	
 	<br>
+	<!--
 	<div class="b">
 		<h2><span style="font-size: 11pt; color:black">Patents</span></h2>
 		
@@ -421,6 +422,7 @@ div.container {
 			<li><span style="font-size: 11pt; color:black"> Korean Patent Application No. 10-2021-0174309, “Apparatus and Method for Encrypting and Compressing Image” (filing date 08/12/2021) </span></li>
 		</ul>
 	</div>
+	-->
 
 </div>
 
@@ -440,7 +442,7 @@ div.container {
 		</li>
 		
 		<li>
-			<span style="font-size: 11pt; color:black"><strong>[Invited Lecture]</strong> "Introduction to Transfer Learning: How to fine-tune pre-trained deep learning color image models for medical image analysis,"<i> University of the Philippines,</i> Virtual, June 2021</span>
+			<span style="font-size: 11pt; color:black"><strong>[Invited Lecture]</strong> "Introduction to Transfer Learning: How to fine-tune pre-trained deep learning color image models for medical image analysis,"<i> University of the Philippines,</i> Virtual, June 2021.</span>
 		</li>
 	</ul>
     	
