@@ -305,7 +305,7 @@ author_profile: true
                     <h4>📚 Joint Publications</h4>
                     <h5 class="pub-subheading">International Journals</h5>
                     <ul class="pub-list">
-						<li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval." <em>Elsevier Journal of Network and Computer Applications.</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
+						<li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval." <em>IEEE Access.</em>. <span style="color: #d93f0b; font-weight: 600;">(Under review)</span></li>
 						
                         <li>M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption." <em>IEEE Transactions on Dependable and Secure Computing</em>, 2025.</li>
                     </ul>
@@ -390,7 +390,8 @@ author_profile: true
 
                     <h5 class="pub-subheading">Domestic Conferences (Korea)</h5>
                     <ul class="pub-list">
-                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications." <em>KICS KoreaAI</em>, 2025.</li>
+                        <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Fine-Tuning Deep Learning-Based Feature Extraction for Medical Image Retrieval Under Data Scarcity." <em>ITFE Summer Conference</em>, 2026.</li>
+						<li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications." <em>KICS KoreaAI</em>, 2025.</li>
                         <li>G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. "Device Heterogeneity Challenges and Solutions in Federated Learning." <em>KINGPC Spring Conference</em>, 2025.</li>
                     </ul>
                 </div>
