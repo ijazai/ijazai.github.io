@@ -17,7 +17,7 @@ author_profile: true
     for IoMT Applications using 2D Chaos", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Mobile Computing. (Revision Submitted)</span></span></li>
 	
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval", in <span style="font-size: 11pt; color:#A6003A">Elsevier Journal of Network and Computer Applications. (Under review) </span></span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review) </span></span></li>
 	
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Joint Hyperparameter Optimization and Low-Rank Compression of Deep Residual Networks for SNR estimation", in <span style="font-size: 11pt; color:#A6003A">IEEE Access. (Under review) </span></span></li>
 	
@@ -58,7 +58,7 @@ author_profile: true
 
 <ul  align="justify">
 
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Submitted)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Accepted)</span> </span></li>
 	
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026. (Accepted)</span> </span></li>
 	
@@ -104,6 +104,7 @@ author_profile: true
 <h3><span style="color:#3AA600">National</span></h3>
 
 <ul  align="justify">
+	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Fine-Tuning Deep Learning-Based Feature Extraction for Medical Image Retrieval Under Data Scarcity”, <span style="font-size: 11pt; color:#3AA600">ITFE Summer Conference, 2026.</span></span></li>
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong> and S. Shin, “Low-Rank Model Compression for Energy-Efficient Deep Learning–based SNR Estimation”, <span style="font-size: 11pt; color:#3AA600">KINGPC Spring Conference, 2026.</span></span></li>
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “EfficientNet Models with Dimensionality Reduction for Image Retrieval Applications”, <span style="font-size: 11pt; color:#3AA600">KICS KoreaAI, 2025.</span></span></li>
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong> and S. Shin, “Device Heterogeneity Challenges and Solutions in Federated Learning”, <span style="color:#3AA600">KINGPC Spring Conference, 2025. </span> </span></li>
