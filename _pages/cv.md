@@ -432,6 +432,20 @@ div.container {
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
     <br>
+	
+	<div class="b">
+	<ul>
+		<li>
+			<span style="font-size: 11pt; color:black"><strong>[Invited Talk]</strong>"Recent Trends in Privacy Enhancing Technologies for Visual Artificial Intelligence,"<i>2025 KINGPC Summer Workshop,</i> Jeju, South Korea, August 2025.</span>
+		</li>
+		
+		<li>
+			<span style="font-size: 11pt; color:black"><strong>[Invited Lecture]</strong>"Introduction to Transfer Learning: How to fine-tune pre-trained deep learning color image models for medical image analysis,"<i>University of the Philippines,</i> Virtual, June 2021</span>
+		</li>
+	</ul>
+    	
+    </div>
+	
 	<div class="b">
     	<span style="font-size: 11pt; color:black"><strong><i>Invited lecturer for Introduction to Transfer Learning, University of the Philippines, Virtual (Jun 2021)</i></strong></span> <br>
         <span style="font-size: 11pt; color:black">How to fine-tune pre-trained deep learning color image models for medical image analysis</span>
