@@ -65,6 +65,14 @@ redirect_from:
     <!-- Revision Submitted at the top of this sub-section -->
     <li style="margin-bottom: 12px;">
         <span style="font-size: 11pt; color:black">
+            <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "Resource-Aware Layered Multimodal Privacy Architecture for Secure Embodied IoT Systems", in 
+            <span style="font-size: 11pt; color:#A6003A">IEEE Communications Magazine.</span> 
+            <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
+        </span>
+    </li>
+	
+	<li style="margin-bottom: 12px;">
+        <span style="font-size: 11pt; color:black">
             <strong>I. Ahmad</strong>, J. Kim, and S. Shin, "On the Security of Permutation-under-Point-wise Transformation Image Encryption Schemes", in 
             <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Information Forensics and Security.</span> 
             <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
@@ -87,13 +95,6 @@ redirect_from:
         </span>
     </li>
     
-    <li style="margin-bottom: 12px;">
-        <span style="font-size: 11pt; color:black">
-            M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval", in 
-            <span style="font-size: 11pt; color:#A6003A">Electronics.</span> 
-            <span style="color: #666666; font-size: 10pt; margin-left: 5px;">(Under review)</span>
-        </span>
-    </li>
     
     <li style="margin-bottom: 12px;">
         <span style="font-size: 11pt; color:black">
@@ -117,6 +118,14 @@ redirect_from:
 <!-- ======================================================= -->
 <h4 style="color: #333333; font-size: 12pt; border-bottom: 1px solid #eee; padding-bottom: 4px; margin-top: 25px;">Published Articles</h4>
 <ul align="justify" style="list-style-type:none; padding-left:0;">
+
+	<li style="margin-bottom: 12px;">
+        <span style="font-size: 11pt; color:black">
+            M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin, "Deployment-Oriented Unified Evaluation Framework for Secure Content-based Image Retrieval", in 
+            <span style="font-size: 11pt; color:#A6003A">Electronics, 2026.</span> 
+        </span>
+    </li>
+	
     <li style="margin-bottom: 12px;"><span style="font-size: 11pt; color:black">M.S. Uzzal<sup>*</sup>, <strong>I. Ahmad</strong><sup>*</sup> and S. Shin, "SCBIR-PE: Secure Content-based Image Retrieval with Perceptual Encryption", in <span style="font-size: 11pt; color:#A6003A">IEEE Transactions on Dependable and Secure Computing, 2025. </span> <sup>*</sup><strong>Equal contribution </strong></span></li>
     
     <li style="margin-bottom: 12px;"><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin, "Comprehensive Analysis of CNN-based Models for SNR Estimation", in <span style="font-size: 11pt; color:#A6003A">IEEE Access, 2025. </span></span></li>
