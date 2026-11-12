@@ -147,7 +147,7 @@ redirect_from:
 	
 	<li><span style="font-size: 11pt; color:black">G. Saadloonia, <strong>I. Ahmad</strong>, and S. Shin. “On the Impact of Optimization Objectives and Embedding Dimensionality in Content-Based Medical Image Retrieval,” <span style="font-size: 11pt; color:#003AA6">KINGPC ICNGC, 2026. (Accepted)</span> </span></li>
 	
-	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026. (Accepted)</span> </span></li>
+	<li><span style="font-size: 11pt; color:black">M.S. Uzzal, <strong>I. Ahmad</strong>, and S. Shin. “Chaos Theory-Based Secure Image Retrieval with Fuzzy Color and Texture Feature Fusion,” <span style="font-size: 11pt; color:#003AA6">APSIPA ASC, 2026.</span> </span></li>
 	
 	<!--
 	<li><span style="font-size: 11pt; color:black">A.A. Mahbub, <strong>I. Ahmad</strong>, and S. Shin. "Lightweight CNN Model Design using Bayesian Optimization and Truncated Singular Value Decomposition for SNR Estimation," <span style="font-size: 11pt; color:#003AA6">IEEE ICUFN, 2026.</span> </span></li>
